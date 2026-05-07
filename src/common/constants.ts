@@ -26,7 +26,6 @@ export default {
   author: 'clagon',
   gitHubUserUrl: 'https://github.com/clagon/',
   gitHubRepositoryUrl: 'https://github.com/clagon/tech-blog-rss-feed/',
-  xUserUrl: 'https://x.com/clagon',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
   googleSiteVerification: '',
