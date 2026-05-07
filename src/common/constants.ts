@@ -14,7 +14,7 @@ export default {
   feedDescription:
     'CSS、JavaScript、Web Platform、ブラウザ、UI実装など、フロントエンド開発に関する記事をまとめたRSSフィード',
   feedLanguage: 'ja',
-  feedCopyright: 'Copyright (c) 2021 Kazuki Yamada and contributors',
+  feedCopyright: 'clagon/tech-blog-rss-feed',
   feedGenerator: 'clagon/tech-blog-rss-feed',
   feedUrls: {
     atom: `${siteUrl}feeds/atom.xml`,
