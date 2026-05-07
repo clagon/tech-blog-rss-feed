@@ -1,6 +1,6 @@
 {
-  "name": "tech-blog-rss-feed",
-  "description": "企業のテックブログの更新をまとめたRSSフィードを配信",
+  "name": "frontend-tech-rss-feed",
+  "description": "フロントエンド開発の記事をまとめたRSSフィードを配信",
   "version": "1.0.0",
   "main": "",
   "scripts": {
@@ -22,19 +22,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yamadashy/tech-blog--rss-feed.git"
+    "url": "git://github.com/clagon/tech-blog-rss-feed.git"
   },
   "bugs": {
-    "url": "https://github.com/yamadashy/tech-blog-rss-feed/issues"
+    "url": "https://github.com/clagon/tech-blog-rss-feed/issues"
   },
   "type": "module",
   "author": "yamadashy",
+  "contributors": [
+    "clagon"
+  ],
   "license": "MIT",
   "keywords": [
     "blog",
     "tech blog",
     "engineer blog",
     "engineering blog",
+    "frontend",
+    "css",
+    "javascript",
+    "web platform",
     "feed",
     "rss",
     "atom"

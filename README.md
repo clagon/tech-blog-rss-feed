@@ -4,6 +4,11 @@
 
 https://yamadashy.github.io/tech-blog-rss-feed/
 
+## このフォークについて
+
+このリポジトリは [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) をフォークし、CSS、JavaScript、Web PlatformなどWebフロントエンド寄りのRSSに調整したものです。
+
+フォーク版の公開URL: https://clagon.github.io/tech-blog-rss-feed/
 
 独自のフィードを作って公開したい場合は自由にフォークしてください。
 
