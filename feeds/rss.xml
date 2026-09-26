@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Frontend Tech RSS</title>
+        <link>https://clagon.github.io/tech-blog-rss-feed/</link>
+        <description>CSS、JavaScript、Web Platform、ブラウザ、UI実装など、フロントエンド開発に関する記事をまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 26 Sep 2026 16:50:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>clagon/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>Frontend Tech RSS</title>
+            <url>https://clagon.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://clagon.github.io/tech-blog-rss-feed/</link>
+        </image>
+        <copyright>clagon/tech-blog-rss-feed</copyright>
+        <atom:link href="https://clagon.github.io/tech-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[入力フォームに自動でふりがなを振る（JS/React・APIひとつ） | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/suns/articles/9c07055926861f</link>
+            <guid isPermaLink="false">https://zenn.dev/suns/articles/9c07055926861f</guid>
+            <pubDate>Sat, 26 Sep 2026 09:29:49 GMT</pubDate>
+            <description><![CDATA[やりたいこと氏名を入力するフォームで、「氏名」を打つと「フリガナ」欄が自動で埋まる——よくあるやつを、APIひとつで実装します。自前で形態素解析を組み込む必要はありません。完成イメージ:「山田太郎」と入力 → フリガナ欄に「やまだたろう」が自動入力「東京都渋谷区」と入力 → 「とうきょうとしぶやく」 使うAPI日本語の漢字にふりがな（読み仮名）を返すAPIを使います。RapidAPIで購読すると ]]></description>
+            <content:encoded><![CDATA[やりたいこと氏名を入力するフォームで、「氏名」を打つと「フリガナ」欄が自動で埋まる——よくあるやつを、APIひとつで実装します。自前で形態素解析を組み込む必要はありません。完成イメージ:「山田太郎」と入力 → フリガナ欄に「やまだたろう」が自動入力「東京都渋谷区」と入力 → 「とうきょうとしぶやく」 使うAPI日本語の漢字にふりがな（読み仮名）を返すAPIを使います。RapidAPIで購読すると X-RapidAPI-Key が発行されます（無料プランあり）。エンドポイント:POST https://furigana-japanese-reading-conve...]]></content:encoded>
+            <author>SunsCreate</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--V2e469Uh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A5%25E5%258A%259B%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E3%2581%25B5%25E3%2582%258A%25E3%2581%258C%25E3%2581%25AA%25E3%2582%2592%25E6%258C%25AF%25E3%2582%258B%25EF%25BC%2588JS%252FReact%25E3%2583%25BBAPI%25E3%2581%25B2%25E3%2581%25A8%25E3%2581%25A4%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:SunsCreate%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFV4a3M3UEdRd2VESHdFR0ZLMG53Vi1BUzg4VGVSOWJzbXpFMGR0SF9DUkxYek5qbz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>入力フォームに自動でふりがなを振る（JS/React・APIひとつ）</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[#3 ポートフォリオサイト制作 #3｜JavaScriptによるUI実装と最終調整・振り返り | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/leeseungje/articles/78a33eba9a72c0</link>
+            <guid isPermaLink="false">https://zenn.dev/leeseungje/articles/78a33eba9a72c0</guid>
+            <pubDate>Sat, 26 Sep 2026 07:11:53 GMT</pubDate>
+            <description><![CDATA[1日目｜JavaScriptでABOUT MEと写真アーカイブを操作する（2026.09.25）この日は、ポートフォリオに初めてJavaScriptを追加しました。単に動きを付けるのではなく、ボタンの状態、画面に見える内容、アクセシビリティの属性が同じ状態を示すように実装しています。 ABOUT MEの開閉を一つの状態としてそろえるHOMEのABOUT ME +ボタンでは、詳細の表示・非表示、ar]]></description>
+            <content:encoded><![CDATA[1日目｜JavaScriptでABOUT MEと写真アーカイブを操作する（2026.09.25）この日は、ポートフォリオに初めてJavaScriptを追加しました。単に動きを付けるのではなく、ボタンの状態、画面に見える内容、アクセシビリティの属性が同じ状態を示すように実装しています。 ABOUT MEの開閉を一つの状態としてそろえるHOMEのABOUT ME +ボタンでは、詳細の表示・非表示、aria-expanded、ボタンの文字を一緒に変更します。const isOpen = aboutButton.getAttribute("aria-expanded") === "...]]></content:encoded>
+            <author>イ・スンジェ | LEE SEUNGJE</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--uFjvoa5h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25233%2520%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AA%25E3%2582%25AA%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E5%2588%25B6%25E4%25BD%259C%2520%25233%25EF%25BD%259CJavaScript%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258BUI%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A8%25E6%259C%2580%25E7%25B5%2582%25E8%25AA%25BF%25E6%2595%25B4%25E3%2583%25BB%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25A7%2520%257C%2520LEE%2520SEUNGJE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2E2M29nUUhrVEVRZE5tRnU3dTFqMDlUeUFlNVZPVUg0aXZEWDVhRy1zQ1ptMFlKalI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>#3 ポートフォリオサイト制作 #3｜JavaScriptによるUI実装と最終調整・振り返り</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[useContextでstateを共有 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/reitonkyoj/articles/7c480847e2af2c</link>
+            <guid isPermaLink="false">https://zenn.dev/reitonkyoj/articles/7c480847e2af2c</guid>
+            <pubDate>Sat, 26 Sep 2026 05:57:42 GMT</pubDate>
+            <description><![CDATA[useContextを勉強してみた前前回ではuseReducerを使って状態・状態更新の切り出しを行なった。そして前回ではカスタムhookを使ってtsx内の関数を別ファイルに切り出した。しかし、新しい問題が生じた。カスタムhookでもtsxでも別のstateをそれぞれ参照していること。今回は全コンポーネントで一つのstateを共有することで解決する。 前回やったこと カスタムhookでtsx内の関]]></description>
+            <content:encoded><![CDATA[useContextを勉強してみた前前回ではuseReducerを使って状態・状態更新の切り出しを行なった。そして前回ではカスタムhookを使ってtsx内の関数を別ファイルに切り出した。しかし、新しい問題が生じた。カスタムhookでもtsxでも別のstateをそれぞれ参照していること。今回は全コンポーネントで一つのstateを共有することで解決する。 前回やったこと カスタムhookでtsx内の関数を切り出すことに成功// ./App.tsximport { useTodo } from './useTodo';import { type Initial } from...]]></content:encoded>
+            <author>reitonkyoj</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--PlJTm0fQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:useContext%25E3%2581%25A7state%25E3%2582%2592%25E5%2585%25B1%25E6%259C%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:reitonkyoj%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0YzdmMzI0MzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>useContextでstateを共有</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[カスタムhookで処理を切り出す | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/reitonkyoj/articles/5207031b7569d0</link>
+            <guid isPermaLink="false">https://zenn.dev/reitonkyoj/articles/5207031b7569d0</guid>
+            <pubDate>Sat, 26 Sep 2026 05:56:29 GMT</pubDate>
+            <description><![CDATA[※ 前回投稿したuserReducer の続編です。https://zenn.dev/reitonkyoj/articles/21a2b8a3c24fdf カスタムhookを勉強してみた前回useReducerを使って状態・状態更新の管理を切り出すことに成功しました。しかし、大元のtsxファイルにはいまだに関数が残っています。本来tsxファイルはtsxをreturnする関数を定義するファイルです。]]></description>
+            <content:encoded><![CDATA[※ 前回投稿したuserReducer の続編です。https://zenn.dev/reitonkyoj/articles/21a2b8a3c24fdf カスタムhookを勉強してみた前回useReducerを使って状態・状態更新の管理を切り出すことに成功しました。しかし、大元のtsxファイルにはいまだに関数が残っています。本来tsxファイルはtsxをreturnする関数を定義するファイルです。なので、残った関数を別ファイルに切り出してしまいましょう。 前回までやったこと reducer.tsを作成して、状態・状態更新を切り出すことに成功//./reducer.ts...]]></content:encoded>
+            <author>reitonkyoj</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--nytcCtBy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0hook%25E3%2581%25A7%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E5%2588%2587%25E3%2582%258A%25E5%2587%25BA%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:reitonkyoj%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0YzdmMzI0MzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>カスタムhookで処理を切り出す</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Map.getOrInsertComputedの再入と失敗後のキャッシュを検証する | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/yukke_dev/articles/20260922-map-upsert-reentry-promise</link>
+            <guid isPermaLink="false">https://zenn.dev/yukke_dev/articles/20260922-map-upsert-reentry-promise</guid>
+            <pubDate>Sat, 26 Sep 2026 05:30:17 GMT</pubDate>
+            <description><![CDATA[Mapで値の遅延初期化やPromiseのキャッシュを実装するJavaScript開発者向けの記事です。getOrInsertComputedを試すと、同じキーへの再入では外側の戻り値が残り、拒否されたPromiseもMapに残りました。コールバックの呼び出し回数、例外後の状態、Promiseの同一性を、外部通信なしのコードで確かめます。 検証条件と結論2026年9月22日に、Node.js v26]]></description>
+            <content:encoded><![CDATA[Mapで値の遅延初期化やPromiseのキャッシュを実装するJavaScript開発者向けの記事です。getOrInsertComputedを試すと、同じキーへの再入では外側の戻り値が残り、拒否されたPromiseもMapに残りました。コールバックの呼び出し回数、例外後の状態、Promiseの同一性を、外部通信なしのコードで確かめます。 検証条件と結論2026年9月22日に、Node.js v26.0.0 / macOS（darwin arm64）で実行しました。追加ライブラリや実験用フラグは使っていません。本稿はAIエージェントがコードを作成・実行した下書きです。人間による内...]]></content:encoded>
+            <author>yukke</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--JffmiwY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Map.getOrInsertComputed%25E3%2581%25AE%25E5%2586%258D%25E5%2585%25A5%25E3%2581%25A8%25E5%25A4%25B1%25E6%2595%2597%25E5%25BE%258C%25E3%2581%25AE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkNzM3N2Y5NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Map.getOrInsertComputedの再入と失敗後のキャッシュを検証する</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[JavaScriptタグだけでは見えないリクエストを、エッジで観測する | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/webdecoy/articles/b98718573b28dd</link>
+            <guid isPermaLink="false">https://zenn.dev/webdecoy/articles/b98718573b28dd</guid>
+            <pubDate>Sat, 26 Sep 2026 04:01:49 GMT</pubDate>
+            <description><![CDATA[WebサイトのアクセスをブラウザーのJavaScriptタグで計測すると、タグを実行しないHTTPクライアントは観測の対象から外れます。本稿では、ブラウザーとエッジの観測範囲を整理し、既存の配信経路に観測処理を追加する際の確認事項をまとめます。 HTTPリクエストとJavaScriptの実行は別の出来事次のコマンドはHTMLを取得しますが、その中にあるJavaScriptは実行しません。自分が管理]]></description>
+            <content:encoded><![CDATA[WebサイトのアクセスをブラウザーのJavaScriptタグで計測すると、タグを実行しないHTTPクライアントは観測の対象から外れます。本稿では、ブラウザーとエッジの観測範囲を整理し、既存の配信経路に観測処理を追加する際の確認事項をまとめます。 HTTPリクエストとJavaScriptの実行は別の出来事次のコマンドはHTMLを取得しますが、その中にあるJavaScriptは実行しません。自分が管理する検証用URLで試してください。curl -sS -o /dev/null -w '%{http_code}\n' https://example.com/このリクエストはサーバーや...]]></content:encoded>
+            <author>Chris Portscheller | WebDecoy</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--lsMqzVSo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JavaScript%25E3%2582%25BF%25E3%2582%25B0%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AF%25E8%25A6%258B%25E3%2581%2588%25E3%2581%25AA%25E3%2581%2584%25E3%2583%25AA%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2580%2581%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25B8%25E3%2581%25A7%25E8%25A6%25B3%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Chris%2520Portscheller...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGxuSHhyRFdIUTJaeEVGS3YxRW5NR1Q4SkdvUU1wcTJiY0YzUHhfMFFhTHlUelN3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>JavaScriptタグだけでは見えないリクエストを、エッジで観測する</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[IPAmj明朝の6万字形をブラウザだけで扱うまでに踏んだ罠：消えた cmap format 14、fontkit、多重露光 | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/jassdack/articles/b457df18efdbba</link>
+            <guid isPermaLink="false">https://zenn.dev/jassdack/articles/b457df18efdbba</guid>
+            <pubDate>Sat, 26 Sep 2026 03:56:09 GMT</pubDate>
+            <description><![CDATA[IPAmj明朝の異体字（IVS）を、ブラウザだけで検索・比較・コピーし、PNG や SVG に書き出せる静的 Web ツールを作りました。本稿は、その実装で踏んだ罠の記録です。https://github.com/photoguild-ITteam/mj-variant-finder!異体字をめぐる3本の記事「髙」「邉」をコピペしたら普通の字に戻る問題：なぜ化けるのか、どう使えばいいのか（一般向け]]></description>
+            <content:encoded><![CDATA[IPAmj明朝の異体字（IVS）を、ブラウザだけで検索・比較・コピーし、PNG や SVG に書き出せる静的 Web ツールを作りました。本稿は、その実装で踏んだ罠の記録です。https://github.com/photoguild-ITteam/mj-variant-finder!異体字をめぐる3本の記事「髙」「邉」をコピペしたら普通の字に戻る問題：なぜ化けるのか、どう使えばいいのか（一般向け）IPAmj明朝の6万字形をブラウザだけで扱うまでに踏んだ罠：ツールの実装（技術者向け・この記事）名前の漢字を飼い慣らす150年：戸籍・JIS・Unicode の技術史（補稿...]]></content:encoded>
+            <author>jassdack</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--_RCj7lLi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:IPAmj%25E6%2598%258E%25E6%259C%259D%25E3%2581%25AE6%25E4%25B8%2587%25E5%25AD%2597%25E5%25BD%25A2%25E3%2582%2592%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E6%2589%25B1%25E3%2581%2586%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AB%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E7%25BD%25A0%25EF%25BC%259A%25E6%25B6%2588%25E3%2581%2588%25E3%2581%259F%2520cmap%2520format%252014%25E3%2580%2581fontkit%25E3%2580%2581...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jassdack%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0ZRRkpGZUstTjJyYms2WHViNzczYlRmbEhLR2lTV1BobFJqX2ZYbDJYalFpUklGaDNaZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>IPAmj明朝の6万字形をブラウザだけで扱うまでに踏んだ罠：消えた cmap format 14、fontkit、多重露光</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Chrome拡張「Selection Search」のアイコン位置をCustom CSSで調整したお話 | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/neon_aiart/articles/02f37da9006999</link>
+            <guid isPermaLink="false">https://zenn.dev/neon_aiart/articles/02f37da9006999</guid>
+            <pubDate>Sat, 26 Sep 2026 03:49:51 GMT</pubDate>
+            <description><![CDATA[他の拡張機能(TWPとか)のアイコンと被って困る！というストレスから解放されたい(=^・^=)!【イントロダクション】結論: div.button.commonをカスタム解説: 隠されていたdiv.button.commonアレンジ: 位置だけじゃなく、もっと良くしたい（読了目安：約１分） 第１章：div.button.commonをカスタムオプションのPopup MenuのAdvanced Se]]></description>
+            <content:encoded><![CDATA[他の拡張機能(TWPとか)のアイコンと被って困る！というストレスから解放されたい(=^・^=)!【イントロダクション】結論: div.button.commonをカスタム解説: 隠されていたdiv.button.commonアレンジ: 位置だけじゃなく、もっと良くしたい（読了目安：約１分） 第１章：div.button.commonをカスタムオプションのPopup MenuのAdvanced Settingsをクリックその中のCustomizeをクリックするとCSSを入力できるエリアがでてきますその中に⤵️を入れる/* --- アイコンの位置調整...]]></content:encoded>
+            <author>ねおん</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--zeJP5-rC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Chrome%25E6%258B%25A1%25E5%25BC%25B5%25E3%2580%258CSelection%2520Search%25E3%2580%258D%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%25B3%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592Custom%2520CSS%25E3%2581%25A7%25E8%25AA%25BF%25E6%2595%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2581%258A%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AD%25E3%2581%258A%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYmNkNWQ5YzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Chrome拡張「Selection Search」のアイコン位置をCustom CSSで調整したお話</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[【１日１デプロイ】「思ったとおり跳べる」月面アクションを作った | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/boraemon2000/articles/moon-post-runner-action-feel</link>
+            <guid isPermaLink="false">https://zenn.dev/boraemon2000/articles/moon-post-runner-action-feel</guid>
+            <pubDate>Sat, 26 Sep 2026 02:03:51 GMT</pubDate>
+            <description><![CDATA[今回作ったもの「１日１デプロイ」の新作として、ブラウザで遊べる2Dアクション 月面ポストランナー を作りました。月の郵便配達員になったブラピさんを操作し、低重力ジャンプで各便3通の光る手紙を集めます。全部そろえて月のポストへ届けると、手紙の軌道が星座になり、月面都市の街灯が順番に点灯します。今回の目標は、難しい敵や複雑な攻撃を増やすことではなく、初めて触った人でも「思ったとおり跳べる」こと。落ちた]]></description>
+            <content:encoded><![CDATA[今回作ったもの「１日１デプロイ」の新作として、ブラウザで遊べる2Dアクション 月面ポストランナー を作りました。月の郵便配達員になったブラピさんを操作し、低重力ジャンプで各便3通の光る手紙を集めます。全部そろえて月のポストへ届けると、手紙の軌道が星座になり、月面都市の街灯が順番に点灯します。今回の目標は、難しい敵や複雑な攻撃を増やすことではなく、初めて触った人でも「思ったとおり跳べる」こと。落ちたり敵へ横からぶつかったりしても、手紙は保ったまま直近の旗へ戻ります。残機やゲームオーバーはありません。▶ 月面ポストランナーを遊ぶ 遊び方「配達をはじめる」を押す左右ボ...]]></content:encoded>
+            <author>boraemon2000</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--nubEbrOX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25EF%25BC%2591%25E6%2597%25A5%25EF%25BC%2591%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%2591%25E3%2580%258C%25E6%2580%259D%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258A%25E3%2582%258A%25E8%25B7%25B3%25E3%2581%25B9%25E3%2582%258B%25E3%2580%258D%25E6%259C%2588%25E9%259D%25A2%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:boraemon2000%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2YTZiNTlmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>【１日１デプロイ】「思ったとおり跳べる」月面アクションを作った</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Babylon.jsのクリック位置がずれる原因はdevicePixelRatioの二重適用だった | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/jisaku_net/articles/babylonjs-picking-device-pixel-ratio</link>
+            <guid isPermaLink="false">https://zenn.dev/jisaku_net/articles/babylonjs-picking-device-pixel-ratio</guid>
+            <pubDate>Sat, 26 Sep 2026 01:35:58 GMT</pubDate>
+            <description><![CDATA[第二種電気工事士の候補問題を3Dで練習するWebアプリ「電工技能 3D施工シミュレータ」を開発しています。現在は開発版だけを公開しており、jisaku.netの本番には未公開です。作業台へ器具を置き、クリックやドラッグで位置を調整できるようにしたところ、PCによって操作位置がずれる不具合が出ました。器具そのものをクリックしても選べず、少し離れた位置を押すと選べる状態です。原因は、PointerEv]]></description>
+            <content:encoded><![CDATA[第二種電気工事士の候補問題を3Dで練習するWebアプリ「電工技能 3D施工シミュレータ」を開発しています。現在は開発版だけを公開しており、jisaku.netの本番には未公開です。作業台へ器具を置き、クリックやドラッグで位置を調整できるようにしたところ、PCによって操作位置がずれる不具合が出ました。器具そのものをクリックしても選べず、少し離れた位置を押すと選べる状態です。原因は、PointerEventの座標へ描画倍率を掛けてからBabylon.jsのPicking APIへ渡していたことでした。Babylon.js側でも描画サイズに合わせた変換が行われるため、アプリ側の補正と重なっ...]]></content:encoded>
+            <author>何でも自作する人</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--lkKcucKV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Babylon.js%25E3%2581%25AE%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E4%25BD%258D%25E7%25BD%25AE%25E3%2581%258C%25E3%2581%259A%25E3%2582%258C%25E3%2582%258B%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AFdevicePixelRatio%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%25E9%2581%25A9%25E7%2594%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Babylon.jsのクリック位置がずれる原因はdevicePixelRatioの二重適用だった</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[機械学習を試したいがデータが無い — 正解が勝手に降ってくる場所を探した | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/horibe/articles/ml-training-data-for-free</link>
+            <guid isPermaLink="false">https://zenn.dev/horibe/articles/ml-training-data-for-free</guid>
+            <pubDate>Sat, 26 Sep 2026 01:34:40 GMT</pubDate>
+            <description><![CDATA[機械学習を自分で一度やってみたい、と思ったときに最初にぶつかるのはアルゴリズムでもGPUでもなく、教師データが無いことだった。入門記事は大抵 Titanic か MNIST で、それは「もう誰かが正解を付けてくれたデータ」だ。自分の題材でやろうとすると、まず何百件も正解を手で付けるところから始まる。そこで力尽きる。自分のアプリの中に、正解が自動で降ってくる場所が埋まっていた話を書く。まだモデルは作]]></description>
+            <content:encoded><![CDATA[機械学習を自分で一度やってみたい、と思ったときに最初にぶつかるのはアルゴリズムでもGPUでもなく、教師データが無いことだった。入門記事は大抵 Titanic か MNIST で、それは「もう誰かが正解を付けてくれたデータ」だ。自分の題材でやろうとすると、まず何百件も正解を手で付けるところから始まる。そこで力尽きる。自分のアプリの中に、正解が自動で降ってくる場所が埋まっていた話を書く。まだモデルは作っていない。データが貯まる仕組みを作ったところまでの記録。 探し方：外部APIが正解を返しているところTOEIC学習用のPWAを作っていて、発音採点に Azure Speech ...]]></content:encoded>
+            <author>Horibe</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--tUQFBwrx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2581%258C%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E7%2584%25A1%25E3%2581%2584%2520%25E2%2580%2594%2520%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%258C%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E9%2599%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E5%25A0%25B4%25E6%2589%2580%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Horibe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1p2UGt5M29mR0dUNzhUaHJlOXFuU3NEWkg3T2tubHBCX1ZuUjNLVXVNYk5NQjd3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>機械学習を試したいがデータが無い — 正解が勝手に降ってくる場所を探した</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[「端末のデータが膨大になるのでは」を測ってみたら、心配する場所が違った | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/horibe/articles/measure-storage-before-server</link>
+            <guid isPermaLink="false">https://zenn.dev/horibe/articles/measure-storage-before-server</guid>
+            <pubDate>Sat, 26 Sep 2026 01:34:39 GMT</pubDate>
+            <description><![CDATA[個人用のTOEIC学習PWAを作っている。問題集の写真と音声を端末（IndexedDB）に持っていて、来月もう1冊ぶん追加する予定があった。単純にデータが2倍になる。そこで「もうサーバーに持ったほうがいいのでは」と考えた。Supabase のストレージに移せば端末は軽くなるし、端末を変えても消えない。移す前に測った。結果、移す理由はなくなり、代わりに別の問題が出てきた。 測るブラウザは使用量と上限]]></description>
+            <content:encoded><![CDATA[個人用のTOEIC学習PWAを作っている。問題集の写真と音声を端末（IndexedDB）に持っていて、来月もう1冊ぶん追加する予定があった。単純にデータが2倍になる。そこで「もうサーバーに持ったほうがいいのでは」と考えた。Supabase のストレージに移せば端末は軽くなるし、端末を変えても消えない。移す前に測った。結果、移す理由はなくなり、代わりに別の問題が出てきた。 測るブラウザは使用量と上限を教えてくれる。navigator.storage.estimate() だけでいい。const est = await navigator.storage.estimate()...]]></content:encoded>
+            <author>Horibe</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--FyZZi-_u--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E7%25AB%25AF%25E6%259C%25AB%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E8%2586%25A8%25E5%25A4%25A7%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%25AF%25E3%2580%258D%25E3%2582%2592%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E5%25BF%2583%25E9%2585%258D%25E3%2581%2599%25E3%2582%258B%25E5%25A0%25B4%25E6%2589%2580%25E3%2581%258C%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Horibe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1p2UGt5M29mR0dUNzhUaHJlOXFuU3NEWkg3T2tubHBCX1ZuUjNLVXVNYk5NQjd3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>「端末のデータが膨大になるのでは」を測ってみたら、心配する場所が違った</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Google Apps Script で顧客管理の画面を作る ── 共有権限・ロック・更新日時の照合・先頭の ' | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/suminawa/articles/e97396f937857f</link>
+            <guid isPermaLink="false">https://zenn.dev/suminawa/articles/e97396f937857f</guid>
+            <pubDate>Sat, 26 Sep 2026 00:27:15 GMT</pubDate>
+            <description><![CDATA[Google スプレッドシートの顧客台帳はそのまま残し、一覧・検索・登録・編集の画面だけを Apps Script の Web アプリで足す手順です。題材は動いている実装で、デプロイの設定、利用者の確かめ方、ID の振り方、同時保存の扱い、シートへの書き方の順に書きます。落とし穴は各節の終わりと 6 にまとめました。 方針: 台帳はシート、画面は毎回シートを読むデータ: シートの 1 行が 1 件]]></description>
+            <content:encoded><![CDATA[Google スプレッドシートの顧客台帳はそのまま残し、一覧・検索・登録・編集の画面だけを Apps Script の Web アプリで足す手順です。題材は動いている実装で、デプロイの設定、利用者の確かめ方、ID の振り方、同時保存の扱い、シートへの書き方の順に書きます。落とし穴は各節の終わりと 6 にまとめました。 方針: 台帳はシート、画面は毎回シートを読むデータ: シートの 1 行が 1 件。見出しは「ID・（業務の列）・作成日時・更新日時・更新者」画面: doGet で HTML を返し、読み書きは google.script.run から api_* の関数を呼ぶ...]]></content:encoded>
+            <author>墨縄</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8giz86Vv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Apps%2520Script%2520%25E3%2581%25A7%25E9%25A1%25A7%25E5%25AE%25A2%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AE%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520%25E5%2585%25B1%25E6%259C%2589%25E6%25A8%25A9%25E9%2599%2590%25E3%2583%25BB%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E6%259B%25B4%25E6%2596%25B0%25E6%2597%25A5%25E6%2599%2582%25E3%2581%25AE%25E7%2585%25A7%25E5%2590%2588%25E3%2583%25BB%25E5%2585%2588%25E9%25A0%25AD%25E3%2581%25AE%2520%2527%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A2%25A8%25E7%25B8%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyMmUyZWMxYTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Google Apps Script で顧客管理の画面を作る ── 共有権限・ロック・更新日時の照合・先頭の '</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[TypeError: unhashable type: 'list' — JS のオブジェクトキーの感覚で dict を書くと踏む | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/gaku_wtnb/articles/9c0436e3870899</link>
+            <guid isPermaLink="false">https://zenn.dev/gaku_wtnb/articles/9c0436e3870899</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:05 GMT</pubDate>
+            <description><![CDATA[辞書のキーにリストを使ったら落ちました。TypeError: unhashable type: 'list'JS では同じことをしても落ちません。落ちないどころか、静かに壊れます。 どちらの言語で何が起きているのかを整理します。 再現コードcache = {}cache[["tokyo", "osaka"]] = 120 # TypeError: unhashable type: 'list'JS]]></description>
+            <content:encoded><![CDATA[辞書のキーにリストを使ったら落ちました。TypeError: unhashable type: 'list'JS では同じことをしても落ちません。落ちないどころか、静かに壊れます。 どちらの言語で何が起きているのかを整理します。 再現コードcache = {}cache[["tokyo", "osaka"]] = 120 # TypeError: unhashable type: 'list'JS で同じことを書くと、エラーは出ません。const cache: Record&amp;lt;string, number&amp;gt; = {};cache[["tokyo", "os...]]></content:encoded>
+            <author>ハムズ</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ZCT3WmAd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeError%253A%2520unhashable%2520type%253A%2520%2527list%2527%2520%25E2%2580%2594%2520JS%2520%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25BC%25E3%2581%25AE%25E6%2584%259F%25E8%25A6%259A%25E3%2581%25A7%2520dic...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258F%25E3%2583%25A0%25E3%2582%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwYjE4Y2I2OWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>TypeError: unhashable type: 'list' — JS のオブジェクトキーの感覚で dict を書くと踏む</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Goとhtmxの組み合わせが人気な理由を、評判・実装・実測から整理してみた | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/nonejp/articles/0013598f4da15a</link>
+            <guid isPermaLink="false">https://zenn.dev/nonejp/articles/0013598f4da15a</guid>
+            <pubDate>Fri, 25 Sep 2026 23:02:40 GMT</pubDate>
+            <description><![CDATA[「最近、Go と htmx の組み合わせをよく見る気がするけど、あれって本当に良いの？」そんな疑問を持ったことはないでしょうか。自分も最初は「HTML に hx-get や hx-post を書くだけで、そんなに開発体験が変わるの？」くらいに思っていました。ところが、調べてみると、この組み合わせが刺さる理由はかなりはっきりしています。今では、フロントエンドを作るときは脳死で Go＋htmx にする]]></description>
+            <content:encoded><![CDATA[「最近、Go と htmx の組み合わせをよく見る気がするけど、あれって本当に良いの？」そんな疑問を持ったことはないでしょうか。自分も最初は「HTML に hx-get や hx-post を書くだけで、そんなに開発体験が変わるの？」くらいに思っていました。ところが、調べてみると、この組み合わせが刺さる理由はかなりはっきりしています。今では、フロントエンドを作るときは脳死で Go＋htmx にするまで至りました。ざっくり言うと、Go はサーバー側で HTML を生成・配信しやすく、htmx は返ってきた HTML をブラウザ上で部分的に差し替えるのが得意です。SPA のような操作感...]]></content:encoded>
+            <author>ousiass</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5YXJKBCE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25A8htmx%25E3%2581%25AE%25E7%25B5%2584%25E3%2581%25BF%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%258C%25E4%25BA%25BA%25E6%25B0%2597%25E3%2581%25AA%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E3%2580%2581%25E8%25A9%2595%25E5%2588%25A4%25E3%2583%25BB%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%25BB%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ousiass%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyOTZlNWQxMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:VeriCerts%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwYjdjMjhhZGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Goとhtmxの組み合わせが人気な理由を、評判・実装・実測から整理してみた</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[バーコード 1 回の読み取りで待たせない: 互いに関係ない問い合わせは並べて投げる（Workers + D1） | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/y3chi5z/articles/parallel-independent-lookups-per-scan</link>
+            <guid isPermaLink="false">https://zenn.dev/y3chi5z/articles/parallel-independent-lookups-per-scan</guid>
+            <pubDate>Fri, 25 Sep 2026 21:26:20 GMT</pubDate>
+            <description><![CDATA[短編です。工場の入荷画面で、バーコードを 1 つ読むたびの待ち時間を縮めました。1 回あたりは大した時間ではないのですが、1 日に 100〜200 点を読む画面では積み重なります。直したのは 2 か所で、どちらも「互いに関係ない問い合わせを、順番に待っていた」のが原因でした。 1. API 側: 施設と棟を順番に引いていた品物のコードを受け取ると、API（Cloudflare Workers）はそ]]></description>
+            <content:encoded><![CDATA[短編です。工場の入荷画面で、バーコードを 1 つ読むたびの待ち時間を縮めました。1 回あたりは大した時間ではないのですが、1 日に 100〜200 点を読む画面では積み重なります。直したのは 2 か所で、どちらも「互いに関係ない問い合わせを、順番に待っていた」のが原因でした。 1. API 側: 施設と棟を順番に引いていた品物のコードを受け取ると、API（Cloudflare Workers）はその品物の利用者が属する施設と、施設の中の棟を D1 から引いて返します。もとのコードはこうでした。// 施設情報を取得let facility = nullif (item.fac...]]></content:encoded>
+            <author>y43z</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--U5YY6pyU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25201%2520%25E5%259B%259E%25E3%2581%25AE%25E8%25AA%25AD%25E3%2581%25BF%25E5%258F%2596%25E3%2582%258A%25E3%2581%25A7%25E5%25BE%2585%25E3%2581%259F%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%253A%2520%25E4%25BA%2592%25E3%2581%2584%25E3%2581%25AB%25E9%2596%25A2%25E4%25BF%2582%25E3%2581%25AA%25E3%2581%2584%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%25AF%25E4%25B8%25A6%25E3%2581%25B9%25E3%2581%25A6%25E6%258A%2595%25E3%2581%2592%25E3%2582%258B%25EF%25BC%2588Workers%2520%252B%2520D1%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:y43z%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiOWMxNjQ3Y2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>バーコード 1 回の読み取りで待たせない: 互いに関係ない問い合わせは並べて投げる（Workers + D1）</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[claude + cve-lite-cli + LEVでフロントエンドの脆弱性優先度判断を更に高める | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/t_o_d/articles/c37d73f3820b92</link>
+            <guid isPermaLink="false">https://zenn.dev/t_o_d/articles/c37d73f3820b92</guid>
+            <pubDate>Fri, 25 Sep 2026 20:43:28 GMT</pubDate>
+            <description><![CDATA[前回の記事で、OWASPのcve-lite-cliの優先度(CVSS × EPSS)をClaude Skillへ渡し、最上位の1パッケージをAIに修正させる仕組みを作りました。ただしEPSSは「今後30日で悪用される確率」であり、「既に悪用されているか」は表しません。そこでNIST提案の LEV(Likely Exploited Vulnerabilities) を加え、「未来(EPSS)」と「過]]></description>
+            <content:encoded><![CDATA[前回の記事で、OWASPのcve-lite-cliの優先度(CVSS × EPSS)をClaude Skillへ渡し、最上位の1パッケージをAIに修正させる仕組みを作りました。ただしEPSSは「今後30日で悪用される確率」であり、「既に悪用されているか」は表しません。そこでNIST提案の LEV(Likely Exploited Vulnerabilities) を加え、「未来(EPSS)」と「過去(LEV)」の両面から優先度を決める方法を記録いたします。 概要前回導入したcve-lite-cliの検出結果に、脆弱性ごとの「LEV」を書き足します。ClaudeにまずE...]]></content:encoded>
+            <author>t_o_d</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--6mlBNRlJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:claude%2520%252B%2520cve-lite-cli%2520%252B%2520LEV%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E5%2584%25AA%25E5%2585%2588%25E5%25BA%25A6%25E5%2588%25A4%25E6%2596%25AD%25E3%2582%2592%25E6%259B%25B4%25E3%2581%25AB%25E9%25AB%2598%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:t_o_d%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FmYzIwYTUyNTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>claude + cve-lite-cli + LEVでフロントエンドの脆弱性優先度判断を更に高める</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Randomly Place an Element Along Edge of Another Element | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/randomly-place-an-element-along-edge-of-another-element/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11153</guid>
+            <pubDate>Fri, 25 Sep 2026 16:03:35 GMT</pubDate>
+            <description><![CDATA[We can animate an element along the border edge of another element to random positions... pretty easily? Might as well be a cute dog.]]></description>
+            <content:encoded><![CDATA[We can animate an element along the border edge of another element to random positions... pretty easily? Might as well be a cute dog.]]></content:encoded>
+            <author>Chris Coyier</author>
+            <category>Blog Post</category>
+            <category>Animation</category>
+            <category>CSS</category>
+            <category>offset-path</category>
+            <category>random()</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11153" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11153" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Randomly Place an Element Along Edge of Another Element</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[PlaywrightでE2Eテストを始める | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/kishimin/articles/53346e68b22a12</link>
+            <guid isPermaLink="false">https://zenn.dev/kishimin/articles/53346e68b22a12</guid>
+            <pubDate>Fri, 25 Sep 2026 15:23:15 GMT</pubDate>
+            <description><![CDATA[なぜ調べたかWebアプリケーションのE2Eテストを行うため、Playwrightの基本的な使い方を調べました。今回は、テストの実行方法やテストコードの書き方から、コード生成、スクリーンショット、動画撮影、ビジュアルリグレッションテスト、Page Object Modelまでをまとめます。 学んだこと E2EテストとはE2EテストはEnd-to-End Testingの略で、一般的にシステムの一連の]]></description>
+            <content:encoded><![CDATA[なぜ調べたかWebアプリケーションのE2Eテストを行うため、Playwrightの基本的な使い方を調べました。今回は、テストの実行方法やテストコードの書き方から、コード生成、スクリーンショット、動画撮影、ビジュアルリグレッションテスト、Page Object Modelまでをまとめます。 学んだこと E2EテストとはE2EテストはEnd-to-End Testingの略で、一般的にシステムの一連の動作を最終チェックするテストのことです。出典：［入門］Webフロントエンド E2E テスト（技術評論社） PlaywrightとはPlaywright公式ドキュメ...]]></content:encoded>
+            <author>kishimin</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ur3fM1C3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%25E3%2581%25A7E2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kishimin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUyMzYxNDE0MmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>PlaywrightでE2Eテストを始める</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[WebP・AVIFをJPGに変換する（ブラウザだけ・canvas）｜透明な部分が黒くなるのを防ぐ | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/soloselife/articles/a13fce9da3c6bc</link>
+            <guid isPermaLink="false">https://zenn.dev/soloselife/articles/a13fce9da3c6bc</guid>
+            <pubDate>Fri, 25 Sep 2026 11:00:05 GMT</pubDate>
+            <description><![CDATA[ホームページから保存した画像が .avif で、提出した相手から「画像として開けない」と言われた。そんな相談を受けて、WebP・AVIF を JPG に変換するページを作りました。社内の画像を外部のサービスに上げたくないので、画像はどこにも送信せず、ブラウザの中だけで変換しています。仕組みは canvas に描いて JPG で書き出すだけです。 変換の中身function toJpg(file, ]]></description>
+            <content:encoded><![CDATA[ホームページから保存した画像が .avif で、提出した相手から「画像として開けない」と言われた。そんな相談を受けて、WebP・AVIF を JPG に変換するページを作りました。社内の画像を外部のサービスに上げたくないので、画像はどこにも送信せず、ブラウザの中だけで変換しています。仕組みは canvas に描いて JPG で書き出すだけです。 変換の中身function toJpg(file, quality = 0.9) { return new Promise((resolve, reject) =&amp;gt; { const url = URL.createObj...]]></content:encoded>
+            <author>そろ丸｜ひとり情シス</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--WtfP_MtQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebP%25E3%2583%25BBAVIF%25E3%2582%2592JPG%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2583%25BBcanvas%25EF%25BC%2589%25EF%25BD%259C%25E9%2580%258F%25E6%2598%258E%25E3%2581%25AA%25E9%2583%25A8%25E5%2588%2586%25E3%2581%258C%25E9%25BB%2592%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259D%25E3%2582%258D%25E4%25B8%25B8%25EF%25BD%259C%25E3%2581%25B2%25E3%2581%25A8%25E3%2582%258A%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZWIyZGU0ZDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>WebP・AVIFをJPGに変換する（ブラウザだけ・canvas）｜透明な部分が黒くなるのを防ぐ</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Vite + React + TypeScript で開発環境を構築する | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/akinori901/articles/20260826-plan010</link>
+            <guid isPermaLink="false">https://zenn.dev/akinori901/articles/20260826-plan010</guid>
+            <pubDate>Fri, 25 Sep 2026 07:31:59 GMT</pubDate>
+            <description><![CDATA[Vite + React + TypeScript で開発環境を構築する 概要React のフロントエンド開発をこれから始めるとき、ビルドツールに Vite を選ぶのは今や標準的な選択肢です。かつて主流だった Create React App（CRA）は開発体制が縮小し、公式ドキュメントでも新規プロジェクトには Vite などのモダンなツールを推奨する流れになりました。本記事では、Vite + R]]></description>
+            <content:encoded><![CDATA[Vite + React + TypeScript で開発環境を構築する 概要React のフロントエンド開発をこれから始めるとき、ビルドツールに Vite を選ぶのは今や標準的な選択肢です。かつて主流だった Create React App（CRA）は開発体制が縮小し、公式ドキュメントでも新規プロジェクトには Vite などのモダンなツールを推奨する流れになりました。本記事では、Vite + React + TypeScript の開発環境をゼロから構築し、実際の開発で困らないところ（パスエイリアス、環境変数、ESLint / Prettier、本番ビルド）まで一通り整える...]]></content:encoded>
+            <author>Akinori901</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--B9YpTj1y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vite%2520%252B%2520React%2520%252B%2520TypeScript%2520%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Vite + React + TypeScript で開発環境を構築する</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[セマンティックなHTML構造はテストすらわかりやすくする | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/sun_asterisk/articles/ui-test-clarity-from-semantic-html</link>
+            <guid isPermaLink="false">https://zenn.dev/sun_asterisk/articles/ui-test-clarity-from-semantic-html</guid>
+            <pubDate>Fri, 25 Sep 2026 01:40:58 GMT</pubDate>
+            <description><![CDATA[テストはどのようにわかりやすくあるべきかテストは、テスト名を読まなくてもテスト本文だけで何を保証しているかがわかるのが理想であると考えられます。テストを実装する関数の第一引数には、基本的にはそのテストが何をテストするのかを書きます。要するに、コードの外側に置いた説明で、コメントと同じ性質を持ちます。テスト名とテスト本文の関係は、次の3段階に分けられます。段階テスト名に書くものテスト本文だけで読み取]]></description>
+            <content:encoded><![CDATA[テストはどのようにわかりやすくあるべきかテストは、テスト名を読まなくてもテスト本文だけで何を保証しているかがわかるのが理想であると考えられます。テストを実装する関数の第一引数には、基本的にはそのテストが何をテストするのかを書きます。要するに、コードの外側に置いた説明で、コメントと同じ性質を持ちます。テスト名とテスト本文の関係は、次の3段階に分けられます。段階テスト名に書くものテスト本文だけで読み取れることテスト名を書き換えるときテスト名の例Bad実装内容クラス名で探した要素への操作実装を変えたとき.btn-primary をクリックすると...]]></content:encoded>
+            <author>泡沫京水</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--VvKp2CX_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AAHTML%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%2589%25E3%2582%258F%25E3%2581%258B%25E3%2582%258A%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B3%25A1%25E6%25B2%25AB%25E4%25BA%25AC%25E6%25B0%25B4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1YTU0ZjZiM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sun%252A%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzMDA2ZmJiNzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>セマンティックなHTML構造はテストすらわかりやすくする</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[YouTubeの再生履歴からショートだけを520件消す — YouTube自身の削除コマンドを呼ぶ | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/poporpepopo/articles/youtube-history-delete-shorts</link>
+            <guid isPermaLink="false">https://zenn.dev/poporpepopo/articles/youtube-history-delete-shorts</guid>
+            <pubDate>Fri, 25 Sep 2026 01:29:49 GMT</pubDate>
+            <description><![CDATA[YouTube の再生履歴がショートで埋まりました。ショートは一度見るとレコメンドが学習して増えます。気づいたときには通常動画が埋もれて、履歴が使い物にならなくなっていました。消したい。ところがYouTube の標準機能では「ショートだけ一括削除」ができません。手段結果履歴ページの「ショート」棚棚ごと消すボタンはない。1本ずつ ⋮ → 再生履歴から削除「すべての再生履歴を削除」通常動画も巻き込むG]]></description>
+            <content:encoded><![CDATA[YouTube の再生履歴がショートで埋まりました。ショートは一度見るとレコメンドが学習して増えます。気づいたときには通常動画が埋もれて、履歴が使い物にならなくなっていました。消したい。ところがYouTube の標準機能では「ショートだけ一括削除」ができません。手段結果履歴ページの「ショート」棚棚ごと消すボタンはない。1本ずつ ⋮ → 再生履歴から削除「すべての再生履歴を削除」通常動画も巻き込むGoogle マイアクティビティショート限定のフィルタが無い520本を手で消すのは現実的ではないので、コンソールからスクリプトで回しました。結果...]]></content:encoded>
+            <author>poporpepopo</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--YcHtGwei--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:YouTube%25E3%2581%25AE%25E5%2586%258D%25E7%2594%259F%25E5%25B1%25A5%25E6%25AD%25B4%25E3%2581%258B%25E3%2582%2589%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25A0%25E3%2581%2591%25E3%2582%2592520%25E4%25BB%25B6%25E6%25B6%2588%25E3%2581%2599%2520%25E2%2580%2594%2520YouTube%25E8%2587%25AA%25E8%25BA%25AB%25E3%2581%25AE%25E5%2589%258A%25E9%2599%25A4%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E5%2591%25BC%25E3%2581%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poporpepopo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXFqY0pDNnJRVGFJTHhScXBUN2IxTXlJV0p2N2NRNE5teVo4MUl6SHlWVml3RU1BPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>YouTubeの再生履歴からショートだけを520件消す — YouTube自身の削除コマンドを呼ぶ</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[FormPen制作記 - 4時間でChrome拡張を作ってストアに公開するまで | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/oneframe/articles/a56f0573894874</link>
+            <guid isPermaLink="false">https://zenn.dev/oneframe/articles/a56f0573894874</guid>
+            <pubDate>Fri, 25 Sep 2026 01:00:05 GMT</pubDate>
+            <description><![CDATA[きっかけ会社情報を色々なフォームに入力する機会が増えて、住所やメールアドレスを毎回コピペするのが面倒でした。Chrome標準の自動入力は最低限しか対応してくれず、姓名分離やフリガナは埋めてくれません。同じ課題を解決してくれる拡張は既にたくさんあるはずと思い、いくつか入れて試してみたのですが、どれも使い物になりませんでした。そもそも壊れている: インストールして開いたらコンソールにJSエラーが吐かれ]]></description>
+            <content:encoded><![CDATA[きっかけ会社情報を色々なフォームに入力する機会が増えて、住所やメールアドレスを毎回コピペするのが面倒でした。Chrome標準の自動入力は最低限しか対応してくれず、姓名分離やフリガナは埋めてくれません。同じ課題を解決してくれる拡張は既にたくさんあるはずと思い、いくつか入れて試してみたのですが、どれも使い物になりませんでした。そもそも壊れている: インストールして開いたらコンソールにJSエラーが吐かれていて動かないログイン強制: アカウントを作らないと使えない、未ログインは回数制限、上位機能は課金日本の商慣習と噛み合わない: 日本のBtoBフォームは根掘り葉掘り聞いてき...]]></content:encoded>
+            <author>tentatsu</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--XvBrdrJB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:FormPen%25E5%2588%25B6%25E4%25BD%259C%25E8%25A8%2598%2520-%25204%25E6%2599%2582%25E9%2596%2593%25E3%2581%25A7Chrome%25E6%258B%25A1%25E5%25BC%25B5%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2581%25AB%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tentatsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0MTEwZjEwZmUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:oneframe%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBmMTFhMjJhYjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>FormPen制作記 - 4時間でChrome拡張を作ってストアに公開するまで</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[useReducerでスマートな状態管理 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/reitonkyoj/articles/21a2b8a3c24fdf</link>
+            <guid isPermaLink="false">https://zenn.dev/reitonkyoj/articles/21a2b8a3c24fdf</guid>
+            <pubDate>Fri, 25 Sep 2026 00:51:48 GMT</pubDate>
+            <description><![CDATA[useReducerを勉強してみたフルスタックのアプリ開発だと避けて通れないapi通信。api通信をするということはclientのfetchが増える。そしてfetchをした際に返ってくるデータをset関数を使ってstatsを更新する記述も増えていく。そうすると一つのコンポーネントが煩雑になってしまいがちである。そこでusereducerを使う。 useReducerは状態管理を別ファイルでまとめる]]></description>
+            <content:encoded><![CDATA[useReducerを勉強してみたフルスタックのアプリ開発だと避けて通れないapi通信。api通信をするということはclientのfetchが増える。そしてfetchをした際に返ってくるデータをset関数を使ってstatsを更新する記述も増えていく。そうすると一つのコンポーネントが煩雑になってしまいがちである。そこでusereducerを使う。 useReducerは状態管理を別ファイルでまとめるための便利機能fetchを使ったデータ操作でもなければ、dbを操作するためのクエリでもないです。純粋に状態管理をまとめるだけです。もっというと、set関数を使わないでstateを管...]]></content:encoded>
+            <author>reitonkyoj</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8vlEDDmI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:useReducer%25E3%2581%25A7%25E3%2582%25B9%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AA%25E7%258A%25B6%25E6%2585%258B%25E7%25AE%25A1%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:reitonkyoj%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0YzdmMzI0MzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>useReducerでスマートな状態管理</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[【１日１デプロイ】三方向フリックで「ひょいっと寿司祭り」を作った | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/boraemon2000/articles/sushi-flick-festival-gesture-invariants</link>
+            <guid isPermaLink="false">https://zenn.dev/boraemon2000/articles/sushi-flick-festival-gesture-invariants</guid>
+            <pubDate>Fri, 25 Sep 2026 00:29:34 GMT</pubDate>
+            <description><![CDATA[「１日１デプロイ」の新作として、指一本で寿司を届けるゲーム ひょいっと寿司祭り を作りました。今回のテーマは、説明を読む前でも伝わる操作です。流れてきた寿司をつかみ、お客さんの注文に合う席へ左・上・右のフリックで届けます。配達が続くほど皿が埋まり、最後は祭りの大皿が完成します。▶ ひょいっと寿司祭りを遊ぶ 遊び方寿司を押してつかむ左・上・右にいる3組のお客さんから、注文が一致する席を探すその方向へ]]></description>
+            <content:encoded><![CDATA[「１日１デプロイ」の新作として、指一本で寿司を届けるゲーム ひょいっと寿司祭り を作りました。今回のテーマは、説明を読む前でも伝わる操作です。流れてきた寿司をつかみ、お客さんの注文に合う席へ左・上・右のフリックで届けます。配達が続くほど皿が埋まり、最後は祭りの大皿が完成します。▶ ひょいっと寿司祭りを遊ぶ 遊び方寿司を押してつかむ左・上・右にいる3組のお客さんから、注文が一致する席を探すその方向へ素早くフリックして届ける4皿届けると盛り合わせが完成する12皿届けると、3枚の皿が中央へ集まって寿司祭りが始まる短すぎる動き、遅すぎる動き、下方向や方向の境目は「もう...]]></content:encoded>
+            <author>boraemon2000</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4t_Ctg3g--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25EF%25BC%2591%25E6%2597%25A5%25EF%25BC%2591%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%2591%25E4%25B8%2589%25E6%2596%25B9%25E5%2590%2591%25E3%2583%2595%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E3%2580%258C%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2584%25E3%2581%25A3%25E3%2581%25A8%25E5%25AF%25BF%25E5%258F%25B8%25E7%25A5%25AD%25E3%2582%258A%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:boraemon2000%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2YTZiNTlmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>【１日１デプロイ】三方向フリックで「ひょいっと寿司祭り」を作った</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[tesseract.js をブラウザで自前ホストして、画像 PDF を外部に送らずに OCR する | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/shunchobi/articles/tesseract-selfhost-ocr</link>
+            <guid isPermaLink="false">https://zenn.dev/shunchobi/articles/tesseract-selfhost-ocr</guid>
+            <pubDate>Thu, 24 Sep 2026 23:36:56 GMT</pubDate>
+            <description><![CDATA[請求書や領収書の PDF をブラウザの中だけで処理するサービスを作っています。文字が埋め込まれた PDF は pdf.js で読めますが、スマホで撮った写真やスキャンの PDF には文字のデータがありません。そこで tesseract.js をブラウザで動かし、worker・wasm・言語データをすべて自分のサーバーに置いて、画像を外部に送らずに OCR する形にしました。先に結果を書きます。写真]]></description>
+            <content:encoded><![CDATA[請求書や領収書の PDF をブラウザの中だけで処理するサービスを作っています。文字が埋め込まれた PDF は pdf.js で読めますが、スマホで撮った写真やスキャンの PDF には文字のデータがありません。そこで tesseract.js をブラウザで動かし、worker・wasm・言語データをすべて自分のサーバーに置いて、画像を外部に送らずに OCR する形にしました。先に結果を書きます。写真 8 件 × 5 項目（日付・金額・取引先・書類種別・書類番号）で、正解は 15/40 から 28/40 まで上がりました。上がった分は OCR 自体ではなく、OCR の後の文字列の扱いと...]]></content:encoded>
+            <author>shunchobi</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--fBVEXJFA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tesseract.js%2520%25E3%2582%2592%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E8%2587%25AA%25E5%2589%258D%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E7%2594%25BB%25E5%2583%258F%2520PDF%2520%25E3%2582%2592%25E5%25A4%2596%25E9%2583%25A8%25E3%2581%25AB%25E9%2580%2581%25E3%2582%2589%25E3%2581%259A%25E3%2581%25AB%2520OCR%2520%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shunchobi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNFRJd2FwWm5uemcxV3c1d3owT0xVR2Y3QmdhcVhndWhYTkhNVXQ9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>tesseract.js をブラウザで自前ホストして、画像 PDF を外部に送らずに OCR する</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能 | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/goiderune.html</link>
+            <guid isPermaLink="false">https://www.publickey1.jp/blog/26/goiderune.html</guid>
+            <pubDate>Thu, 24 Sep 2026 15:45:08 GMT</pubDate>
+            <description><![CDATA[開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...]]></description>
+            <content:encoded><![CDATA[開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.publickey1.jp/2026/rune-oss01.jpg"/>
+            <_custom>
+                <hatenaCount>67</hatenaCount>
+                <originalTitle>Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能</originalTitle>
+                <blogTitle>Publickey</blogTitle>
+                <blogLink>https://www.publickey1.jp/</blogLink>
+                <blogLinkMd5Hash>98314ba2e89a65accec03a81f0250c1e</blogLinkMd5Hash>
+                <favicon>https://www.publickey1.jp/favicon.ico</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ページの画像をまとめて保存するChrome拡張を作った：srcsetでつまずいた話と、透過PNGの扱い | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/kr013/articles/5222be97602e5d</link>
+            <guid isPermaLink="false">https://zenn.dev/kr013/articles/5222be97602e5d</guid>
+            <pubDate>Thu, 24 Sep 2026 15:16:57 GMT</pubDate>
+            <description><![CDATA[提案用のデモとして、「表示中のページの画像を一覧にして、選んだものをPNGかJPGでまとめて保存する」Chrome拡張（Manifest V3）を作りました。100行ほどの小さな拡張ですが、テストでつまずいた点と、あらかじめ気をつけた点があったので記録しておきます。 できることページ内の &amp;lt;img&amp;gt; と、CSSの背景画像を集めて一覧表示（重複は除く）最小サイズで絞り込み、クリックで選択PNG / ]]></description>
+            <content:encoded><![CDATA[提案用のデモとして、「表示中のページの画像を一覧にして、選んだものをPNGかJPGでまとめて保存する」Chrome拡張（Manifest V3）を作りました。100行ほどの小さな拡張ですが、テストでつまずいた点と、あらかじめ気をつけた点があったので記録しておきます。 できることページ内の &amp;lt;img&amp;gt; と、CSSの背景画像を集めて一覧表示（重複は除く）最小サイズで絞り込み、クリックで選択PNG / JPG / 元の形式を選んでまとめてダウンロードファイル名は 001_元の名前.jpg のような連番構成はこれだけです。extension/├─ manife...]]></content:encoded>
+            <author>KR｜ラク業務ラボ</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--gi9BvhWo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E4%25BF%259D%25E5%25AD%2598%25E3%2581%2599%25E3%2582%258BChrome%25E6%258B%25A1%25E5%25BC%25B5%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259Asrcset%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%25BE%25E3%2581%259A%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%25E3%2581%25A8%25E3%2580%2581%25E9%2580%258F%25E9%2581%258EPNG%25E3%2581%25AE%25E6%2589%25B1%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KR%25EF%25BD%259C%25E3%2583%25A9%25E3%2582%25AF%25E6%25A5%25AD%25E5%258B%2599%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc3NjMzZmE4NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ページの画像をまとめて保存するChrome拡張を作った：srcsetでつまずいた話と、透過PNGの扱い</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Three.js Conf Paris 2026参加レポート | ICS MEDIA]]></title>
+            <link>https://ics.media/entry/260925/</link>
+            <guid isPermaLink="false">https://ics.media/entry/260925/</guid>
+            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></description>
+            <content:encoded><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://ics.media/entry/260925/images/eyecatch.jpg"/>
+            <_custom>
+                <hatenaCount>1</hatenaCount>
+                <originalTitle>Three.js Conf Paris 2026参加レポート</originalTitle>
+                <blogTitle>ICS MEDIA</blogTitle>
+                <blogLink>https://ics.media/</blogLink>
+                <blogLinkMd5Hash>5613f1ce3f92c963b186e9de484adb40</blogLinkMd5Hash>
+                <favicon>https://ics.media/_assets/icons/favicon.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Array.fromAsyncでPromiseが残る条件を入力形式とmapperで検証する | Zennの「JavaScript」のフィード]]></title>
+            <link>https://zenn.dev/yukke_dev/articles/20260920-array-fromasync-promise-values</link>
+            <guid isPermaLink="false">https://zenn.dev/yukke_dev/articles/20260920-array-fromasync-promise-values</guid>
+            <pubDate>Thu, 24 Sep 2026 14:42:58 GMT</pubDate>
+            <description><![CDATA[非同期イテレーターを配列へ変換するJavaScriptコードを書いている方向けの記事です。Node.jsで試すと、Array.fromAsync(input)の結果にPromiseが残る入力でも、Array.fromAsync(input, value =&amp;gt; value)では数値になりました。入力形式による違いと、mapperが失敗したときのreturn()呼び出しを、外部通信なしのコードで確認し]]></description>
+            <content:encoded><![CDATA[非同期イテレーターを配列へ変換するJavaScriptコードを書いている方向けの記事です。Node.jsで試すと、Array.fromAsync(input)の結果にPromiseが残る入力でも、Array.fromAsync(input, value =&amp;gt; value)では数値になりました。入力形式による違いと、mapperが失敗したときのreturn()呼び出しを、外部通信なしのコードで確認します。 検証条件と結論2026年9月20日に、Node.js v26.0.0 / macOS（darwin arm64）で検証しました。追加ライブラリは不要です。本稿はAIエージ...]]></content:encoded>
+            <author>yukke</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4fn8onb7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Array.fromAsync%25E3%2581%25A7Promise%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258B%25E6%259D%25A1%25E4%25BB%25B6%25E3%2582%2592%25E5%2585%25A5%25E5%258A%259B%25E5%25BD%25A2%25E5%25BC%258F%25E3%2581%25A8mapper%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkNzM3N2Y5NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Array.fromAsyncでPromiseが残る条件を入力形式とmapperで検証する</originalTitle>
+                <blogTitle>Zennの「JavaScript」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/javascript</blogLink>
+                <blogLinkMd5Hash>fdb2a172d2c4d87eef5a726a51eeed42</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[IonicアプリにiOS 27のデザインを。ionic-theme-ios27をリリースしました | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/rdlabo/articles/ionic-theme-ios27-release</link>
+            <guid isPermaLink="false">https://zenn.dev/rdlabo/articles/ionic-theme-ios27-release</guid>
+            <pubDate>Thu, 24 Sep 2026 13:46:12 GMT</pubDate>
+            <description><![CDATA[IonicアプリにiOS 27のデザインと動きを加える、@rdlabo/ionic-theme-ios27のv1.0.0をリリースしました。使い慣れたion-toolbarやion-tab-barで、Liquid Glassを取り入れた画面をつくれるテーマです。左がIonic標準スタイル、右がiOS 27テーマを適用した画面。写真・画面サイズ・デモ共通のスタイルを揃えて撮影しています。テーマを適用]]></description>
+            <content:encoded><![CDATA[IonicアプリにiOS 27のデザインと動きを加える、@rdlabo/ionic-theme-ios27のv1.0.0をリリースしました。使い慣れたion-toolbarやion-tab-barで、Liquid Glassを取り入れた画面をつくれるテーマです。左がIonic標準スタイル、右がiOS 27テーマを適用した画面。写真・画面サイズ・デモ共通のスタイルを揃えて撮影しています。テーマを適用すると、Toolbar越しに背景の写真が透け、画面下にはTab Barが浮かびます。画面を構成するのは、どちらも同じIonicのコンポーネントです。まずはデモのLibrary画面で、スク...]]></content:encoded>
+            <author>榊原昌彦</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--dRqsQ4ls--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ionic%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25ABiOS%252027%25E3%2581%25AE%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E3%2580%2582ionic-theme-ios27%25E3%2582%2592%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A6%258A%25E5%258E%259F%25E6%2598%258C%25E5%25BD%25A6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hPaXJOMUlrUWZNc0J2Vlljc1NzOGRGYW9USjV1TnZNTHF5TUp4cWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>IonicアプリにiOS 27のデザインを。ionic-theme-ios27をリリースしました</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[100 Devs | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/100-devs/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11158</guid>
+            <pubDate>Thu, 24 Sep 2026 13:46:01 GMT</pubDate>
+            <description><![CDATA[Kevin Powell is doing game-show-style (specifically Family Feud) shorts where, using data from a survey of 100 devs, he asks another dev what the most popular answers were. Here’s:]]></description>
+            <content:encoded><![CDATA[Kevin Powell is doing game-show-style (specifically Family Feud) shorts where, using data from a survey of 100 devs, he asks another dev what the most popular answers were. Here’s:]]></content:encoded>
+            <author>Chris Coyier</author>
+            <category>The Beat</category>
+            <category>CSS</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11158" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11158" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>100 Devs</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ブラウザでだけ細い部分が消える — 背景削除ツールの切り抜き精度を上げるまで | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/uekibachidan/articles/6e04f595d3bedb</link>
+            <guid isPermaLink="false">https://zenn.dev/uekibachidan/articles/6e04f595d3bedb</guid>
+            <pubDate>Thu, 24 Sep 2026 12:31:00 GMT</pubDate>
+            <description><![CDATA[ブラウザだけで動く背景削除ツール Kirinukuma（https://kirinukuma.uekibachidan.com/）について書いている記事の後編。前編(https://zenn.dev/uekibachidan/articles/9c3964401b7f8b)では、209MBのAIモデルをCloudflareの無料枠で配るところまでを書いた。こちらは、動くようになったあとに出てくるマ]]></description>
+            <content:encoded><![CDATA[ブラウザだけで動く背景削除ツール Kirinukuma（https://kirinukuma.uekibachidan.com/）について書いている記事の後編。前編(https://zenn.dev/uekibachidan/articles/9c3964401b7f8b)では、209MBのAIモデルをCloudflareの無料枠で配るところまでを書いた。こちらは、動くようになったあとに出てくるマスクの話になる。最初に使うつもりだったモデルの限界に対して、回避策や手直しの機能をいくつも足した。そのあとモデルを替えたら、足したもののだいたいが要らなくなった。途中の検証は差し替え前の...]]></content:encoded>
+            <author>植木鉢団</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--v2oqUHo3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E3%2581%25A0%25E3%2581%2591%25E7%25B4%25B0%25E3%2581%2584%25E9%2583%25A8%25E5%2588%2586%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%2520%25E2%2580%2594%2520%25E8%2583%258C%25E6%2599%25AF%25E5%2589%258A%25E9%2599%25A4%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AE%25E5%2588%2587%25E3%2582%258A%25E6%258A%259C%25E3%2581%258D%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A4%258D%25E6%259C%25A8%25E9%2589%25A2%25E5%259B%25A3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QzY2M5ZDhmMWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ブラウザでだけ細い部分が消える — 背景削除ツールの切り抜き精度を上げるまで</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[CORS エラーはフロントエンドでは直せない — エラーメッセージが嘘をついている" | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/maruchi777/articles/585bea4926e626</link>
+            <guid isPermaLink="false">https://zenn.dev/maruchi777/articles/585bea4926e626</guid>
+            <pubDate>Thu, 24 Sep 2026 11:34:22 GMT</pubDate>
+            <description><![CDATA[Access to fetch at 'https://api.example.com/orders' from origin'https://app.example.com' has been blocked by CORS policy:No 'Access-Control-Allow-Origin' header is present on the requested resource.この]]></description>
+            <content:encoded><![CDATA[Access to fetch at 'https://api.example.com/orders' from origin'https://app.example.com' has been blocked by CORS policy:No 'Access-Control-Allow-Origin' header is present on the requested resource.この文章が、たぶん一番誤解されています。読むとこう見えます。fetch が失敗した。フロントエンドの問題だ。どちらも違います。fetch は成功しています。 サーバーは受け取って...]]></content:encoded>
+            <author>maruchi777</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--n-U-QS3B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CORS%2520%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A7%25E3%2581%25AF%25E7%259B%25B4%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2594%2520%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%258C%25E5%2598%2598%25E3%2582%2592%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%2522%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maruchi777%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1YTYwODA1YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>CORS エラーはフロントエンドでは直せない — エラーメッセージが嘘をついている"</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[モデル選択の「auto」に任せてはいけないのは、合格判定だ | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/heftykoo/articles/b754c6bee93d0c</link>
+            <guid isPermaLink="false">https://zenn.dev/heftykoo/articles/b754c6bee93d0c</guid>
+            <pubDate>Thu, 24 Sep 2026 09:19:27 GMT</pubDate>
+            <description><![CDATA[フォームを実装するときも、READMEの一文を直すときも、モデル選択をautoにする。同じ設定で困らないように見える。でもフォームはビルドが通っても、エラー表示が消えたり、キーボードで送信できなかったりする。一方、文書の修正にそこまでの検証は要らない。両者を分けるのはモデル名ではない。「この仕事は何を満たしたら終わりか」だ。選択を自動化する前に、合格条件を仕事ごとに決めておきたい。 tierは品質]]></description>
+            <content:encoded><![CDATA[フォームを実装するときも、READMEの一文を直すときも、モデル選択をautoにする。同じ設定で困らないように見える。でもフォームはビルドが通っても、エラー表示が消えたり、キーボードで送信できなかったりする。一方、文書の修正にそこまでの検証は要らない。両者を分けるのはモデル名ではない。「この仕事は何を満たしたら終わりか」だ。選択を自動化する前に、合格条件を仕事ごとに決めておきたい。 tierは品質保証ではないGitHub Copilotのauto model selectionにはefficiency、balance、intelligenceという選好tierがある。利用可能なモ...]]></content:encoded>
+            <author>heftykoo</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4v6lbIGN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E9%2581%25B8%25E6%258A%259E%25E3%2581%25AE%25E3%2580%258Cauto%25E3%2580%258D%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25AF%25E3%2581%2584%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%2581%25E5%2590%2588%25E6%25A0%25BC%25E5%2588%25A4%25E5%25AE%259A%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:heftykoo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzMjg5NzNmZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>モデル選択の「auto」に任せてはいけないのは、合格判定だ</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[コーダーからフロントエンドエンジニアへ #1-54｜reduce②──実践と、使わない判断 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/koenjineer/articles/c2a9d7b8770bb4</link>
+            <guid isPermaLink="false">https://zenn.dev/koenjineer/articles/c2a9d7b8770bb4</guid>
+            <pubDate>Thu, 24 Sep 2026 07:43:37 GMT</pubDate>
+            <description><![CDATA[はじめに前回（#1-53）は reduce の基本を扱いました。累積値（バケツ）と初期値を用意して、1周ごとに「バケツの新しい中身」を return する。合計・最大値・平均といった数値を作る reduce でした。今回は、その続きです。テーマは2つあります。実践：数値ではなく、オブジェクトを組み立てる reduce（個数の集計）使わない判断：reduce で書けるけれど、書かないほうがいい場面の]]></description>
+            <content:encoded><![CDATA[はじめに前回（#1-53）は reduce の基本を扱いました。累積値（バケツ）と初期値を用意して、1周ごとに「バケツの新しい中身」を return する。合計・最大値・平均といった数値を作る reduce でした。今回は、その続きです。テーマは2つあります。実践：数値ではなく、オブジェクトを組み立てる reduce（個数の集計）使わない判断：reduce で書けるけれど、書かないほうがいい場面の見分け方前回の最後に「累積値は数値でなくてもいい」と書きました。ここが reduce の強みであり、同時に「読めないコード」が生まれやすい場所でもあります。Claude ...]]></content:encoded>
+            <author>Hiro｜AI x Frontend Engineer</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--CrDWKEmW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25B8%2520%25231-54%25EF%25BD%259Creduce%25E2%2591%25A1%25E2%2594%2580%25E2%2594%2580%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%25A8%25E3%2580%2581%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%25AA%25E3%2581%2584%25E5%2588%25A4%25E6%2596%25AD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiro%25EF%25BD%259CAI%2520x%2520Frontend...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1ZTZkOTIyNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>コーダーからフロントエンドエンジニアへ #1-54｜reduce②──実践と、使わない判断</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ブラウザだけでLinux・Docker・AWS・Cisco機器を学べる「疑似ターミナル」の設計思想 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/genhiroko/articles/7536850b4db664</link>
+            <guid isPermaLink="false">https://zenn.dev/genhiroko/articles/7536850b4db664</guid>
+            <pubDate>Thu, 24 Sep 2026 07:03:02 GMT</pubDate>
+            <description><![CDATA[この記事についてプロ道(prodou.net) という、ブラウザだけでLinux・Docker・AWS・Cisco・BIG-IPなどのインフラ操作を学べる無料学習サイトを個人開発しています。この記事では「なぜサーバー実行型ではなく疑似ターミナル型にしたのか」という技術的な設計判断を掘り下げます。!本記事はプロ道の紹介を兼ねた技術解説記事です。実装の詳細な内部コードは省略し、設計思想を中心に書いてい]]></description>
+            <content:encoded><![CDATA[この記事についてプロ道(prodou.net) という、ブラウザだけでLinux・Docker・AWS・Cisco・BIG-IPなどのインフラ操作を学べる無料学習サイトを個人開発しています。この記事では「なぜサーバー実行型ではなく疑似ターミナル型にしたのか」という技術的な設計判断を掘り下げます。!本記事はプロ道の紹介を兼ねた技術解説記事です。実装の詳細な内部コードは省略し、設計思想を中心に書いています。 前提:インフラ学習の環境構築は鬼門Cisco機器やBIG-IPのようなネットワーク/インフラ製品は、学習用に以下のような選択肢があります。方式例課題...]]></content:encoded>
+            <author>genhiroko</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Dc0ed88S--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7Linux%25E3%2583%25BBDocker%25E3%2583%25BBAWS%25E3%2583%25BBCisco%25E6%25A9%259F%25E5%2599%25A8%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B9%25E3%2582%258B%25E3%2580%258C%25E7%2596%2591%25E4%25BC%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E6%2580%259D%25E6%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:genhiroko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFNETURZNUx3RmNDdmFYNVRfa204ZGdhRUNjZ2ZXZE00ZmxGemMtamlRamZlOG9CVS09czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ブラウザだけでLinux・Docker・AWS・Cisco機器を学べる「疑似ターミナル」の設計思想</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Solo | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/introducing-solo/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11114</guid>
+            <pubDate>Wed, 23 Sep 2026 16:02:22 GMT</pubDate>
+            <description><![CDATA[A versatile tool for managing coding projects, integrating multiple terminals and AI agents within a single control panel.]]></description>
+            <content:encoded><![CDATA[A versatile tool for managing coding projects, integrating multiple terminals and AI agents within a single control panel.]]></content:encoded>
+            <author>Adam Rackis</author>
+            <category>Blog Post</category>
+            <category>AI</category>
+            <category>CLI</category>
+            <category>Solo</category>
+            <category>TanStack</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11114" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11114" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Introducing Solo</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</link>
+            <guid isPermaLink="false">https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</guid>
+            <pubDate>Wed, 23 Sep 2026 15:26:46 GMT</pubDate>
+            <description><![CDATA[Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW...]]></description>
+            <content:encoded><![CDATA[Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://www.publickey1.jp/2026/OQ1Z-11O.jpg"/>
+            <_custom>
+                <hatenaCount>103</hatenaCount>
+                <originalTitle>Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</originalTitle>
+                <blogTitle>Publickey</blogTitle>
+                <blogLink>https://www.publickey1.jp/</blogLink>
+                <blogLinkMd5Hash>98314ba2e89a65accec03a81f0250c1e</blogLinkMd5Hash>
+                <favicon>https://www.publickey1.jp/favicon.ico</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み | Publickey]]></title>
+            <link>https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html</link>
+            <guid isPermaLink="false">https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html</guid>
+            <pubDate>Wed, 23 Sep 2026 15:23:11 GMT</pubDate>
+            <description><![CDATA[Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added AGENTS...]]></description>
+            <content:encoded><![CDATA[Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added AGENTS...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://www.publickey1.jp/2026/claudecode-agentsmd.png"/>
+            <_custom>
+                <hatenaCount>152</hatenaCount>
+                <originalTitle>Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み</originalTitle>
+                <blogTitle>Publickey</blogTitle>
+                <blogLink>https://www.publickey1.jp/</blogLink>
+                <blogLinkMd5Hash>98314ba2e89a65accec03a81f0250c1e</blogLinkMd5Hash>
+                <favicon>https://www.publickey1.jp/favicon.ico</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[「暗すぎる」を CIELAB ΔE で測ったら、原因は明度ではなかった | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/yusu31/articles/ba82086aa82baf</link>
+            <guid isPermaLink="false">https://zenn.dev/yusu31/articles/ba82086aa82baf</guid>
+            <pubDate>Wed, 23 Sep 2026 13:41:59 GMT</pubDate>
+            <description><![CDATA[Three.js の低ポリシーンで、Night パレットが3本のプロトタイプを通して「暗すぎる」と診断され続け、明度を上げても直りませんでした。CIELAB ΔE で測ったら原因は明度ではなく色どうしの距離で、3つに分解できました。この記事は、測定の実装（TypeScript 約30行）、4パレットの実測値、閾値をテストに落とす書き方、そして測ったのに誤診した失敗を書きます。 前提作っているのは、]]></description>
+            <content:encoded><![CDATA[Three.js の低ポリシーンで、Night パレットが3本のプロトタイプを通して「暗すぎる」と診断され続け、明度を上げても直りませんでした。CIELAB ΔE で測ったら原因は明度ではなく色どうしの距離で、3つに分解できました。この記事は、測定の実装（TypeScript 約30行）、4パレットの実測値、閾値をテストに落とす書き方、そして測ったのに誤診した失敗を書きます。 前提作っているのは、オレンジの球が小さな世界を旅するポートフォリオサイトです。Three.js 0.184 / React Three Fiber 9 / TypeScript 5.7 / Vitest ...]]></content:encoded>
+            <author>Yusu</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--42KcV0QR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%259A%2597%25E3%2581%2599%25E3%2581%258E%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%2520CIELAB%2520%25CE%2594E%2520%25E3%2581%25A7%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E6%2598%258E%25E5%25BA%25A6%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlNGEzZGZlOGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>「暗すぎる」を CIELAB ΔE で測ったら、原因は明度ではなかった</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[バックエンド・フロントエンド・モバイルを分けるマルチプラットフォーム開発 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/nanashinogonbei/articles/multiplatform-team-development</link>
+            <guid isPermaLink="false">https://zenn.dev/nanashinogonbei/articles/multiplatform-team-development</guid>
+            <pubDate>Wed, 23 Sep 2026 08:22:17 GMT</pubDate>
+            <description><![CDATA[はじめにWebとモバイルの両方を提供するプロダクトでは、画面を作るだけでなく、API、認証、データ管理、ストアへの配信など、複数の領域を同時に扱います。すべてを同じ考え方で実装すると責務の境界が曖昧になり、仕様変更の影響範囲も把握しにくくなります。そこで、バックエンド、Webフロントエンド、モバイルを分け、APIを境界として連携する構成を考えます。この記事では、各領域の責務、API契約、リポジトリ]]></description>
+            <content:encoded><![CDATA[はじめにWebとモバイルの両方を提供するプロダクトでは、画面を作るだけでなく、API、認証、データ管理、ストアへの配信など、複数の領域を同時に扱います。すべてを同じ考え方で実装すると責務の境界が曖昧になり、仕様変更の影響範囲も把握しにくくなります。そこで、バックエンド、Webフロントエンド、モバイルを分け、APIを境界として連携する構成を考えます。この記事では、各領域の責務、API契約、リポジトリ構成、テスト、リリースまで、開発を進めるうえで必要になる考え方を一通り紹介します。 対象読者Webとモバイルの両方を開発するチームバックエンドとクライアントの責務分担を検討して...]]></content:encoded>
+            <author>名無しの権兵衛</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--ewZKXimh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BB%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BB%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%258D%25E7%2584%25A1%25E3%2581%2597%25E3%2581%25AE%25E6%25A8%25A9%25E5%2585%25B5%25E8%25A1%259B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjOTAxOThkNzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>バックエンド・フロントエンド・モバイルを分けるマルチプラットフォーム開発</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Reactのカスタムフック設計パターン集 | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/akinori901/articles/20260923-plan038</link>
+            <guid isPermaLink="false">https://zenn.dev/akinori901/articles/20260923-plan038</guid>
+            <pubDate>Wed, 23 Sep 2026 04:40:04 GMT</pubDate>
+            <description><![CDATA[Reactのカスタムフック設計パターン集 概要Reactのカスタムフックは「ロジックの再利用」を実現する仕組みですが、書き方を誤ると「ただ関数に切り出しただけ」で終わってしまい、かえって見通しが悪くなることもあります。本記事では、入門者が最初に押さえておきたいカスタムフックの設計パターンを、実装例とともに整理します。対象は「useStateとuseEffectは書けるが、自作フックの設計に自信がな]]></description>
+            <content:encoded><![CDATA[Reactのカスタムフック設計パターン集 概要Reactのカスタムフックは「ロジックの再利用」を実現する仕組みですが、書き方を誤ると「ただ関数に切り出しただけ」で終わってしまい、かえって見通しが悪くなることもあります。本記事では、入門者が最初に押さえておきたいカスタムフックの設計パターンを、実装例とともに整理します。対象は「useStateとuseEffectは書けるが、自作フックの設計に自信がない」というレベルの方です。 カスタムフックの基本カスタムフックは、useで始まる名前を持つ、内部でReactのフックを呼ぶただの関数です。import { useState,...]]></content:encoded>
+            <author>Akinori901</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--t_F-Yt37--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2583%2595%25E3%2583%2583%25E3%2582%25AF%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Reactのカスタムフック設計パターン集</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[CSS Gridからグラフがはみ出す原因は、隣のSVGだった | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/jisaku_net/articles/css-grid-svg-min-width-overflow</link>
+            <guid isPermaLink="false">https://zenn.dev/jisaku_net/articles/css-grid-svg-min-width-overflow</guid>
+            <pubDate>Tue, 22 Sep 2026 22:12:59 GMT</pubDate>
+            <description><![CDATA[飲み会中に飲んだ杯数を記録するWebアプリ「何杯飲んだっけ？」の終了履歴画面に、2つのグラフを縦に並べました。日ごとの合計を表示する棒グラフ選択した1日の推移を表示する折れ線グラフ棒グラフは日数が増えるため、横スクロールできるようにしています。折れ線グラフは画面幅に合わせる設計です。ところが、スマートフォンで確認すると「摂取推移」のカードがビューポートの外へはみ出しました。折れ線グラフの幅を調べて]]></description>
+            <content:encoded><![CDATA[飲み会中に飲んだ杯数を記録するWebアプリ「何杯飲んだっけ？」の終了履歴画面に、2つのグラフを縦に並べました。日ごとの合計を表示する棒グラフ選択した1日の推移を表示する折れ線グラフ棒グラフは日数が増えるため、横スクロールできるようにしています。折れ線グラフは画面幅に合わせる設計です。ところが、スマートフォンで確認すると「摂取推移」のカードがビューポートの外へはみ出しました。折れ線グラフの幅を調べても原因が見つかりません。押し広げていたのは、同じCSS Gridに入っている別のカードのSVGでした。修正は、Gridの子要素へmin-width: 0を指定することでした。 ...]]></content:encoded>
+            <author>何でも自作する人</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--KzzocQAf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%2520Grid%25E3%2581%258B%25E3%2582%2589%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2581%258C%25E3%2581%25AF%25E3%2581%25BF%25E5%2587%25BA%25E3%2581%2599%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E3%2580%2581%25E9%259A%25A3%25E3%2581%25AESVG%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkYTc3MDIzMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>CSS Gridからグラフがはみ出す原因は、隣のSVGだった</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Brighter Than White | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/brighter-than-white/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11123</guid>
+            <pubDate>Tue, 22 Sep 2026 21:43:13 GMT</pubDate>
+            <description><![CDATA[If you’ve got an HDR display, and use Chrome 137+ or Safari 26+ (even on iOS), perhaps you’ve seen images sometimes with colors that are so bright they seem to dim the rest of the screen. I find it a ]]></description>
+            <content:encoded><![CDATA[If you’ve got an HDR display, and use Chrome 137+ or Safari 26+ (even on iOS), perhaps you’ve seen images sometimes with colors that are so bright they seem to dim the rest of the screen. I find it a bit distracting, but I can see how it could be a fun technological gimick sometimes. […]]]></content:encoded>
+            <author>Chris Coyier</author>
+            <category>The Beat</category>
+            <category>Color</category>
+            <category>HDR</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11123" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11123" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Brighter Than White</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AIに「完成しました」と言わせない — Figma実装を画素で採点する仕組みを作った | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/tk_tk_tk/articles/ee6af14b9a2d81</link>
+            <guid isPermaLink="false">https://zenn.dev/tk_tk_tk/articles/ee6af14b9a2d81</guid>
+            <pubDate>Tue, 22 Sep 2026 14:02:44 GMT</pubDate>
+            <description><![CDATA[AIエージェントにFigmaのデザインを実装させると、かなりの精度で形になります。ただ、最後に必ず同じことが起きました。AIが「実装できました」と言い、私が並べて見ると合っていないのです。原因は能力ではなく、合否を誰が持つかでした。完成を判定しているのがAI自身だからです。そこで判定だけをAIから取り上げるハーネスを作り、実案件で回しました。その実測を書きます。なお案件名は伏せ、案件A・案件Bと書]]></description>
+            <content:encoded><![CDATA[AIエージェントにFigmaのデザインを実装させると、かなりの精度で形になります。ただ、最後に必ず同じことが起きました。AIが「実装できました」と言い、私が並べて見ると合っていないのです。原因は能力ではなく、合否を誰が持つかでした。完成を判定しているのがAI自身だからです。そこで判定だけをAIから取り上げるハーネスを作り、実案件で回しました。その実測を書きます。なお案件名は伏せ、案件A・案件Bと書きます。ツール自体は社内利用のため非公開です。 結論先に3点だけ書きます。AIに完成を自己申告させない。 合否は決定論的な画像比較が独占し、AIはdoneを出せません。正はF...]]></content:encoded>
+            <author>TK|°_°|TK</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5OxmBZr0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E5%25AE%258C%25E6%2588%2590%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%258D%25E3%2581%25A8%25E8%25A8%2580%25E3%2582%258F%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2594%2520Figma%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%2592%25E7%2594%25BB%25E7%25B4%25A0%25E3%2581%25A7%25E6%258E%25A1%25E7%2582%25B9%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TK%257C%25C2%25B0_%25C2%25B0%257CTK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyODU0MjQ2NTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AIに「完成しました」と言わせない — Figma実装を画素で採点する仕組みを作った</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[誰も取りに来ないファイルを 4,710 個配っていた — 静的書き出しから RSC ペイロードを落とす | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/kodomo_news/articles/156-drop-unused-rsc-payloads</link>
+            <guid isPermaLink="false">https://zenn.dev/kodomo_news/articles/156-drop-unused-rsc-payloads</guid>
+            <pubDate>Tue, 22 Sep 2026 13:52:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。小学生向けのニュースサイト、こどもニュースをつくっています。公開サイトは Next.js を output: 'export' で静的に書き出して、Cloudflare Pages に置いています。記事は毎日増えるので、出力のファイル数も毎日増えます。デプロイのファイル数が上限に近づいてきたので中身を数えたら、6,025 ファイルのうち 4,710 ファイルが、誰も取りに来ないファイル]]></description>
+            <content:encoded><![CDATA[こんにちは。小学生向けのニュースサイト、こどもニュースをつくっています。公開サイトは Next.js を output: 'export' で静的に書き出して、Cloudflare Pages に置いています。記事は毎日増えるので、出力のファイル数も毎日増えます。デプロイのファイル数が上限に近づいてきたので中身を数えたら、6,025 ファイルのうち 4,710 ファイルが、誰も取りに来ないファイルでした。何だったのかと、どう落としたかを書きます。 症状 — 上限まで 7 か月Cloudflare Pages の無料プランには、1 回のデプロイあたり 20,000 ファイルという...]]></content:encoded>
+            <author>kodomo-news.net</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--8eKiKZe7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%25B0%25E3%2582%2582%25E5%258F%2596%25E3%2582%258A%25E3%2581%25AB%25E6%259D%25A5%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25204%252C710%2520%25E5%2580%258B%25E9%2585%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2520%25E2%2580%2594%2520%25E9%259D%2599%25E7%259A%2584%25E6%259B%25B8%25E3%2581%258D%25E5%2587%25BA%25E3%2581%2597%25E3%2581%258B%25E3%2582%2589%2520RSC%2520%25E3%2583%259A%25E3%2582%25A4%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kodomo-news.net%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5NmM0NTZkYjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>誰も取りに来ないファイルを 4,710 個配っていた — 静的書き出しから RSC ペイロードを落とす</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Next.js vs TanStack Start の違いを10項目で検証してみた | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/643866/articles/48eae6e7b845f8</link>
+            <guid isPermaLink="false">https://zenn.dev/643866/articles/48eae6e7b845f8</guid>
+            <pubDate>Tue, 22 Sep 2026 09:30:05 GMT</pubDate>
+            <description><![CDATA[はじめにこの記事では、Next.js と TanStack Start を、実際にコードを書きながら 10項目 で比較検証します。Next.jsは、Vercel社が開発し、App Router / RSCといった特徴を持つReactフレームワークです。一方TanStack Start は TanStack Router と Vite をベースにしたフルスタック React フレームワークです。結論]]></description>
+            <content:encoded><![CDATA[はじめにこの記事では、Next.js と TanStack Start を、実際にコードを書きながら 10項目 で比較検証します。Next.jsは、Vercel社が開発し、App Router / RSCといった特徴を持つReactフレームワークです。一方TanStack Start は TanStack Router と Vite をベースにしたフルスタック React フレームワークです。結論を先に書くと、エコシステムが成熟・高パフォーマンス・安定運用を重視するならNext.js型の一貫性・デプロイ先の自由度を重視するならTanStack Startという分類に...]]></content:encoded>
+            <author>shun</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--2DJ-TIGf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520vs%2520TanStack%2520Start%2520%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%259210%25E9%25A0%2585%25E7%259B%25AE%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UxZWY2MWJmNmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>4</hatenaCount>
+                <originalTitle>Next.js vs TanStack Start の違いを10項目で検証してみた</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[題材別サムネイルテンプレートを状態設計する | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/videoai/articles/29dd51cd3ea817</link>
+            <guid isPermaLink="false">https://zenn.dev/videoai/articles/29dd51cd3ea817</guid>
+            <pubDate>Tue, 22 Sep 2026 02:50:27 GMT</pubDate>
+            <description><![CDATA[題材別サムネイルテンプレートを状態設計するこれは公開UIを観察して作る設計メモであり、内部実装やモデル性能を推測する記事ではない。URLや画像を入力し、題材と変更内容を説明し、テンプレートや比率を選び、候補を比較する。この一連の操作を、単なる生成ボタンではなくレビュー可能な状態として捉える。 題材が違えば入力責務も違うYouTube Thumbnail Templatesのようなワークフローでは、]]></description>
+            <content:encoded><![CDATA[題材別サムネイルテンプレートを状態設計するこれは公開UIを観察して作る設計メモであり、内部実装やモデル性能を推測する記事ではない。URLや画像を入力し、題材と変更内容を説明し、テンプレートや比率を選び、候補を比較する。この一連の操作を、単なる生成ボタンではなくレビュー可能な状態として捉える。 題材が違えば入力責務も違うYouTube Thumbnail Templatesのようなワークフローでは、参照画像、主役、文字、ムード、レイアウトが同じ画面に現れる。しかし、ミームの問い、ホラーゲームの脅威、社会派ストーリーの関係は同じフィールドでは表せない。type Brief =...]]></content:encoded>
+            <author>Cherry Flank</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--teasjcLG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A1%258C%25E6%259D%2590%25E5%2588%25A5%25E3%2582%25B5%25E3%2583%25A0%25E3%2583%258D%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%25E7%258A%25B6%25E6%2585%258B%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Cherry%2520Flank%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UwNzRlNjdkODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>題材別サムネイルテンプレートを状態設計する</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[React Router の新しい useRouterState で Pending UI を考える | Zennの「frontend」のフィード]]></title>
+            <link>https://zenn.dev/astrologian/articles/562fe3f749d985</link>
+            <guid isPermaLink="false">https://zenn.dev/astrologian/articles/562fe3f749d985</guid>
+            <pubDate>Mon, 21 Sep 2026 23:00:05 GMT</pubDate>
+            <description><![CDATA[こんにちは 👋React Router v7.15.1 で useRouterState という新しい Hook が追加されました。https://reactrouter.com/api/hooks/useRouterState公式ドキュメントによると useRouterState() で取得できる値は以下のようです。import { unstable_useRouterState as useR]]></description>
+            <content:encoded><![CDATA[こんにちは 👋React Router v7.15.1 で useRouterState という新しい Hook が追加されました。https://reactrouter.com/api/hooks/useRouterState公式ドキュメントによると useRouterState() で取得できる値は以下のようです。import { unstable_useRouterState as useRouterState } from 'react-router';const { active, pending } = useRouterState();// Active i...]]></content:encoded>
+            <author>Relu</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--IudyXZ_k--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Router%2520%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%2520useRouterState%2520%25E3%2581%25A7%2520Pending%2520UI%2520%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Relu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwZmMzM2RiODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>React Router の新しい useRouterState で Pending UI を考える</originalTitle>
+                <blogTitle>Zennの「frontend」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/frontend</blogLink>
+                <blogLinkMd5Hash>cd01ca6318e4f96a107e090b8bc5f5be</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[HTML・SCSSでサイトを作りたくて、小さなSSG「koromo」を作った | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/snowdoke/articles/5ed2fa6c2db485</link>
+            <guid isPermaLink="false">https://zenn.dev/snowdoke/articles/5ed2fa6c2db485</guid>
+            <pubDate>Mon, 21 Sep 2026 19:30:27 GMT</pubDate>
+            <description><![CDATA[HTML・SCSSでサイトを作りたくて、小さなSSG「koromo」を作ったHTML・SCSS・JavaScriptで静的サイトを作るとき、ヘッダーやフッターの共通化、ページごとのCSS管理、繰り返し使うパーツの扱いを、もう少し楽にしたい。そんなサイト制作のために、静的サイトジェネレーター（SSG）の koromo を作りました。ページの本文や設定を書き、ビルドすると、公開用のHTML・CSS・J]]></description>
+            <content:encoded><![CDATA[HTML・SCSSでサイトを作りたくて、小さなSSG「koromo」を作ったHTML・SCSS・JavaScriptで静的サイトを作るとき、ヘッダーやフッターの共通化、ページごとのCSS管理、繰り返し使うパーツの扱いを、もう少し楽にしたい。そんなサイト制作のために、静的サイトジェネレーター（SSG）の koromo を作りました。ページの本文や設定を書き、ビルドすると、公開用のHTML・CSS・JavaScriptを dist/ に出力します。まず触ってみたい方は、ブラウザで試せるデモからどうぞ。https://gl.matrix.jp/koromo-intro/demo/...]]></content:encoded>
+            <author>yukidoke</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--D-udbKwh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HTML%25E3%2583%25BBSCSS%25E3%2581%25A7%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%259F%25E3%2581%258F%25E3%2581%25A6%25E3%2580%2581%25E5%25B0%258F%25E3%2581%2595%25E3%2581%25AASSG%25E3%2580%258Ckoromo%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukidoke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNmUwNTA3M2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>HTML・SCSSでサイトを作りたくて、小さなSSG「koromo」を作った</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Dark Mode Very Much Matters To Me | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/dark-mode-very-much-matters-to-me/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11094</guid>
+            <pubDate>Mon, 21 Sep 2026 15:35:54 GMT</pubDate>
+            <description><![CDATA[It's not just vibes, it's an accessibility thing.]]></description>
+            <content:encoded><![CDATA[It's not just vibes, it's an accessibility thing.]]></content:encoded>
+            <author>Preethi Sam</author>
+            <category>Blog Post</category>
+            <category>Accessibility</category>
+            <category>Color</category>
+            <category>CSS</category>
+            <category>Dark Theme</category>
+            <category>UX</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11094" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11094" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Dark Mode Very Much Matters To Me</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[iOS 27 の PWA で、画面上端のプログレッシブブラーを自分で出し入れする | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/uakihir0/articles/260920-ios27-pwa-blur</link>
+            <guid isPermaLink="false">https://zenn.dev/uakihir0/articles/260920-ios27-pwa-blur</guid>
+            <pubDate>Sun, 20 Sep 2026 07:42:45 GMT</pubDate>
+            <description><![CDATA[はじめにうるし といいます。趣味で SNS にまつわる開発をしています。https://x.com/uakihir0今作っている Saypip という SNS の PWA で、iOS 27 のホーム画面アプリの上端に出るプログレッシブブラーと 数日格闘しました。最終的に、ページ側から任意のタイミングで出し入れできるところまで到達したので、その仕組みと、途中で踏んだ罠を記事にしておきます。https]]></description>
+            <content:encoded><![CDATA[はじめにうるし といいます。趣味で SNS にまつわる開発をしています。https://x.com/uakihir0今作っている Saypip という SNS の PWA で、iOS 27 のホーム画面アプリの上端に出るプログレッシブブラーと 数日格闘しました。最終的に、ページ側から任意のタイミングで出し入れできるところまで到達したので、その仕組みと、途中で踏んだ罠を記事にしておきます。https://saypip.appiOS 26 で導入された Liquid Glass 系の見た目の変更のうち、地味だけれど一番画面に出てくるのが、スクロール可能なコンテンツの端にかかるあ...]]></content:encoded>
+            <author>うるし</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wpLZwq6a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:iOS%252027%2520%25E3%2581%25AE%2520PWA%2520%25E3%2581%25A7%25E3%2580%2581%25E7%2594%25BB%25E9%259D%25A2%25E4%25B8%258A%25E7%25AB%25AF%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%2596%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%2592%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A7%25E5%2587%25BA%25E3%2581%2597%25E5%2585%25A5%25E3%2582%258C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2586%25E3%2582%258B%25E3%2581%2597%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk4NWFjM2M2NTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>iOS 27 の PWA で、画面上端のプログレッシブブラーを自分で出し入れする</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[#2 ポートフォリオサイト制作 #2｜CSSによるUI実装とGitHub Pages公開 | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/leeseungje/articles/29cd11bef1da5b</link>
+            <guid isPermaLink="false">https://zenn.dev/leeseungje/articles/29cd11bef1da5b</guid>
+            <pubDate>Sun, 20 Sep 2026 06:10:35 GMT</pubDate>
+            <description><![CDATA[1日目｜CSSの実装を始める(2026.09.15)HTMLでサイト全体の骨組みができたので、次はCSSを使って見た目を作り始めました。いきなり細かいデザインを作るのではなく、まずはサイト全体で共通して使用するスタイルから整理していくことにしました。 base.cssを作成最初はstyle.cssという名前でCSSファイルを作成していましたが、これからCSSが増えていくことを考え、ファイルの役割が]]></description>
+            <content:encoded><![CDATA[1日目｜CSSの実装を始める(2026.09.15)HTMLでサイト全体の骨組みができたので、次はCSSを使って見た目を作り始めました。いきなり細かいデザインを作るのではなく、まずはサイト全体で共通して使用するスタイルから整理していくことにしました。 base.cssを作成最初はstyle.cssという名前でCSSファイルを作成していましたが、これからCSSが増えていくことを考え、ファイルの役割が分かりやすいようにbase.cssへ変更しました。CSS/└── base.cssindex.htmlからもbase.cssを読み込めるように設定しました。&amp;lt;link...]]></content:encoded>
+            <author>イ・スンジェ | LEE SEUNGJE</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--iSMHvNCs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25232%2520%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AA%25E3%2582%25AA%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E5%2588%25B6%25E4%25BD%259C%2520%25232%25EF%25BD%259CCSS%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258BUI%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A8GitHub%2520Pages%25E5%2585%25AC%25E9%2596%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25A7%2520%257C%2520LEE%2520SEUNGJE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2E2M29nUUhrVEVRZE5tRnU3dTFqMDlUeUFlNVZPVUg0aXZEWDVhRy1zQ1ptMFlKalI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>#2 ポートフォリオサイト制作 #2｜CSSによるUI実装とGitHub Pages公開</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[手描き地図と180地点、座標まわりで踏んだ地雷集 | Zennの「CSS」のフィード]]></title>
+            <link>https://zenn.dev/moshimo_weather/articles/f4070d804be562</link>
+            <guid isPermaLink="false">https://zenn.dev/moshimo_weather/articles/f4070d804be562</guid>
+            <pubDate>Sat, 19 Sep 2026 03:58:24 GMT</pubDate>
+            <description><![CDATA[「もしも天気」の日本タブには、全国180地点のデータを1枚の地図に色分けして表示する機能がある。地図はGISデータではなく、アプリの他の画面と絵柄を揃えた手描き風のイラストで、そのぶん座標まわりで独特のバグを何度も踏んだ。まとめて記録しておく。 手描きの地図を、緯度経度に校正するイラストである以上、緯度経度から単純な直線変換で画面上の位置を求めることはできない。岬の先端・半島・離島・湾の奥や両岸な]]></description>
+            <content:encoded><![CDATA[「もしも天気」の日本タブには、全国180地点のデータを1枚の地図に色分けして表示する機能がある。地図はGISデータではなく、アプリの他の画面と絵柄を揃えた手描き風のイラストで、そのぶん座標まわりで独特のバグを何度も踏んだ。まとめて記録しておく。 手描きの地図を、緯度経度に校正するイラストである以上、緯度経度から単純な直線変換で画面上の位置を求めることはできない。岬の先端・半島・離島・湾の奥や両岸など、地図上で位置が確実に分かる地形を約20〜30点選んで基準点とし、その基準点の「イラスト上の位置」と「実際の緯度経度」の対応から、薄板スプライン(thin-plate spline)と...]]></content:encoded>
+            <author>もしも天気</author>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5Z6b3lgL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E6%258F%258F%25E3%2581%258D%25E5%259C%25B0%25E5%259B%25B3%25E3%2581%25A8180%25E5%259C%25B0%25E7%2582%25B9%25E3%2580%2581%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%25BE%25E3%2582%258F%25E3%2582%258A%25E3%2581%25A7%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E5%259C%25B0%25E9%259B%25B7%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2582%25E3%2581%2597%25E3%2582%2582%25E5%25A4%25A9%25E6%25B0%2597%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwY2UwZGQ2OWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>手描き地図と180地点、座標まわりで踏んだ地雷集</originalTitle>
+                <blogTitle>Zennの「CSS」のフィード</blogTitle>
+                <blogLink>https://zenn.dev/topics/css</blogLink>
+                <blogLinkMd5Hash>2554fd9db3f33926b2737a40e5fe814f</blogLinkMd5Hash>
+                <favicon>https://static.zenn.studio/images/logo-transparent.png</favicon>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Custom Glow Rings Inside of Elements | Master.dev Blog RSS Feed]]></title>
+            <link>https://blog.master.dev/custom-glow-rings-inside-of-elements/</link>
+            <guid isPermaLink="false">https://blog.master.dev/?p=11076</guid>
+            <pubDate>Fri, 18 Sep 2026 22:32:56 GMT</pubDate>
+            <description><![CDATA[A box-shadow is an obvious choice for an inner glow of an element to highlight it. But with some fancy masking, we can use any overlay style we want.]]></description>
+            <content:encoded><![CDATA[A box-shadow is an obvious choice for an inner glow of an element to highlight it. But with some fancy masking, we can use any overlay style we want.]]></content:encoded>
+            <author>Chris Coyier</author>
+            <category>Blog Post</category>
+            <category>box-shadow</category>
+            <category>conic-gradient()</category>
+            <category>CSS</category>
+            <category>Design</category>
+            <category>Mask</category>
+            <enclosure length="0" type="image//wp-json/social-image-generator/v1/image/11076" height="630" url="https://blog.master.dev/wp-json/social-image-generator/v1/image/11076" width="1200"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Custom Glow Rings Inside of Elements</originalTitle>
+                <blogTitle>Master.dev Blog RSS Feed</blogTitle>
+                <blogLink>https://blog.master.dev</blogLink>
+                <blogLinkMd5Hash>61b7f9099864eec938d5589848ac72da</blogLinkMd5Hash>
+                <favicon>https://blog.master.dev/favicon-32x32.png</favicon>
+            </_custom>
+        </item>
+    </channel>
+</rss>
