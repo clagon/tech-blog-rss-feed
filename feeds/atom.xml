@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://clagon.github.io/tech-blog-rss-feed/</id>
+    <title>Frontend Tech RSS</title>
+    <updated>2026-10-14T18:18:16.255Z</updated>
+    <generator>clagon/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://clagon.github.io/tech-blog-rss-feed/"/>
+    <link rel="self" href="https://clagon.github.io/tech-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>CSS、JavaScript、Web Platform、ブラウザ、UI実装など、フロントエンド開発に関する記事をまとめたRSSフィード</subtitle>
+    <logo>https://clagon.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://clagon.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>clagon/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</id>
+        <link href="https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/mxc-ga01.png" type="image/png"/>
+        <updated>2026-10-14T15:57:19.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...]]></summary>
+        <content type="html"><![CDATA[マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...]]></content>
+        <published>2026-10-14T15:57:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Fancy Scrollspy Using Modern CSS | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11384</id>
+        <link href="https://blog.master.dev/building-a-fancy-scrollspy-using-modern-css/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11384" type="image//wp-json/social-image-generator/v1/image/11384"/>
+        <updated>2026-10-14T15:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Scrollspy navigation used to mean IntersectionObserver and a pile of JavaScript. With scroll-target-group, :target-current, and a little anchor positioning, a plain list of anchor links can highlight ]]></summary>
+        <content type="html"><![CDATA[Scrollspy navigation used to mean IntersectionObserver and a pile of JavaScript. With scroll-target-group, :target-current, and a little anchor positioning, a plain list of anchor links can highlight the current section all on its own.]]></content>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="Anchor"/>
+        <category label="CSS"/>
+        <category label="Scrolling"/>
+        <published>2026-10-14T15:20:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“WebMCP is Agentic WebPerf” | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11414</id>
+        <link href="https://blog.master.dev/webmcp-is-agentic-webperf/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11414" type="image//wp-json/social-image-generator/v1/image/11414"/>
+        <updated>2026-10-14T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Yoav Weiss makes a good point: “WebMCP is Agentic WebPerf”. I’ve seen both pushback to WebMCP in the form of “websites should just be better, or agents should be smarter, there shouldn’t be alternativ]]></summary>
+        <content type="html"><![CDATA[Yoav Weiss makes a good point: “WebMCP is Agentic WebPerf”. I’ve seen both pushback to WebMCP in the form of “websites should just be better, or agents should be smarter, there shouldn’t be alternative paths to using them built.” And I’ve seen plenty of excitement for WebMCP in the form of “ooooo AI droolface”. But […]]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="The Beat"/>
+        <category label="AI"/>
+        <category label="Browsers"/>
+        <category label="MCP"/>
+        <category label="WebMCP"/>
+        <published>2026-10-14T15:19:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS :focus-within擬似クラスセレクタ | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/code3/articles/d66a9e69d6a053</id>
+        <link href="https://zenn.dev/code3/articles/d66a9e69d6a053"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--zoIG5yfB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%2520%253Afocus-within%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:code3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE2ZWJhODFjN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T06:46:14.000Z</updated>
+        <summary type="html"><![CDATA[😄この投稿は、codingeverybody.jpのコンテンツをもとに作成しています。 定義と使い方:focus-within擬似クラスは、要素自身またはその子要素のいずれかがフォーカスされている間、その親要素を選択します。このセレクタは、親要素にスタイルを適用できる点で、:focus擬似クラスとは異なります。---- HTML ----&amp;lt;form&amp;gt; &amp;lt;fieldset&amp;gt; &amp;lt;legend&amp;gt;名前を入]]></summary>
+        <content type="html"><![CDATA[😄この投稿は、codingeverybody.jpのコンテンツをもとに作成しています。 定義と使い方:focus-within擬似クラスは、要素自身またはその子要素のいずれかがフォーカスされている間、その親要素を選択します。このセレクタは、親要素にスタイルを適用できる点で、:focus擬似クラスとは異なります。---- HTML ----&amp;lt;form&amp;gt; &amp;lt;fieldset&amp;gt; &amp;lt;legend&amp;gt;名前を入力してください。&amp;lt;/legend&amp;gt; &amp;lt;label for="user-name"&amp;gt;...]]></content>
+        <author>
+            <name>code3</name>
+        </author>
+        <published>2026-10-14T06:46:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EtherRATのC2確立から学ぶ、EthereumとNode.js | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/duskhum/articles/4a02509d126660</id>
+        <link href="https://zenn.dev/duskhum/articles/4a02509d126660"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--is5IMopS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EtherRAT%25E3%2581%25AEC2%25E7%25A2%25BA%25E7%25AB%258B%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%2581Ethereum%25E3%2581%25A8Node.js%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:duskhum%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T06:23:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめにインシデントレポートを読んでいて、EtherRATというマルウェアがEthereumを利用してC2の接続先を取得している、という説明に目が留まりました。Ethereumについて知っていたのは、暗号資産やブロックチェーンに関係するものだという程度です。それが感染端末と攻撃者の通信にどうつながるのか、最初は想像できませんでした。JavaScriptで書かれたマルウェアを動かすために、Node.]]></summary>
+        <content type="html"><![CDATA[はじめにインシデントレポートを読んでいて、EtherRATというマルウェアがEthereumを利用してC2の接続先を取得している、という説明に目が留まりました。Ethereumについて知っていたのは、暗号資産やブロックチェーンに関係するものだという程度です。それが感染端末と攻撃者の通信にどうつながるのか、最初は想像できませんでした。JavaScriptで書かれたマルウェアを動かすために、Node.jsまでダウンロードしている点も気になりました。私はセキュリティやソフトウェア開発の専門家ではなく、EthereumやNode.jsについても、今回のレポートを読むまでほとんど知りませ...]]></content>
+        <author>
+            <name>duskhum</name>
+        </author>
+        <published>2026-10-14T06:23:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【備忘録】CSSのstickyで作るせり上がりながら背景が見える演出 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/crayfisher_zari/articles/75619d5860f885</id>
+        <link href="https://zenn.dev/crayfisher_zari/articles/75619d5860f885"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--E0V8vPvU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%25E3%2580%2591CSS%25E3%2581%25AEsticky%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259B%25E3%2582%258A%25E4%25B8%258A%25E3%2581%258C%25E3%2582%258A%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E8%2583%258C%25E6%2599%25AF%25E3%2581%258C%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E6%25BC%2594%25E5%2587%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AF%25E3%2582%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FmN2I2NDVkZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T05:59:58.000Z</updated>
+        <summary type="html"><![CDATA[時々作っては作り方を忘れるので備忘録も兼ねて記事にします。正式名称を知らないのですが、スクロールしていくと前景のコンテンツがカーテンみたいにせり上がって背景が見えてくる演出のやつです。▼こういうやつ position: stickyを使うメリットposition: fixedで背景に固定するのもいいですが、全体のレイアウトに影響があり関係ない要素まで副作用に巻き込まれるおそれがあります。posit]]></summary>
+        <content type="html"><![CDATA[時々作っては作り方を忘れるので備忘録も兼ねて記事にします。正式名称を知らないのですが、スクロールしていくと前景のコンテンツがカーテンみたいにせり上がって背景が見えてくる演出のやつです。▼こういうやつ position: stickyを使うメリットposition: fixedで背景に固定するのもいいですが、全体のレイアウトに影響があり関係ない要素まで副作用に巻き込まれるおそれがあります。position: stickyを使うとこの演出前後のみに影響を抑えられるのでコントロールがしやすいです。 実装ポイント模式的に3つのセクションにわけて説明します。せり上がる要素がセクショ...]]></content>
+        <author>
+            <name>にしはら</name>
+        </author>
+        <published>2026-10-14T05:59:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【１日１デプロイ】敵の予告を読んで斬る「夕焼けミニダンジョン」を作った | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/boraemon2000/articles/sunset-mini-dungeon-attack-turns</id>
+        <link href="https://zenn.dev/boraemon2000/articles/sunset-mini-dungeon-attack-turns"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--_HlIEDnN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25EF%25BC%2591%25E6%2597%25A5%25EF%25BC%2591%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%2591%25E6%2595%25B5%25E3%2581%25AE%25E4%25BA%2588%25E5%2591%258A%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E6%2596%25AC%25E3%2582%258B%25E3%2580%258C%25E5%25A4%2595%25E7%2584%25BC%25E3%2581%2591%25E3%2583%259F%25E3%2583%258B%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:boraemon2000%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2YTZiNTlmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T05:14:07.000Z</updated>
+        <summary type="html"><![CDATA[今回作ったもの「１日１デプロイ」の新作として、赤い攻撃予告を避けながら3つの部屋を突破する短編アクションRPG ザクッ！夕焼けミニダンジョン を作りました。左のスティックでブラピさんを動かし、右の「斬る」で敵を攻撃します。PCでは矢印キーまたはWASDで移動し、Space キーで斬れます。部屋ごとに敵の性質が変わります。部屋1：近づいて突進する敵部屋2：突進する敵と、離れて弾を撃つ敵部屋3：円・扇]]></summary>
+        <content type="html"><![CDATA[今回作ったもの「１日１デプロイ」の新作として、赤い攻撃予告を避けながら3つの部屋を突破する短編アクションRPG ザクッ！夕焼けミニダンジョン を作りました。左のスティックでブラピさんを動かし、右の「斬る」で敵を攻撃します。PCでは矢印キーまたはWASDで移動し、Space キーで斬れます。部屋ごとに敵の性質が変わります。部屋1：近づいて突進する敵部屋2：突進する敵と、離れて弾を撃つ敵部屋3：円・扇・連続弾を使うボス敵を3体続けて倒すと「一閃」が点灯し、次の斬撃が広がって敵弾も消します。部屋を抜けるたびに2つの護符から1つを選び、斬撃を広げるか、素早くするか、回復...]]></content>
+        <author>
+            <name>boraemon2000</name>
+        </author>
+        <published>2026-10-14T05:14:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厚生年金の標準報酬月額の上限引き上げ(2027〜2029年)の保険料を、時点別の等級表とテストで計算するツールを作成しました | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/tsumu26/articles/526ce667f80d21</id>
+        <link href="https://zenn.dev/tsumu26/articles/526ce667f80d21"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--UYzvT4Uq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258E%259A%25E7%2594%259F%25E5%25B9%25B4%25E9%2587%2591%25E3%2581%25AE%25E6%25A8%2599%25E6%25BA%2596%25E5%25A0%25B1%25E9%2585%25AC%25E6%259C%2588%25E9%25A1%258D%25E3%2581%25AE%25E4%25B8%258A%25E9%2599%2590%25E5%25BC%2595%25E3%2581%258D%25E4%25B8%258A%25E3%2581%2592%25282027%25E3%2580%259C2029%25E5%25B9%25B4%2529%25E3%2581%25AE%25E4%25BF%259D%25E9%2599%25BA%25E6%2596%2599%25E3%2582%2592%25E3%2580%2581%25E6%2599%2582%25E7%2582%25B9%25E5%2588%25A5%25E3%2581%25AE%25E7%25AD%2589%25E7%25B4%259A%25E8%25A1%25A8%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2582%2580%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1BROF9vN2g1TG9NRkpHU0o4c0tfREJHRnkzbUtDNndKS2xhSUs0TjByWGpDMGNYcz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T01:09:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイト]]></summary>
+        <content type="html"><![CDATA[はじめに厚生年金の標準報酬月額の上限が、2027年9月から3段階で上がります。自分の月の報酬だと、保険料がいくら変わるのかを、現行と並べて確認できる計算ツールを作りました。ツール: https://seidolab.com/tools/pension-cap/月の報酬別の一覧: https://seidolab.com/tools/pension-cap/tsuki/フロントエンドだけの静的サイトで、入力した内容はブラウザの中だけで計算し、送信しません。この記事では、制度の要点と、「時点によって等級表が変わる」計算をどう組んだかをまとめます。 何が変わるのか厚生...]]></content>
+        <author>
+            <name>つむ</name>
+        </author>
+        <published>2026-10-14T01:09:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TanStack Start × Tailwind構成を、Astro × SCSS構成に変えた話 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/tomotomo000/articles/tomo-63232110-428c-411b-9625-5b8030788b38</id>
+        <link href="https://zenn.dev/tomotomo000/articles/tomo-63232110-428c-411b-9625-5b8030788b38"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--pIJEHLRU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TanStack%2520Start%2520%25C3%2597%2520Tailwind%25E6%25A7%258B%25E6%2588%2590%25E3%2582%2592%25E3%2580%2581Astro%2520%25C3%2597%2520SCSS%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1NjJiYjA3ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T00:57:16.000Z</updated>
+        <summary type="html"><![CDATA[今回は、自分のポートフォリオサイトの構成を見直した話です。https://tomo-site.page/もともとは TanStack Start × Tailwind で作っていたんですが、Astro × SCSS構成にフルリプレースしました。最初は、「流行りのTanStack Start!!」くらいの感じで TanStack Start × Tailwind 構成でポートフォリオを作っていました]]></summary>
+        <content type="html"><![CDATA[今回は、自分のポートフォリオサイトの構成を見直した話です。https://tomo-site.page/もともとは TanStack Start × Tailwind で作っていたんですが、Astro × SCSS構成にフルリプレースしました。最初は、「流行りのTanStack Start!!」くらいの感じで TanStack Start × Tailwind 構成でポートフォリオを作っていました。ちょうどAIを使った実装も増えてきていて、画面を見ながら「ここもう少し余白ほしい」「このカード並べて」「レスポンシブも対応して」みたいに指示を出していくと、かなり速いです。Tailw...]]></content>
+        <author>
+            <name>Tomo</name>
+        </author>
+        <published>2026-10-14T00:57:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TanStack Start × Tailwind構成を、Astro × SCSS構成に変えた話 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/tomotomo000/articles/tomo-63232110-428c-411b-9625-5b8030788b38</id>
+        <link href="https://zenn.dev/tomotomo000/articles/tomo-63232110-428c-411b-9625-5b8030788b38"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--pIJEHLRU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TanStack%2520Start%2520%25C3%2597%2520Tailwind%25E6%25A7%258B%25E6%2588%2590%25E3%2582%2592%25E3%2580%2581Astro%2520%25C3%2597%2520SCSS%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1NjJiYjA3ZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T00:57:16.000Z</updated>
+        <summary type="html"><![CDATA[今回は、自分のポートフォリオサイトの構成を見直した話です。https://tomo-site.page/もともとは TanStack Start × Tailwind で作っていたんですが、Astro × SCSS構成にフルリプレースしました。最初は、「流行りのTanStack Start!!」くらいの感じで TanStack Start × Tailwind 構成でポートフォリオを作っていました]]></summary>
+        <content type="html"><![CDATA[今回は、自分のポートフォリオサイトの構成を見直した話です。https://tomo-site.page/もともとは TanStack Start × Tailwind で作っていたんですが、Astro × SCSS構成にフルリプレースしました。最初は、「流行りのTanStack Start!!」くらいの感じで TanStack Start × Tailwind 構成でポートフォリオを作っていました。ちょうどAIを使った実装も増えてきていて、画面を見ながら「ここもう少し余白ほしい」「このカード並べて」「レスポンシブも対応して」みたいに指示を出していくと、かなり速いです。Tailw...]]></content>
+        <author>
+            <name>Tomo</name>
+        </author>
+        <published>2026-10-14T00:57:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEIC→JPEG変換後、拡張子だけで判断しないためのチェック | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/morphio/articles/6c3f9a92af903b</id>
+        <link href="https://zenn.dev/morphio/articles/6c3f9a92af903b"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--dmVzEDKL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HEIC%25E2%2586%2592JPEG%25E5%25A4%2589%25E6%258F%259B%25E5%25BE%258C%25E3%2580%2581%25E6%258B%25A1%25E5%25BC%25B5%25E5%25AD%2590%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E5%2588%25A4%25E6%2596%25AD%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:David%2520Miller%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-14T00:51:37.000Z</updated>
+        <summary type="html"><![CDATA[変換した写真を .jpg で保存したのに、アップロード先が受け付けないことがあります。ファイル名より先に、変換処理が返したデータを確認します。JPEGができているか、画像として開けるかを分けて調べると原因を追いやすくなります。 返ってきたBlobを検査するcanvasの toBlob() に image/jpeg を渡しても、その形式がサポートされなければPNGが返ります。出力を見ずに拡張子だけ ]]></summary>
+        <content type="html"><![CDATA[変換した写真を .jpg で保存したのに、アップロード先が受け付けないことがあります。ファイル名より先に、変換処理が返したデータを確認します。JPEGができているか、画像として開けるかを分けて調べると原因を追いやすくなります。 返ってきたBlobを検査するcanvasの toBlob() に image/jpeg を渡しても、その形式がサポートされなければPNGが返ります。出力を見ずに拡張子だけ .jpg にすると、ファイル名と中身が一致しません。保存前にBlobの形式、先頭バイト、デコード結果を調べます。async function inspectJpeg(blob) { ...]]></content>
+        <author>
+            <name>David Miller</name>
+        </author>
+        <published>2026-10-14T00:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonでプライム感謝祭2026の先行セールが開催！ 私がさっそく購入したもの、リピ買いしているものを紹介します | コリス]]></title>
+        <id>https://coliss.com/?p=85562</id>
+        <link href="https://coliss.com/articles/products/amazon-prime-appreciation-20261014.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/2026101401-01@2x.png" type="image/png"/>
+        <updated>2026-10-14T00:36:58.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 このセールを待っていた人も多いと思います。「プライム感謝祭2026」の先行セールが10/13から開催しています！ プライム会員限定のセールということで、通常のセールより […]]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 このセールを待っていた人も多いと思います。「プライム感謝祭2026」の先行セールが10/13から開催しています！ プライム会員限定のセールということで、通常のセールより […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Products"/>
+        <category label="Amazon"/>
+        <published>2026-10-14T00:36:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brython 逆引き | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/suehiro3721p/books/5cdcb6eb78ef1e</id>
+        <link href="https://zenn.dev/suehiro3721p/books/5cdcb6eb78ef1e"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--JJayr6iq--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9kZTY5Njg1YjdkLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" type="image/jpg"/>
+        <updated>2026-10-13T21:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Webプログラムで、JavaScriptの代わりにPythonが使えるんだ🔔テクニックを解説していくね🔔]]></summary>
+        <content type="html"><![CDATA[Webプログラムで、JavaScriptの代わりにPythonが使えるんだ🔔テクニックを解説していくね🔔]]></content>
+        <author>
+            <name>JJ</name>
+        </author>
+        <published>2026-10-13T21:56:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2D/3Dエディタの「データ」と「見え方」を分ける | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/ethanleecnvx/articles/be92f53b70bd55</id>
+        <link href="https://zenn.dev/ethanleecnvx/articles/be92f53b70bd55"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--HVneDrAV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2D%252F3D%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2581%25AE%25E3%2580%258C%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E8%25A6%258B%25E3%2581%2588%25E6%2596%25B9%25E3%2580%258D%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ethan%2520Lee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUpEUk9yQ1lDUkVBR1RIWmlpZWptcm1kNjZEZ0ZmZ0lHRkZKWEVjZGZ2cXFnanRBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T19:57:17.000Z</updated>
+        <summary type="html"><![CDATA[部屋の平面図でソファを動かしたら、3D表示にも同じ位置が反映されてほしい。この一貫性を考えるには、描画の前に「何を編集データとして持つか」を決めると整理しやすくなります。私は3D Room Makerの運営側です。この記事は製品の評価ではなく、新しく用意した小さなJavaScript例で設計上の境界を確認するものです。文章と例の作成には生成AIを使い、例はNode.jsで実行して出力を確認しました]]></summary>
+        <content type="html"><![CDATA[部屋の平面図でソファを動かしたら、3D表示にも同じ位置が反映されてほしい。この一貫性を考えるには、描画の前に「何を編集データとして持つか」を決めると整理しやすくなります。私は3D Room Makerの運営側です。この記事は製品の評価ではなく、新しく用意した小さなJavaScript例で設計上の境界を確認するものです。文章と例の作成には生成AIを使い、例はNode.jsで実行して出力を確認しました。本番のソースコードは掲載していません。 1. 一つのソファに、一つの編集データ2D用と3D用に家具一覧を別々に持つと、「片方を更新して、もう片方へ反映する」という同期処理が必要になりま...]]></content>
+        <author>
+            <name>Ethan Lee</name>
+        </author>
+        <published>2026-10-13T19:57:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わんコメ用テンプレートをClaude Codeで作り、実機で確かめた記録 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/megu0xxx0x/articles/1f51e440a6433f</id>
+        <link href="https://zenn.dev/megu0xxx0x/articles/1f51e440a6433f"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--CEmGdS0V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%258F%25E3%2582%2593%25E3%2582%25B3%25E3%2583%25A1%25E7%2594%25A8%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592Claude%2520Code%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258A%25E3%2580%2581%25E5%25AE%259F%25E6%25A9%259F%25E3%2581%25A7%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:AI%25E8%2587%25AA%25E7%2594%25B1%25E7%25A0%2594%25E7%25A9%25B6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiMmQzMzYwYzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[配信のコメントで視聴者が物語の続きを1文ずつ書き、配信者が採用した文がOBSの画面の「本のページ」に書き足されていく。そういうテンプレートを、わんコメ（OneComme）用に Claude Code（Claude Opus 5.5）で作りました。この記事は、作るときに確かめたこと、コメントの扱いで気をつけたこと、実機での確かめ方をまとめた記録です。わんコメ用のテンプレートを作る方の参考になればと思]]></summary>
+        <content type="html"><![CDATA[配信のコメントで視聴者が物語の続きを1文ずつ書き、配信者が採用した文がOBSの画面の「本のページ」に書き足されていく。そういうテンプレートを、わんコメ（OneComme）用に Claude Code（Claude Opus 5.5）で作りました。この記事は、作るときに確かめたこと、コメントの扱いで気をつけたこと、実機での確かめ方をまとめた記録です。わんコメ用のテンプレートを作る方の参考になればと思います。!わんコメの公式とは関係のない個人の制作物です。「わんコメ」は登録商標です。記事中の画像はテンプレートの表示部分だけで、わんコメの画面やロゴは含んでいません。この記事の本文も、制...]]></content>
+        <author>
+            <name>AI自由研究</name>
+        </author>
+        <published>2026-10-13T16:00:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/websveltekit_3vite.html</id>
+        <link href="https://www.publickey1.jp/blog/26/websveltekit_3vite.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/myznxQe8.jpg" type="image/jpg"/>
+        <updated>2026-10-13T15:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S...]]></summary>
+        <content type="html"><![CDATA[Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S...]]></content>
+        <published>2026-10-13T15:26:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい「ローマ字のつづり方」では、たんい は tan'i で しんぶん は shinbun。自作ツールと突き合わせた | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/hashitoz/articles/2026-10-12-fleet-devlog-fleet-zenn</id>
+        <link href="https://zenn.dev/hashitoz/articles/2026-10-12-fleet-devlog-fleet-zenn"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--PIp9ooiK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2580%258C%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%259E%25E5%25AD%2597%25E3%2581%25AE%25E3%2581%25A4%25E3%2581%25A5%25E3%2582%258A%25E6%2596%25B9%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2580%2581%25E3%2581%259F%25E3%2582%2593%25E3%2581%2584%2520%25E3%2581%25AF%2520tan%2527i%2520%25E3%2581%25A7%2520%25E3%2581%2597%25E3%2582%2593%25E3%2581%25B6%25E3%2582%2593%2520%25E3%2581%25AF%2520shinbun%25E3%2580%2582%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A8%25E7%25AA%2581%25E3%2581%258D%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hashitoz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjVvLTIyaDJ6Y1h6RVFxZzhqWHRySklLTkdNX0VHYm10ZVZHYjhOdGljZXM1a1lRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T14:46:55.000Z</updated>
+        <summary type="html"><![CDATA[背景自分のツールサイトに、ひらがなをローマ字にするページを置いています。https://hashitosystem.com/tools/romaji/ヘボン式と訓令式を切り替えられるだけの、地味なツールです。ローマ字の告示が新しくなっていたのを、恥ずかしながら最近まで知りませんでした…。原文を読んで、手元のツールの出力と1語ずつ比べたので、その備忘録です。 何が変わったのかここでいう告示は、内閣が]]></summary>
+        <content type="html"><![CDATA[背景自分のツールサイトに、ひらがなをローマ字にするページを置いています。https://hashitosystem.com/tools/romaji/ヘボン式と訓令式を切り替えられるだけの、地味なツールです。ローマ字の告示が新しくなっていたのを、恥ずかしながら最近まで知りませんでした…。原文を読んで、手元のツールの出力と1語ずつ比べたので、その備忘録です。 何が変わったのかここでいう告示は、内閣が「この書き方をよりどころにする」と示す公式の文書のことだ。ローマ字については、昭和29年（1954年）の内閣告示第1号が長く使われてきました。これが令和7年（2025年）...]]></content>
+        <author>
+            <name>hashitoz</name>
+        </author>
+        <published>2026-10-13T14:46:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人開発1-5.Go で Cookie セッション認証を実装する | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/hideweb/articles/df64ea4902b3b4</id>
+        <link href="https://zenn.dev/hideweb/articles/df64ea4902b3b4"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--T2w_gjBG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA1-5.Go%2520%25E3%2581%25A7%2520Cookie%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25AA%258D%25E8%25A8%25BC%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hide_web%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm1PbURrdXVrVUgtMzBxbzhUNGF5LTJhYW1tbVlPN1U3OXZWdTUtZS1iUUw1TEdnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T09:54:20.000Z</updated>
+        <summary type="html"><![CDATA[1.はじめに前回は、Go の API サーバーと MySQL を Docker で動かすところまで完了。今回は、設計した API（新規登録・ログイン・ログアウト・ユーザー取得）を実装します。ログイン状態は Cookie とセッションで管理します。 2.やったこと①OpenAPI からコードを自動生成oapi-codegen というツールで、openapi.yaml から Go のコードを作りました]]></summary>
+        <content type="html"><![CDATA[1.はじめに前回は、Go の API サーバーと MySQL を Docker で動かすところまで完了。今回は、設計した API（新規登録・ログイン・ログアウト・ユーザー取得）を実装します。ログイン状態は Cookie とセッションで管理します。 2.やったこと①OpenAPI からコードを自動生成oapi-codegen というツールで、openapi.yaml から Go のコードを作りました。 go generate ./...できるもの：リクエストやレスポンスの型（Credentials、User、Error）と、「この API にはこの関数」という対応表（...]]></content>
+        <author>
+            <name>hide_web</name>
+        </author>
+        <published>2026-10-13T09:54:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[議事録自動化webアプリを作ってみた | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/0shun/articles/5ef31a3b25e278</id>
+        <link href="https://zenn.dev/0shun/articles/5ef31a3b25e278"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--3HVRRT----/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AD%25B0%25E4%25BA%258B%25E9%258C%25B2%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmMjIyY2QyNzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[議事録自動化webアプリを作ってみたgeminiAPIとGoogle Apps Scriptを使って議事録を特定のGoogleDocumentにまとめてくれるアプリを作りました。モチベーションとしては現在同級生2人と麻雀に関するSNSアカウントを運営しているのですが、その運営会議を毎週開催しています。その時googledocumentを使っていますが議事録を取るのが少しめんどくささを感じていました]]></summary>
+        <content type="html"><![CDATA[議事録自動化webアプリを作ってみたgeminiAPIとGoogle Apps Scriptを使って議事録を特定のGoogleDocumentにまとめてくれるアプリを作りました。モチベーションとしては現在同級生2人と麻雀に関するSNSアカウントを運営しているのですが、その運営会議を毎週開催しています。その時googledocumentを使っていますが議事録を取るのが少しめんどくささを感じていました。じゃあ作ってみようということでAPIやクラウドサービス、アプリケーションの勉強も兼ねて作りました。 使用した技術スタックフロントエンドHTML/JSバッ...]]></content>
+        <author>
+            <name>shun</name>
+        </author>
+        <published>2026-10-13T07:35:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Part4】【No.017】useState入門：カウンターで学ぶstateと再レンダー ― 画面が動き出す最初の一歩 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/penguinengineer/articles/f056e5cca782c2</id>
+        <link href="https://zenn.dev/penguinengineer/articles/f056e5cca782c2"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--jV_Ywhvx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Part4%25E3%2580%2591%25E3%2580%2590No.017%25E3%2580%2591useState%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6state%25E3%2581%25A8%25E5%2586%258D%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%2520%25E2%2580%2595%2520%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%258C%25E5%258B%2595%25E3%2581%258D%25E5%2587%25BA%25E3%2581%2599%25E6%259C%2580%25E5%2588%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%25AD%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25B3%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMxOWI0NDQ0NjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T07:07:42.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、こんにちは！ペンギンエンジニアです！前回016の次回予告で、「次回からPart 4、useStateで画面が動き出します。クリックで数字が増えるカウンターを作りながら、stateと再レンダーの仕組みを扱います」とお伝えしました。今日はその約束を回収する回です。016のまとめでは、「この画面は一度描いたら、それきりです。クリックしても、時間が経っても、何も変わりません」とも書きました。今日]]></summary>
+        <content type="html"><![CDATA[みなさん、こんにちは！ペンギンエンジニアです！前回016の次回予告で、「次回からPart 4、useStateで画面が動き出します。クリックで数字が増えるカウンターを作りながら、stateと再レンダーの仕組みを扱います」とお伝えしました。今日はその約束を回収する回です。016のまとめでは、「この画面は一度描いたら、それきりです。クリックしても、時間が経っても、何も変わりません」とも書きました。今日、画面が動き出します。先に種明かしをすると、普通の変数を書き換えても画面は変わりません。画面を変える入り口が、stateです。筆者はSES育成の場面で、「クリックしても画面が変わ...]]></content>
+        <author>
+            <name>ペンギンエンジニア</name>
+        </author>
+        <published>2026-10-13T07:07:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オフィス管理システムの中身を見てみる。FastAPIとSQLiteの設計【開発記録 #3】 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/techcraft_lab/articles/office-terminal-03-web-application</id>
+        <link href="https://zenn.dev/techcraft_lab/articles/office-terminal-03-web-application"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--BCf8Hfmh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B9%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2582FastAPI%25E3%2581%25A8SQLite%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2580%2590%25E9%2596%258B%25E7%2599%25BA%25E8%25A8%2598%25E9%258C%25B2%2520%25233%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TechCraft%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxMzNmODVlZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T07:07:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめに前回は、使わなくなった小型PCを開発機にして、事務所ではRaspberry Pi 3Bと古いタブレットを組み合わせるまでの経緯を紹介しました。今回は少し中身に踏み込んで、Webアプリ「office_terminal」がどういう構造で動いているかを紹介します。最初の目的は退室点検簿の電子化でしたが、作っていくうちに出社・在席管理、履歴、カレンダーなどが加わりました。そうなると、画面を増やすだ]]></summary>
+        <content type="html"><![CDATA[はじめに前回は、使わなくなった小型PCを開発機にして、事務所ではRaspberry Pi 3Bと古いタブレットを組み合わせるまでの経緯を紹介しました。今回は少し中身に踏み込んで、Webアプリ「office_terminal」がどういう構造で動いているかを紹介します。最初の目的は退室点検簿の電子化でしたが、作っていくうちに出社・在席管理、履歴、カレンダーなどが加わりました。そうなると、画面を増やすだけでは済まず、データの持ち方や処理の分け方も考える必要があります。私はまず「何を実現したいか」を考え、AIとの対話で仕様や実装方法を具体化しながら開発しています。今回のコードも、最初...]]></content>
+        <author>
+            <name>TechCraft Lab</name>
+        </author>
+        <published>2026-10-13T07:07:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料公開】React × Firebase × Gemini APIで創る！AI占いWebアプリ開発講座 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/yasu_tech_35/books/ai-fortune-app-book</id>
+        <link href="https://zenn.dev/yasu_tech_35/books/ai-fortune-app-book"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--sXSAlCkt--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8xZGRlMGYwYmMyLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" type="image/jpg"/>
+        <updated>2026-10-13T06:03:31.000Z</updated>
+        <summary type="html"><![CDATA[# ゼロから作る！React×Firebase AI占いアプリ開発講座### Vite / React 18 / Bootstrap 5 / Firebase / Gemini API「基本文法や簡単なAPIの叩き方は学んだ。次はスマホで快適に動く本物のWebプロダクトを1から作ってみたい！」そんなWeb開発者・個人開発者のための、ハンズオン実践開発講座です。単にAIへテキストを送って回答を得るだ]]></summary>
+        <content type="html"><![CDATA[# ゼロから作る！React×Firebase AI占いアプリ開発講座### Vite / React 18 / Bootstrap 5 / Firebase / Gemini API「基本文法や簡単なAPIの叩き方は学んだ。次はスマホで快適に動く本物のWebプロダクトを1から作ってみたい！」そんなWeb開発者・個人開発者のための、ハンズオン実践開発講座です。単にAIへテキストを送って回答を得るだけのチュートリアルではありません。本書では、スマートフォンのカメラ起動・画像選択（マルチモーダル解析）から、Firebaseによる会員管理・データ永続化、過去の鑑定結果を引き継ぐ「比較・派生分析」、そして初回鑑定の文脈を考慮して深掘り質問ができる「対話型AIチャット」まで、実用的なフルスタックWebアプリを完全サーバーレスでゼロから構築します。さらに、個人開発者が直面する「無料枠（Spark）と有料枠（Blaze）での画像保存切替ロジック」や「APIキーの漏洩を100%防止するCloud Functionsプロキシ構成」など、実務で使える堅牢な設計（Robust Architecture）まで]]></content>
+        <author>
+            <name>yasu-tech-35</name>
+        </author>
+        <published>2026-10-13T06:03:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初投稿とQ&amp;amp;Aサムネイルを状態モデルとして分解する | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/thumbsai/articles/6ccd4a9c194455</id>
+        <link href="https://zenn.dev/thumbsai/articles/6ccd4a9c194455"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--R8Lkd6bh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E6%258A%2595%25E7%25A8%25BF%25E3%2581%25A8Q%2526A%25E3%2582%25B5%25E3%2583%25A0%25E3%2583%258D%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E7%258A%25B6%25E6%2585%258B%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Joce%2520Deri%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T06:01:43.000Z</updated>
+        <summary type="html"><![CDATA[この記事の範囲公開ページで確認できる入力項目と説明から、初投稿用とQ&amp;amp;A用のサムネイルフローを設計メモとして分解する。内部API、モデル、生成品質、処理時間は確認していない。以下の型と図は実装の事実ではなく、レビュー可能な仮説である。 初投稿は「白紙を避ける」状態初投稿では、画像の加工より先に、動画の中心を選べることが重要になる。My First Video Thumbnail の公開フローは、初]]></summary>
+        <content type="html"><![CDATA[この記事の範囲公開ページで確認できる入力項目と説明から、初投稿用とQ&amp;amp;A用のサムネイルフローを設計メモとして分解する。内部API、モデル、生成品質、処理時間は確認していない。以下の型と図は実装の事実ではなく、レビュー可能な仮説である。 初投稿は「白紙を避ける」状態初投稿では、画像の加工より先に、動画の中心を選べることが重要になる。My First Video Thumbnail の公開フローは、初投稿向けの見た目を選び、短いアイデアや参考画像を加え、1280×720のカバーを生成する流れとして読める。type FirstUploadState = | { val...]]></content>
+        <author>
+            <name>Joce Deri</name>
+        </author>
+        <published>2026-10-13T06:01:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理者のあなたにも読めない相談フォームを、script 1行で。OSS「sealform」 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/yoyo0821/articles/0c73d466892b34</id>
+        <link href="https://zenn.dev/yoyo0821/articles/0c73d466892b34"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--C-FfQHQ_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AE%25A1%25E7%2590%2586%25E8%2580%2585%25E3%2581%25AE%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AB%25E3%2582%2582%25E8%25AA%25AD%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E7%259B%25B8%25E8%25AB%2587%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E3%2580%2581script%25201%25E8%25A1%258C%25E3%2581%25A7%25E3%2580%2582OSS%25E3%2580%258Csealform%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B9%25E3%2582%258D%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiZTdjNWJmODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T05:33:39.000Z</updated>
+        <summary type="html"><![CDATA[!sealform は試作段階のOSSです。暗号の専門家による第三者レビューをまだ受けていません。記事の最後の「できないこと」も読んでから試してください。 夜11時、相談フォームの向こう側夜11時。高校2年生が、学校のサイトの相談フォームにこう打ち込みます。部活の先輩から、毎日のように物を隠されています。親には言えません。送信ボタンを押す指が、少し止まります。「これ、誰が読むんだろう」。その子が想]]></summary>
+        <content type="html"><![CDATA[!sealform は試作段階のOSSです。暗号の専門家による第三者レビューをまだ受けていません。記事の最後の「できないこと」も読んでから試してください。 夜11時、相談フォームの向こう側夜11時。高校2年生が、学校のサイトの相談フォームにこう打ち込みます。部活の先輩から、毎日のように物を隠されています。親には言えません。送信ボタンを押す指が、少し止まります。「これ、誰が読むんだろう」。その子が想像しているのは、たぶんカウンセラーの先生ひとりです。でも実際には、この文章は送信された瞬間から、サーバーのデータベースに保存されアクセスログに残りエラー監視サービスに...]]></content>
+        <author>
+            <name>べろしてぃ</name>
+        </author>
+        <published>2026-10-13T05:33:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSの上書きを5ケースで検証する：@layer・important・:where() | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/yamada_frontend/articles/css-cascade-specificity</id>
+        <link href="https://zenn.dev/yamada_frontend/articles/css-cascade-specificity"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--3j3TMMBG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%25E3%2581%25AE%25E4%25B8%258A%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25925%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%2540layer%25E3%2583%25BBimportant%25E3%2583%25BB%253Awhere%2528%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamada%2520Frontend%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzM2VmMTZiODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[セレクターを長くしたのに、CSSが上書きできない。@layerを導入したあとなら、詳細度より先にレイヤーの順序やレイヤー外の宣言を確認する必要があります。この記事では、色だけが競合する5ケースを作り、最終的なcolorを測定します。既存CSSをレイヤーへ移すときの確認手順も整理します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認できます。この]]></summary>
+        <content type="html"><![CDATA[セレクターを長くしたのに、CSSが上書きできない。@layerを導入したあとなら、詳細度より先にレイヤーの順序やレイヤー外の宣言を確認する必要があります。この記事では、色だけが競合する5ケースを作り、最終的なcolorを測定します。既存CSSをレイヤーへ移すときの確認手順も整理します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認できます。この記事で使うケース名は表に記載しています。2026年9月29日、Chromium（ユーザーエージェント上のバージョンはChrome 154）で確認しました。数値はCSS pxです。Saf...]]></content>
+        <author>
+            <name>Yamada Frontend Lab</name>
+        </author>
+        <published>2026-10-13T04:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSの上書きを5ケースで検証する：@layer・important・:where() | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/yamada_frontend/articles/css-cascade-specificity</id>
+        <link href="https://zenn.dev/yamada_frontend/articles/css-cascade-specificity"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--3j3TMMBG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%25E3%2581%25AE%25E4%25B8%258A%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25925%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%2540layer%25E3%2583%25BBimportant%25E3%2583%25BB%253Awhere%2528%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamada%2520Frontend%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzM2VmMTZiODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[セレクターを長くしたのに、CSSが上書きできない。@layerを導入したあとなら、詳細度より先にレイヤーの順序やレイヤー外の宣言を確認する必要があります。この記事では、色だけが競合する5ケースを作り、最終的なcolorを測定します。既存CSSをレイヤーへ移すときの確認手順も整理します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認できます。この]]></summary>
+        <content type="html"><![CDATA[セレクターを長くしたのに、CSSが上書きできない。@layerを導入したあとなら、詳細度より先にレイヤーの順序やレイヤー外の宣言を確認する必要があります。この記事では、色だけが競合する5ケースを作り、最終的なcolorを測定します。既存CSSをレイヤーへ移すときの確認手順も整理します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認できます。この記事で使うケース名は表に記載しています。2026年9月29日、Chromium（ユーザーエージェント上のバージョンはChrome 154）で確認しました。数値はCSS pxです。Saf...]]></content>
+        <author>
+            <name>Yamada Frontend Lab</name>
+        </author>
+        <published>2026-10-13T04:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【１日１デプロイ】引っぱって狙う「コツン！星座ビリヤード」を作った | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/boraemon2000/articles/constellation-billiards-drag-physics</id>
+        <link href="https://zenn.dev/boraemon2000/articles/constellation-billiards-drag-physics"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--YqFd4BcK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25EF%25BC%2591%25E6%2597%25A5%25EF%25BC%2591%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%2591%25E5%25BC%2595%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%25A3%25E3%2581%25A6%25E7%258B%2599%25E3%2581%2586%25E3%2580%258C%25E3%2582%25B3%25E3%2583%2584%25E3%2583%25B3%25EF%25BC%2581%25E6%2598%259F%25E5%25BA%25A7%25E3%2583%2593%25E3%2583%25AA%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2589%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:boraemon2000%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2YTZiNTlmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T02:28:17.000Z</updated>
+        <summary type="html"><![CDATA[今回作ったもの「１日１デプロイ」の新作として、ガラスの月球を引っぱって星へ当て、夜空に星座をつくる コツン！星座ビリヤード を作りました。月球の近くを押し、打ちたい方向と反対へ引いて離します。5個の星を中央・左・右のゲートへ入れ、最大5打で星座を完成させる短編ゲームです。1打で2個の星を入れると連鎖になり、ゲートから夜空へ光が走ります。3打で5個すべてを入れるとSランクです。▶ コツン！星座ビリヤ]]></summary>
+        <content type="html"><![CDATA[今回作ったもの「１日１デプロイ」の新作として、ガラスの月球を引っぱって星へ当て、夜空に星座をつくる コツン！星座ビリヤード を作りました。月球の近くを押し、打ちたい方向と反対へ引いて離します。5個の星を中央・左・右のゲートへ入れ、最大5打で星座を完成させる短編ゲームです。1打で2個の星を入れると連鎖になり、ゲートから夜空へ光が走ります。3打で5個すべてを入れるとSランクです。▶ コツン！星座ビリヤードを遊ぶ 遊び方「夜空へ」を押す月球の近くを押す打ちたい方向と反対へ引くパワー表示を見て指を離す中央、左、右の3筋を狙い、5個の星をゲートへ入れる最初の一打...]]></content>
+        <author>
+            <name>boraemon2000</name>
+        </author>
+        <published>2026-10-13T02:28:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去の10月13日から | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/kjunichi/articles/05ca5b734c9444</id>
+        <link href="https://zenn.dev/kjunichi/articles/05ca5b734c9444"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--bpWZgfGg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AE10%25E6%259C%258813%25E6%2597%25A5%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kjunichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2NPX2VMUy15OFNnVFFGaFRqNVFVcl83ZFJKREhQUzIzRzhGVmhPRnNXMU1oTz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:39:31.000Z</updated>
+        <summary type="html"><![CDATA[過去の10月13日からテック関連のブクマやツイートなど前日翌日 2011年https://q.hatena.ne.jp/1318430494https://blog.fenrir-inc.com/jp/2011/08/access_cocoa_from_python_with_pyobjc.htmlhttps://github.com/kavu/cocoa-go 2015年https://gith]]></summary>
+        <content type="html"><![CDATA[過去の10月13日からテック関連のブクマやツイートなど前日翌日 2011年https://q.hatena.ne.jp/1318430494https://blog.fenrir-inc.com/jp/2011/08/access_cocoa_from_python_with_pyobjc.htmlhttps://github.com/kavu/cocoa-go 2015年https://github.com/emscripten-core/emscripten/issues/2208https://github.com/h2o/h2o/issues/548h...]]></content>
+        <author>
+            <name>kjunichi</name>
+        </author>
+        <published>2026-10-13T00:39:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle本ストア14周年記念の特大セールが開催！ 良書揃い、デザイン書、イラストや創作用事典がかなりお買い得です | コリス]]></title>
+        <id>https://coliss.com/?p=85575</id>
+        <link href="https://coliss.com/articles/products/kindle-14th-anniversary.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/kindle-20261013@2x.png" type="image/png"/>
+        <updated>2026-10-13T00:36:17.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AmazonでKindle本 14周年記念の特大セールが開催しています！ デザイン書、UIデザインの解説書、AI活用書、イラストや創作用事典の良書がセール対象です。 も […]]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AmazonでKindle本 14周年記念の特大セールが開催しています！ デザイン書、UIデザインの解説書、AI活用書、イラストや創作用事典の良書がセール対象です。 も […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Products"/>
+        <category label="kindle"/>
+        <published>2026-10-13T00:36:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node:sqliteの防御設定が再オープン後も残るか検証する | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/yukke_dev/articles/20261013-sqlite-defensive-reopen</id>
+        <link href="https://zenn.dev/yukke_dev/articles/20261013-sqlite-defensive-reopen"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--R5qXpNbx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:node%253Asqlite%25E3%2581%25AE%25E9%2598%25B2%25E5%25BE%25A1%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%258C%25E5%2586%258D%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E5%25BE%258C%25E3%2582%2582%25E6%25AE%258B%25E3%2582%258B%25E3%2581%258B%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkNzM3N2Y5NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Node.jsのnode:sqliteで、接続を閉じて再び開く処理を書く人向けの記事です。enableDefensive(true)で有効にした防御設定がclose()とopen()をまたいで残るかを、macOS arm64のNode.js v26.0.0で検証しました。コードはメモリDBだけを使い、実際のDBファイルには触れません。 結論この環境では、コンストラクターでdefensive: fa]]></summary>
+        <content type="html"><![CDATA[Node.jsのnode:sqliteで、接続を閉じて再び開く処理を書く人向けの記事です。enableDefensive(true)で有効にした防御設定がclose()とopen()をまたいで残るかを、macOS arm64のNode.js v26.0.0で検証しました。コードはメモリDBだけを使い、実際のDBファイルには触れません。 結論この環境では、コンストラクターでdefensive: falseを指定し、後からenableDefensive(true)を呼ぶと、その接続が開いている間はスキーマへの直接更新が拒否されました。しかしclose()とopen()を続けると、同じD...]]></content>
+        <author>
+            <name>yukke</name>
+        </author>
+        <published>2026-10-13T00:35:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node:sqliteのSQLTagStoreで値のバインドとLRUキャッシュを検証する | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/yukke_dev/articles/20261010-sqltagstore-cache-binding</id>
+        <link href="https://zenn.dev/yukke_dev/articles/20261010-sqltagstore-cache-binding"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--skV6Eesl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:node%253Asqlite%25E3%2581%25AESQLTagStore%25E3%2581%25A7%25E5%2580%25A4%25E3%2581%25AE%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A8LRU%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkNzM3N2Y5NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Node.js標準のnode:sqliteで、同じSQLを繰り返し実行する処理を書く人向けの記事です。SQLTagStoreの値のバインドと、準備済み文のキャッシュが満杯になったときの動きを、Node.js v26.0.0 / macOS arm64で確かめました。以下のコードは追加パッケージなしで実行しています。 結論SQLTagStoreのテンプレート内に渡した値はSQL文字列に連結されず、値]]></summary>
+        <content type="html"><![CDATA[Node.js標準のnode:sqliteで、同じSQLを繰り返し実行する処理を書く人向けの記事です。SQLTagStoreの値のバインドと、準備済み文のキャッシュが満杯になったときの動きを、Node.js v26.0.0 / macOS arm64で確かめました。以下のコードは追加パッケージなしで実行しています。 結論SQLTagStoreのテンプレート内に渡した値はSQL文字列に連結されず、値としてバインドされました。今回の入力では、' OR 1=1 --を検索しても全行が返ることはなく、その文字列を保存した1行だけが見つかりました。また、異なる値で同じ形のSQLを繰り返しても...]]></content>
+        <author>
+            <name>yukke</name>
+        </author>
+        <published>2026-10-13T00:35:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node:sqliteのsetAuthorizerでSQLの拒否と列マスクを検証する | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/yukke_dev/articles/20261007-sqlite-authorizer-deny-ignore</id>
+        <link href="https://zenn.dev/yukke_dev/articles/20261007-sqlite-authorizer-deny-ignore"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--0S_FA9JB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:node%253Asqlite%25E3%2581%25AEsetAuthorizer%25E3%2581%25A7SQL%25E3%2581%25AE%25E6%258B%2592%25E5%2590%25A6%25E3%2581%25A8%25E5%2588%2597%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkNzM3N2Y5NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:35:49.000Z</updated>
+        <summary type="html"><![CDATA[node:sqliteで、利用者が入力したSQLを実行する機能を作る人向けの記事です。DatabaseSync.setAuthorizer()をメモリ上のデータベースで動かし、読み取りだけを許可する場合と、特定の列をNULLに置き換える場合を比較しました。Node.js v26.0.0 / macOS arm64で、記事中のコードを実行しています。 結論今回の条件では、SQLITE_DENYを返す]]></summary>
+        <content type="html"><![CDATA[node:sqliteで、利用者が入力したSQLを実行する機能を作る人向けの記事です。DatabaseSync.setAuthorizer()をメモリ上のデータベースで動かし、読み取りだけを許可する場合と、特定の列をNULLに置き換える場合を比較しました。Node.js v26.0.0 / macOS arm64で、記事中のコードを実行しています。 結論今回の条件では、SQLITE_DENYを返すと秘密列の読み取りと書き込み文を拒否できました。SQLITE_IGNOREを返すと秘密列はエラーにならずNULLになりました。また、ポリシー設定前に準備した秘密列の読み取り文も、この実行環...]]></content>
+        <author>
+            <name>yukke</name>
+        </author>
+        <published>2026-10-13T00:35:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドカンファレンス関西2026に参加しました | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/booost/articles/e53dd6e4097b8b</id>
+        <link href="https://zenn.dev/booost/articles/e53dd6e4097b8b"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--YgRhOR4_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%25E9%2596%25A2%25E8%25A5%25BF2026%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ma_me%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc2MzgwYzJkYmQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Booost%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMzZjVkODUyNTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:20:37.000Z</updated>
+        <summary type="html"><![CDATA[概要表題の通り、フロントエンドカンファレンス関西2026に参加しました。普段はバックエンドの領域を担当していることが多いですが、領域を超えて学べることが多く、大変有意義なイベントでした。https://2026.frontend-conf.osaka.jp/以下、拝聴したセッションの感想になります。 今さら理解するウェブフォント2026https://speakerdeck.com/takanor]]></summary>
+        <content type="html"><![CDATA[概要表題の通り、フロントエンドカンファレンス関西2026に参加しました。普段はバックエンドの領域を担当していることが多いですが、領域を超えて学べることが多く、大変有意義なイベントでした。https://2026.frontend-conf.osaka.jp/以下、拝聴したセッションの感想になります。 今さら理解するウェブフォント2026https://speakerdeck.com/takanorip/imasara-rikai-suru-ver-2026扱いが難しくて妥協することが多かったので、Webフォントの話を聞きにきました。どうしても重くなってしまうフォ...]]></content>
+        <author>
+            <name>ma_me</name>
+        </author>
+        <published>2026-10-13T00:20:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作る→出す→見る→考える。よく言われることだけど、実際に回し続けるのは難しい | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/gakken_leap/articles/ee5c3b940be4f0</id>
+        <link href="https://zenn.dev/gakken_leap/articles/ee5c3b940be4f0"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--o0OZrovA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BD%259C%25E3%2582%258B%25E2%2586%2592%25E5%2587%25BA%25E3%2581%2599%25E2%2586%2592%25E8%25A6%258B%25E3%2582%258B%25E2%2586%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E3%2580%2582%25E3%2582%2588%25E3%2581%258F%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A9%25E3%2580%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E5%259B%259E%25E3%2581%2597%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AF%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kohek%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjZjk3NzBjZTguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Gakken%2520LEAP%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvay5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-13T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、Gakken LEAPでフロントエンドエンジニアをしているkatashimaです。以前の記事では、https://zenn.dev/gakken_leap/articles/3e329c7d6e0fcbhttps://zenn.dev/gakken_leap/articles/2a4660a39b0a99エピックオーナーとして機能開発の上流から関わるようになり、「どう作るか」だ]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、Gakken LEAPでフロントエンドエンジニアをしているkatashimaです。以前の記事では、https://zenn.dev/gakken_leap/articles/3e329c7d6e0fcbhttps://zenn.dev/gakken_leap/articles/2a4660a39b0a99エピックオーナーとして機能開発の上流から関わるようになり、「どう作るか」だけではなく「誰のために、なぜ作るのか」を考えるようになったことを書きました。その後はSEO対策周りやClarityにも触れ、作ったものを出して終わりにせず、実際にユーザーがどう動...]]></content>
+        <author>
+            <name>kohek</name>
+        </author>
+        <published>2026-10-13T00:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wrangler pages dev の --proxy が効かない罠 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/miyoki_labs/articles/wrangler-pages-dev-proxy-stale-dist</id>
+        <link href="https://zenn.dev/miyoki_labs/articles/wrangler-pages-dev-proxy-stale-dist"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--1nCXRK7y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:wrangler%2520pages%2520dev%2520%25E3%2581%25AE%2520--proxy%2520%25E3%2581%258C%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Miyoki%2520Labs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2pOTW5pTFBzNjdXTzE1bHpCbmZhU2FoWlhKd1hNV05pTGd0cHlfTy1aSldYSUMyMD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T22:30:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめにコードを直したはずなのに、挙動が変わらない。何度やり直しても同じ結果が返ってくる。そうなると、だいたい自分のコードを疑い始めます。自分の場合、犯人はコードではありませんでした。配信していた側が、ずっと古いビルド成果物を返していた、という話です。この記事は、Cloudflare Pages のローカル開発でそれを踏んだときの開発ログです。こんな人に向けて書いていますCloudflare Pa]]></summary>
+        <content type="html"><![CDATA[はじめにコードを直したはずなのに、挙動が変わらない。何度やり直しても同じ結果が返ってくる。そうなると、だいたい自分のコードを疑い始めます。自分の場合、犯人はコードではありませんでした。配信していた側が、ずっと古いビルド成果物を返していた、という話です。この記事は、Cloudflare Pages のローカル開発でそれを踏んだときの開発ログです。こんな人に向けて書いていますCloudflare Pages のローカル開発で wrangler pages dev --proxy を使っている人修正が反映されずに悩んでいて、どこから疑うかの手順を持っておきたい人この...]]></content>
+        <author>
+            <name>Miyoki Labs</name>
+        </author>
+        <published>2026-10-12T22:30:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 | Zennの「JavaScript」のフィード]]></title>
+        <id>https://zenn.dev/akinori901/articles/20260916-plan031</id>
+        <link href="https://zenn.dev/akinori901/articles/20260916-plan031"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--om6ie162--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520%25E3%2581%25AE%2520useEffect%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2590%2586%25E8%25A7%25A3%2520%25E2%2580%2594%2520%25E4%25BE%259D%25E5%25AD%2598%25E9%2585%258D%25E5%2588%2597%25E3%2581%25AE%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T20:19:25.000Z</updated>
+        <summary type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 概要useEffect は React のフックの中でも最も使う機会が多く、そして最も誤解されやすいものです。特に「依存配列（第2引数）に何を書くか」で挙動が大きく変わり、初心者がハマる原因の大半はここに集中しています。この記事では、useEffect の基本的な考え方から、依存配列にまつわる代表的な罠、そしてその回避方法までを、動く]]></summary>
+        <content type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 概要useEffect は React のフックの中でも最も使う機会が多く、そして最も誤解されやすいものです。特に「依存配列（第2引数）に何を書くか」で挙動が大きく変わり、初心者がハマる原因の大半はここに集中しています。この記事では、useEffect の基本的な考え方から、依存配列にまつわる代表的な罠、そしてその回避方法までを、動く最小コードとともに整理します。対象は「なんとなく useEffect を使っているが、依存配列の警告を消し方だけで対処している」レベルの方です。 環境React 18 以降（...]]></content>
+        <author>
+            <name>Akinori901</name>
+        </author>
+        <published>2026-10-12T20:19:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/akinori901/articles/20260916-plan031</id>
+        <link href="https://zenn.dev/akinori901/articles/20260916-plan031"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--om6ie162--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520%25E3%2581%25AE%2520useEffect%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2590%2586%25E8%25A7%25A3%2520%25E2%2580%2594%2520%25E4%25BE%259D%25E5%25AD%2598%25E9%2585%258D%25E5%2588%2597%25E3%2581%25AE%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T20:19:25.000Z</updated>
+        <summary type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 概要useEffect は React のフックの中でも最も使う機会が多く、そして最も誤解されやすいものです。特に「依存配列（第2引数）に何を書くか」で挙動が大きく変わり、初心者がハマる原因の大半はここに集中しています。この記事では、useEffect の基本的な考え方から、依存配列にまつわる代表的な罠、そしてその回避方法までを、動く]]></summary>
+        <content type="html"><![CDATA[React の useEffect 完全理解 — 依存配列の罠 概要useEffect は React のフックの中でも最も使う機会が多く、そして最も誤解されやすいものです。特に「依存配列（第2引数）に何を書くか」で挙動が大きく変わり、初心者がハマる原因の大半はここに集中しています。この記事では、useEffect の基本的な考え方から、依存配列にまつわる代表的な罠、そしてその回避方法までを、動く最小コードとともに整理します。対象は「なんとなく useEffect を使っているが、依存配列の警告を消し方だけで対処している」レベルの方です。 環境React 18 以降（...]]></content>
+        <author>
+            <name>Akinori901</name>
+        </author>
+        <published>2026-10-12T20:19:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP 2026［PR］ | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html</id>
+        <link href="https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/btconjp202601.png" type="image/png"/>
+        <updated>2026-10-12T16:11:37.000Z</updated>
+        <summary type="html"><![CDATA[進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...]]></summary>
+        <content type="html"><![CDATA[進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...]]></content>
+        <published>2026-10-12T16:11:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</id>
+        <link href="https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/4vyL_sib.jpg" type="image/jpg"/>
+        <updated>2026-10-12T15:46:53.000Z</updated>
+        <summary type="html"><![CDATA[JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...]]></summary>
+        <content type="html"><![CDATA[JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...]]></content>
+        <published>2026-10-12T15:46:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドカンファレンス関西2026に参加 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/daigo428/articles/f57cce23d1639d</id>
+        <link href="https://zenn.dev/daigo428/articles/f57cce23d1639d"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--z9KF8JZc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%25E9%2596%25A2%25E8%25A5%25BF2026%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ydaigo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T13:13:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに普段はバックエンドを担当していますが、フロントエンドにも前から興味があって「フロントエンドカンファレンス関西2026」に参加してきました。今どんな技術が使われているのかを知りたかったのと、フロントエンドエンジニアとお話したかったのが参加目的です。 概要開催日：2026/10/12（月・祝）会場：コングレスクエア グラングリーン大阪公式X：@fec_kansai公式サイト：https://2]]></summary>
+        <content type="html"><![CDATA[はじめに普段はバックエンドを担当していますが、フロントエンドにも前から興味があって「フロントエンドカンファレンス関西2026」に参加してきました。今どんな技術が使われているのかを知りたかったのと、フロントエンドエンジニアとお話したかったのが参加目的です。 概要開催日：2026/10/12（月・祝）会場：コングレスクエア グラングリーン大阪公式X：@fec_kansai公式サイト：https://2026.frontend-conf.osaka.jpfortee：https://fortee.jp/fec-kansai-2026ハッシュタグ：#fec_kans...]]></content>
+        <author>
+            <name>ydaigo</name>
+        </author>
+        <published>2026-10-12T13:13:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips and Tricks for Using TanStack Start with Cloudflare Durable Objects | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11298</id>
+        <link href="https://blog.master.dev/tips-and-tricks-for-using-tanstack-start-with-cloudflare-durable-objects/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11298" type="image//wp-json/social-image-generator/v1/image/11298"/>
+        <updated>2026-10-12T12:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Some hot tips on using middleware for simplifying Durable Object creation and managing WebSocket connections.]]></summary>
+        <content type="html"><![CDATA[Some hot tips on using middleware for simplifying Durable Object creation and managing WebSocket connections.]]></content>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="Cloudflare"/>
+        <category label="Durable Objects"/>
+        <category label="TanStack"/>
+        <category label="TypeScript"/>
+        <published>2026-10-12T12:56:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完全無料】ブラウザ完結・サーバー送信ゼロのWeb開発ツール30選を作りました「MiniToolDesk」 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/minitooldesk/articles/a31e8f3be96625</id>
+        <link href="https://zenn.dev/minitooldesk/articles/a31e8f3be96625"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--iZI0hoXA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%25AE%258C%25E5%2585%25A8%25E7%2584%25A1%25E6%2596%2599%25E3%2580%2591%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E5%25AE%258C%25E7%25B5%2590%25E3%2583%25BB%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E9%2580%2581%25E4%25BF%25A1%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AEWeb%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB30%25E9%2581%25B8%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%258CMiniToolDesk%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MiniToolDesk%2520%257C%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2g2cHJ5YW1NX3lneEJRWXYxNmhvTWVmU0Q4eXQtMVBWYVQ0a3psT2RkUWdsekpRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T11:07:59.000Z</updated>
+        <summary type="html"><![CDATA[個人開発で、ブラウザ上で100%動作し、データを一切外部サーバーに送信しない安全なWeb開発者向けツールボックス**「MiniToolDesk」**をリリースしました。すべて完全無料・ユーザー登録不要でご利用いただけます。🔗 Webサイト（日本語版）: https://minitooldesk.com/ja/💻 GitHub: https://github.com/minitooldesk/min]]></summary>
+        <content type="html"><![CDATA[個人開発で、ブラウザ上で100%動作し、データを一切外部サーバーに送信しない安全なWeb開発者向けツールボックス**「MiniToolDesk」**をリリースしました。すべて完全無料・ユーザー登録不要でご利用いただけます。🔗 Webサイト（日本語版）: https://minitooldesk.com/ja/💻 GitHub: https://github.com/minitooldesk/minitooldesk-core 開発の背景：なぜ「サーバー送信ゼロ」なのか？日常のコーディング業務で、JSONの整形やJWTのデバッグ、CSSの微調整などのオンラインツールを使う機会...]]></content>
+        <author>
+            <name>MiniToolDesk | プライベート開発ツール</name>
+        </author>
+        <published>2026-10-12T11:07:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[absoluteのメニューが画面外へ出た原因は、親のpositionだった | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/yutabusiness/articles/2c2ff34183ea52</id>
+        <link href="https://zenn.dev/yutabusiness/articles/2c2ff34183ea52"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--D3oiWGXm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:absolute%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%258C%25E7%2594%25BB%25E9%259D%25A2%25E5%25A4%2596%25E3%2581%25B8%25E5%2587%25BA%25E3%2581%259F%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E3%2580%2581%25E8%25A6%25AA%25E3%2581%25AEposition%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM3NzQ5MjliMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T11:05:25.000Z</updated>
+        <summary type="html"><![CDATA[自作のAIアシスタント「JARVIS」で、画面上部のボタン列を折り畳みメニューに変更しました。項目はDOMに存在し、操作もできるのに、スクリーンショットを見るとメニューが見えませんでした。原因は、拡大表示時の親要素の position でした。JARVISの実画面。折り畳みメニューのボタンは右上にあります（開発中の画面）。 問題の構成実装を簡略化すると、次の関係です。.space-toolbar ]]></summary>
+        <content type="html"><![CDATA[自作のAIアシスタント「JARVIS」で、画面上部のボタン列を折り畳みメニューに変更しました。項目はDOMに存在し、操作もできるのに、スクリーンショットを見るとメニューが見えませんでした。原因は、拡大表示時の親要素の position でした。JARVISの実画面。折り畳みメニューのボタンは右上にあります（開発中の画面）。 問題の構成実装を簡略化すると、次の関係です。.space-toolbar { position: relative; }.space-expanded .space-toolbar { position: static; }.space-naviga...]]></content>
+        <author>
+            <name>やま</name>
+        </author>
+        <published>2026-10-12T11:05:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストップウォッチが「大画面で使われている」と検索データが教えてくれた話（全画面ボタンと background-clip: text の罠） | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/omikuji/articles/stopwatch-big-screen-search-data</id>
+        <link href="https://zenn.dev/omikuji/articles/stopwatch-big-screen-search-data"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--N6PZ4N1Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%2583%25E3%2583%2581%25E3%2581%258C%25E3%2580%258C%25E5%25A4%25A7%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25A7%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D%25E3%2581%25A8%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2581%259F%25E8%25A9%25B1%25EF%25BC%2588%25E5%2585%25A8%25E7%2594%25BB%25E9%259D%25A2%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2581%25A8%2520background-cl...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:omikuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxZmQyNjYzYzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T11:05:05.000Z</updated>
+        <summary type="html"><![CDATA[画面いっぱいに経過時間を出すオンラインのストップウォッチを運営しています。12 言語版があり、ある時期から中国語版の表示回数が急に伸びました。何が起きたのかを検索データで追ったら、使われ方が分かって、直すべきバグも見つかったという話です。👉 ストップウォッチ（無料・登録不要） 表示回数が 6 週間で 65 → 9,004Bing Webmaster Tools の API から週次の表示回数を取る]]></summary>
+        <content type="html"><![CDATA[画面いっぱいに経過時間を出すオンラインのストップウォッチを運営しています。12 言語版があり、ある時期から中国語版の表示回数が急に伸びました。何が起きたのかを検索データで追ったら、使われ方が分かって、直すべきバグも見つかったという話です。👉 ストップウォッチ（無料・登録不要） 表示回数が 6 週間で 65 → 9,004Bing Webmaster Tools の API から週次の表示回数を取ると、中国語版（/zh-cn/stopwatch/）だけがこう動いていました。週表示回数1652206342441,41355,164...]]></content>
+        <author>
+            <name>omikuji</name>
+        </author>
+        <published>2026-10-12T11:05:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS の ?ver= を DB の登録日時で作っていて、ファイルを差し替えても古い CSS が出続けた | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/container_cms/articles/css-ver-filemtime</id>
+        <link href="https://zenn.dev/container_cms/articles/css-ver-filemtime"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--fai4XpTK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%2520%25E3%2581%25AE%2520%253Fver%253D%2520%25E3%2582%2592%2520DB%2520%25E3%2581%25AE%25E7%2599%25BB%25E9%258C%25B2%25E6%2597%25A5%25E6%2599%2582%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25A6%25E3%2580%2581%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E5%25B7%25AE%25E3%2581%2597%25E6%259B%25BF%25E3%2581%2588%25E3%2581%25A6%25E3%2582%2582%25E5%258F%25A4%25E3%2581%2584%2520CSS%2520%25E3%2581%258C%25E5%2587%25BA%25E7%25B6%259A%25E3%2581%2591%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Container%25EF%25BC%2588%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViMzFjMGRiNjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T05:50:27.000Z</updated>
+        <summary type="html"><![CDATA[自社製 CMS で、サーバー上の CSS ファイルを差し替えたのに、ブラウザが古い CSS を使い続ける案件がありました。原因は、キャッシュ対策の ?ver= を DB の登録日時から作っていたことです。CSS ファイルの更新時刻（filemtime）を最優先にして、公開側とブロックプレビューの両方で直しました。 症状：CSS を直してもスーパーリロードするまで反映されないある案件で、SCSS を]]></summary>
+        <content type="html"><![CDATA[自社製 CMS で、サーバー上の CSS ファイルを差し替えたのに、ブラウザが古い CSS を使い続ける案件がありました。原因は、キャッシュ対策の ?ver= を DB の登録日時から作っていたことです。CSS ファイルの更新時刻（filemtime）を最優先にして、公開側とブロックプレビューの両方で直しました。 症状：CSS を直してもスーパーリロードするまで反映されないある案件で、SCSS をコンパイルした CSS をディスク同期で本番に置き直しました。ファイルの中身は新しくなっています。ところが、編集者のブラウザには古いデザインが出たままで、強制リロードをして初めて直...]]></content>
+        <author>
+            <name>Container（コンテナ）</name>
+        </author>
+        <published>2026-10-12T05:50:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手を動かして学ぶ React + TypeScript 実践入門 ― Vite で作る型安全なモダンフロントエンド（SPA） | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/pakku8914/books/react_frontend_training</id>
+        <link href="https://zenn.dev/pakku8914/books/react_frontend_training"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--e2toCPQl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lZGIxN2QzNjY4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" type="image/jpg"/>
+        <updated>2026-10-12T03:48:36.000Z</updated>
+        <summary type="html"><![CDATA[&amp;gt;「React で実際に動くWebアプリ（SPA）を、型安全に、実務レベルで作れるようになりたい」——本書は、ITパスポート程度のIT知識と HTML/CSS/JavaScript の基本はあるが React・TypeScript は初めて、という人を対象に、最初のコンポーネントから一貫して TypeScript で型を付けながら、JSX・props・状態管理（useState/useReduce]]></summary>
+        <content type="html"><![CDATA[&amp;gt;「React で実際に動くWebアプリ（SPA）を、型安全に、実務レベルで作れるようになりたい」——本書は、ITパスポート程度のIT知識と HTML/CSS/JavaScript の基本はあるが React・TypeScript は初めて、という人を対象に、最初のコンポーネントから一貫して TypeScript で型を付けながら、JSX・props・状態管理（useState/useReducer/Context）・副作用（useEffect）・フォームとバリデーション・ルーティング（React Router）・非同期API連携・テスト（Vitest + Testing Library）・ビルドとデプロイまでを一気通貫で身につける教材です。動作確認用の Docker 環境（Vite + React + TypeScript）を同梱し、Windows・Mac のどちらでも同じ手順で学べます。最終的に、API と連携する実用的な SPA を一人で設計・実装・テストできる状態を目指します。&amp;gt;- JSX/TSX・関数コンポーネント・型注釈の基礎を読み書きできるようになる- props を型付]]></content>
+        <author>
+            <name>Pakku8914</name>
+        </author>
+        <published>2026-10-12T03:48:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB開発と日常運用から学ぶ：パフォーマンスを落とさない画像処理と作業効率化のリアル | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/valleywag/articles/198063dc03f05f</id>
+        <link href="https://zenn.dev/valleywag/articles/198063dc03f05f"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--aPyLHPNz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WEB%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A8%25E6%2597%25A5%25E5%25B8%25B8%25E9%2581%258B%25E7%2594%25A8%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25EF%25BC%259A%25E3%2583%2591%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%2592%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2595%25E3%2581%25AA%25E3%2581%2584%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25A8%25E4%25BD%259C%25E6%25A5%25AD%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2581%25AE%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:valleywag%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvdi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-12T02:46:49.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！普段はWebプロダクトの運用やフロントエンド周りの改善、Webメディアの立ち上げに携わっているデベロッパーです。Zennコミュニティの皆さんは、日々表示速度のチューニングやUXの向上、日常の運用フローの効率化に励ましているかと思います。僕も普段の業務の中で「いかにサイトのパフォーマンス（表示速度）を保ちながら、魅力的なビジュアルコンテンツを効率よく作成・配置するか」という点によく頭を悩]]></summary>
+        <content type="html"><![CDATA[こんにちは！普段はWebプロダクトの運用やフロントエンド周りの改善、Webメディアの立ち上げに携わっているデベロッパーです。Zennコミュニティの皆さんは、日々表示速度のチューニングやUXの向上、日常の運用フローの効率化に励ましているかと思います。僕も普段の業務の中で「いかにサイトのパフォーマンス（表示速度）を保ちながら、魅力的なビジュアルコンテンツを効率よく作成・配置するか」という点によく頭を悩ませています。今回は、僕が日々のWeb開発・メディア運用で実践している「表示速度を損なわずに高品質なビジュアルを扱うTipsと作業フロー」について、実務ベースでお話ししてみようと思います。...]]></content>
+        <author>
+            <name>valleywag</name>
+        </author>
+        <published>2026-10-12T02:46:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAFスタブは cancelAnimationFrame まで揃えて、はじめてテストの契約になる | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/lazy_ai_dev/articles/raf-stub-cancel-contract</id>
+        <link href="https://zenn.dev/lazy_ai_dev/articles/raf-stub-cancel-contract"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--1gjsaMHd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAF%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2581%25AF%2520cancelAnimationFrame%2520%25E3%2581%25BE%25E3%2581%25A7%25E6%258F%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2580%2581%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25A5%2591%25E7%25B4%2584%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Lazy%2520AI%2520Dev%25EF%25BD%259C%25E3%2583%25A9%25E3%2583%2587%25E3%2582%25A3%2520%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzYmFiMGVmZmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-11T13:08:22.000Z</updated>
+        <summary type="html"><![CDATA[テストでは requestAnimationFrame（以下RAF）が本物のブラウザのようには動かないため、スタブに置き換えます。ところが、スタブが「呼べば動く」だけだと、止める処理（cancelAnimationFrame）が一度も試されないまま、テストが通ってしまうことがあります。筆者のゲームエンジン向けOSSのテストを読み返して、まさにその形を見つけました。確認した事実と、RAFスタブを「契]]></summary>
+        <content type="html"><![CDATA[テストでは requestAnimationFrame（以下RAF）が本物のブラウザのようには動かないため、スタブに置き換えます。ところが、スタブが「呼べば動く」だけだと、止める処理（cancelAnimationFrame）が一度も試されないまま、テストが通ってしまうことがあります。筆者のゲームエンジン向けOSSのテストを読み返して、まさにその形を見つけました。確認した事実と、RAFスタブを「契約」として扱う考え方をまとめます。 結論RAFスタブは、request と cancel を対で差し替える返すIDは、整数にする（本物のRAFが返すのは符号なし整数のリクエストID）...]]></content>
+        <author>
+            <name>Lazy AI Dev｜ラディ🐾</name>
+        </author>
+        <published>2026-10-11T13:08:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptはシングルスレッドなのになぜ非同期に動けるの？ Promise.allで3つのAPIを同時に待てる理由 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/nozeon/articles/js-single-thread-async</id>
+        <link href="https://zenn.dev/nozeon/articles/js-single-thread-async"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--Xaf-0NYs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JavaScript%25E3%2581%25AF%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E3%2582%25B9%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%259C%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2581%25AB%25E5%258B%2595%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25EF%25BC%259F%2520Promise.all%25E3%2581%25A73%25E3%2581%25A4%25E3%2581%25AEAPI%25E3%2582%2592%25E5%2590%258C%25E6%2599%2582%25E3%2581%25AB%25E5%25BE%2585...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nozeon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXZwRW5SaXlsbE5EZ1A4UWpIT3pwX3N2UXY5Q2pxM2NFTWM4UnZ4ZXFaVkQyaEdDWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-11T11:29:22.000Z</updated>
+        <summary type="html"><![CDATA[転職の面談で「JavaScriptがシングルスレッドとはどういうことですか」と聞かれて、答えられませんでした。それ以来、どう答えればよかったのかをずっと考えています。スレッドが1本しかないのに、なぜPromise.allは3つのAPIをまとめて待てるのか。そこを手元で測りながら理解しよう、というのがこの記事の趣旨です。 シングルスレッドなのに3つのAPIを同時に待てる JavaScriptのコード]]></summary>
+        <content type="html"><![CDATA[転職の面談で「JavaScriptがシングルスレッドとはどういうことですか」と聞かれて、答えられませんでした。それ以来、どう答えればよかったのかをずっと考えています。スレッドが1本しかないのに、なぜPromise.allは3つのAPIをまとめて待てるのか。そこを手元で測りながら理解しよう、というのがこの記事の趣旨です。 シングルスレッドなのに3つのAPIを同時に待てる JavaScriptのコードを実行するスレッドは1本スレッドとはプログラムの命令を1つずつ順に実行していく流れのことです。その流れが1本しかないことを、シングルスレッドと呼びます。MDN[1]の実行モデルの解...]]></content>
+        <author>
+            <name>nozeon</name>
+        </author>
+        <published>2026-10-11T11:29:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dog APIで比べる、useEffectとTanStack Queryのデータフェッチの違い | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/oimozenn/articles/37db7b1dd1fed4</id>
+        <link href="https://zenn.dev/oimozenn/articles/37db7b1dd1fed4"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--oS6EiZmW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dog%2520API%25E3%2581%25A7%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%258B%25E3%2580%2581useEffect%25E3%2581%25A8TanStack%2520Query%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2583%2581%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2584%25E3%2582%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxYmFhY2IwMTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-11T09:58:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに初めてReactを学ぶ時にuseEffectでデータフェッチすることを紹介されることが多いと思うのですが、Reactの公式ドキュメントや他の方の記事を読んでみると、useEffectを使ったデータフェッチには注意点が多く、フレームワークに組み込まれているデータフェッチ機構やライブラリの仕組みを使うことが勧められていました。Reactの公式ドキュメントより引用フレームワークを使用している場合]]></summary>
+        <content type="html"><![CDATA[はじめに初めてReactを学ぶ時にuseEffectでデータフェッチすることを紹介されることが多いと思うのですが、Reactの公式ドキュメントや他の方の記事を読んでみると、useEffectを使ったデータフェッチには注意点が多く、フレームワークに組み込まれているデータフェッチ機構やライブラリの仕組みを使うことが勧められていました。Reactの公式ドキュメントより引用フレームワークを使用している場合、組み込みのデータフェッチ機構を使用してください。モダンな React フレームワークには、効率的で上記の欠点がないデータフェッチ機構が統合されています。それ以外の場合は、クライア...]]></content>
+        <author>
+            <name>おいも</name>
+        </author>
+        <published>2026-10-11T09:58:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンポーネントがレイアウトを制御しない方がいい | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/ebi68k/articles/adca3b6bd5f615</id>
+        <link href="https://zenn.dev/ebi68k/articles/adca3b6bd5f615"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--f93Mvuoo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2582%2592%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E6%2596%25B9%25E3%2581%258C%25E3%2581%2584%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:EVE%253A%252Fi%2520%2528%25E3%2581%2588%25E3%2581%25B3%2529%2520%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1NGY3OTQ5YjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-11T08:01:57.000Z</updated>
+        <summary type="html"><![CDATA[きっかけ自身のcol幅やflex-directionをpropsで制御しているコンポーネントがあり、非常に使いづらいと思ったため。// ここではTailwind CSSにしてますconst COL_SPAN = { 2: "col-span-2", 4: "col-span-4", 6: "col-span-6",};function Card({ colSpan = 2, children })]]></summary>
+        <content type="html"><![CDATA[きっかけ自身のcol幅やflex-directionをpropsで制御しているコンポーネントがあり、非常に使いづらいと思ったため。// ここではTailwind CSSにしてますconst COL_SPAN = { 2: "col-span-2", 4: "col-span-4", 6: "col-span-6",};function Card({ colSpan = 2, children }) { return &amp;lt;div className={COL_SPAN[colSpan]}&amp;gt;{children}&amp;lt;/div&amp;gt;;} 言い...]]></content>
+        <author>
+            <name>EVE:/i (えび)🦐</name>
+        </author>
+        <published>2026-10-11T08:01:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンポーネントがレイアウトを制御しない方がいい | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/ebi68k/articles/adca3b6bd5f615</id>
+        <link href="https://zenn.dev/ebi68k/articles/adca3b6bd5f615"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--f93Mvuoo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2582%2592%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E6%2596%25B9%25E3%2581%258C%25E3%2581%2584%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:EVE%253A%252Fi%2520%2528%25E3%2581%2588%25E3%2581%25B3%2529%2520%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1NGY3OTQ5YjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-11T08:01:57.000Z</updated>
+        <summary type="html"><![CDATA[きっかけ自身のcol幅やflex-directionをpropsで制御しているコンポーネントがあり、非常に使いづらいと思ったため。// ここではTailwind CSSにしてますconst COL_SPAN = { 2: "col-span-2", 4: "col-span-4", 6: "col-span-6",};function Card({ colSpan = 2, children })]]></summary>
+        <content type="html"><![CDATA[きっかけ自身のcol幅やflex-directionをpropsで制御しているコンポーネントがあり、非常に使いづらいと思ったため。// ここではTailwind CSSにしてますconst COL_SPAN = { 2: "col-span-2", 4: "col-span-4", 6: "col-span-6",};function Card({ colSpan = 2, children }) { return &amp;lt;div className={COL_SPAN[colSpan]}&amp;gt;{children}&amp;lt;/div&amp;gt;;} 言い...]]></content>
+        <author>
+            <name>EVE:/i (えび)🦐</name>
+        </author>
+        <published>2026-10-11T08:01:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黒からクリーム色へ」配色を1週間で3回ひっくり返した話🎨 デザイントークンとドメイン色の聖域設計 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/charge0315/articles/ba835496f08cf2</id>
+        <link href="https://zenn.dev/charge0315/articles/ba835496f08cf2"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--6l28wuRO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25BB%2592%25E3%2581%258B%25E3%2582%2589%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25A0%25E8%2589%25B2%25E3%2581%25B8%25E3%2580%258D%25E9%2585%258D%25E8%2589%25B2%25E3%2582%25921%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A73%25E5%259B%259E%25E3%2581%25B2%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%2520%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E8%2589%25B2%25E3%2581%25AE%25E8%2581%2596%25E5%259F%259F%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2582%2583%25E3%2583%25BC%25E3%2581%2598%25EF%25BC%2588%25E5%2585%25AB%25E5%2592%25AB%25E7%2583%258F%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMzVhZDkyMDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T23:33:48.000Z</updated>
+        <summary type="html"><![CDATA[画面の配色を、まるごと全部ひっくり返すこと3回。それでも、一度も変えなかった色が2つだけあります。日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。といってもバグ障害ではなく、UIの配色を短期間に何度も全面的に作り変えたドタバタ劇と、それを手戻りなく爆速で回せたCSS設計のお話で]]></summary>
+        <content type="html"><![CDATA[画面の配色を、まるごと全部ひっくり返すこと3回。それでも、一度も変えなかった色が2つだけあります。日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。といってもバグ障害ではなく、UIの配色を短期間に何度も全面的に作り変えたドタバタ劇と、それを手戻りなく爆速で回せたCSS設計のお話です🎨!【要約：この記事で伝えたいこと】黒と青の無骨な端末風で始まったUIは、焦げ茶と橙、明るいクリーム色、モックの全面適用と、わずか1週間で3回ひっくり返った🔄すべての色を1枚のCS...]]></content>
+        <author>
+            <name>ちゃーじ（八咫烏）</name>
+        </author>
+        <published>2026-10-10T23:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黒からクリーム色へ」配色を1週間で3回ひっくり返した話🎨 デザイントークンとドメイン色の聖域設計 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/charge0315/articles/ba835496f08cf2</id>
+        <link href="https://zenn.dev/charge0315/articles/ba835496f08cf2"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--6l28wuRO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25BB%2592%25E3%2581%258B%25E3%2582%2589%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25A0%25E8%2589%25B2%25E3%2581%25B8%25E3%2580%258D%25E9%2585%258D%25E8%2589%25B2%25E3%2582%25921%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A73%25E5%259B%259E%25E3%2581%25B2%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%2520%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E8%2589%25B2%25E3%2581%25AE%25E8%2581%2596%25E5%259F%259F%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2582%2583%25E3%2583%25BC%25E3%2581%2598%25EF%25BC%2588%25E5%2585%25AB%25E5%2592%25AB%25E7%2583%258F%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMzVhZDkyMDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T23:33:48.000Z</updated>
+        <summary type="html"><![CDATA[画面の配色を、まるごと全部ひっくり返すこと3回。それでも、一度も変えなかった色が2つだけあります。日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。といってもバグ障害ではなく、UIの配色を短期間に何度も全面的に作り変えたドタバタ劇と、それを手戻りなく爆速で回せたCSS設計のお話で]]></summary>
+        <content type="html"><![CDATA[画面の配色を、まるごと全部ひっくり返すこと3回。それでも、一度も変えなかった色が2つだけあります。日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。といってもバグ障害ではなく、UIの配色を短期間に何度も全面的に作り変えたドタバタ劇と、それを手戻りなく爆速で回せたCSS設計のお話です🎨!【要約：この記事で伝えたいこと】黒と青の無骨な端末風で始まったUIは、焦げ茶と橙、明るいクリーム色、モックの全面適用と、わずか1週間で3回ひっくり返った🔄すべての色を1枚のCS...]]></content>
+        <author>
+            <name>ちゃーじ（八咫烏）</name>
+        </author>
+        <published>2026-10-10T23:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35日でフロントエンドの基礎を完全に理解する #8 - ディレクティブとレンダリング（v-if・v-for・バインディング） | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/kipcop/articles/f35-vue-08-directives</id>
+        <link href="https://zenn.dev/kipcop/articles/f35-vue-08-directives"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--sQx1TU2t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:35%25E6%2597%25A5%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25238%2520-%2520%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2581%25A8%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25EF%25BC%2588v-if%25E3%2583%25BBv-for%25E3%2583%25BB%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25B3...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T15:27:51.000Z</updated>
+        <summary type="html"><![CDATA[この記事で学ぶこと#7 で、ref で作った状態が変わると画面が自動で付いてくる仕組み（リアクティビティ）を学びました。今回はその「画面側」です。テンプレートの中で、状態を属性に差し込む（v-bind）、条件で出し分ける（v-if / v-show）、配列の件数ぶん繰り返す（v-for）という書き方を扱います。この3つが読めれば、実務の Vue テンプレートの大半は読めます。迷ったら🔴だけ確実に（]]></summary>
+        <content type="html"><![CDATA[この記事で学ぶこと#7 で、ref で作った状態が変わると画面が自動で付いてくる仕組み（リアクティビティ）を学びました。今回はその「画面側」です。テンプレートの中で、状態を属性に差し込む（v-bind）、条件で出し分ける（v-if / v-show）、配列の件数ぶん繰り返す（v-for）という書き方を扱います。この3つが読めれば、実務の Vue テンプレートの大半は読めます。迷ったら🔴だけ確実に（🔴 覚える、🟡 理屈、⚪ 流す）。!コードは #6 で作った Vue プロジェクトの App.vue に貼って動かせます。この記事に載せた「描画結果」はすべて、実際にマウントして D...]]></content>
+        <author>
+            <name>k.ike</name>
+        </author>
+        <published>2026-10-10T15:27:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactのコンポーネント設計原則 ― 入門から実務で迷わないための指針 | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/akinori901/articles/20260902-plan017</id>
+        <link href="https://zenn.dev/akinori901/articles/20260902-plan017"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--LE8eB4e_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%25E5%258E%259F%25E5%2589%2587%2520%25E2%2580%2595%2520%25E5%2585%25A5%25E9%2596%2580%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E5%258B%2599%25E3%2581%25A7%25E8%25BF%25B7%25E3%2582%258F%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%258C%2587%25E9%2587%259D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T04:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Reactのコンポーネント設計原則 概要Reactを書き始めると、まず動くものは作れます。しかしプロジェクトが育つにつれ「このコンポーネント、どこまで責務を持たせるべきか」「propsが増えすぎて扱いづらい」「状態をどこに置けばいいか分からない」といった悩みに必ずぶつかります。この記事は、React初学者から中級者への橋渡しを目的に、実務で迷わないためのコンポーネント設計原則を体系的に整理します。]]></summary>
+        <content type="html"><![CDATA[Reactのコンポーネント設計原則 概要Reactを書き始めると、まず動くものは作れます。しかしプロジェクトが育つにつれ「このコンポーネント、どこまで責務を持たせるべきか」「propsが増えすぎて扱いづらい」「状態をどこに置けばいいか分からない」といった悩みに必ずぶつかります。この記事は、React初学者から中級者への橋渡しを目的に、実務で迷わないためのコンポーネント設計原則を体系的に整理します。特定のライブラリやフレームワークに依存しない、普遍的な考え方を中心に扱います。 対象読者Reactの基本文法（JSX、props、state、useState/useEffe...]]></content>
+        <author>
+            <name>Akinori901</name>
+        </author>
+        <published>2026-10-10T04:47:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【石巻ハッカソン2026 IT Boot Camp部門】AIでプログラミング体験！ | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/is0629sy/books/it-boot-camp-2026</id>
+        <link href="https://zenn.dev/is0629sy/books/it-boot-camp-2026"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--esXIPfWN--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci80YjM5NzMyYTE0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" type="image/jpg"/>
+        <updated>2026-10-10T03:32:05.000Z</updated>
+        <summary type="html"><![CDATA[石巻ハッカソン2026 IT Boot Camp部門で使用する教材です。この教材を通してAIを活用してプログラミングを体験してみましょう！]]></summary>
+        <content type="html"><![CDATA[石巻ハッカソン2026 IT Boot Camp部門で使用する教材です。この教材を通してAIを活用してプログラミングを体験してみましょう！]]></content>
+        <author>
+            <name>is0629sy/GB</name>
+        </author>
+        <published>2026-10-10T03:32:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEBアクセシビリティを高める画像alt属性の最適化手法と効率化のアプローチ | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/valleywag/articles/710c2e557aa038</id>
+        <link href="https://zenn.dev/valleywag/articles/710c2e557aa038"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--bBAI6s5o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WEB%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B7%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E9%25AB%2598%25E3%2582%2581%25E3%2582%258B%25E7%2594%25BB%25E5%2583%258Falt%25E5%25B1%259E%25E6%2580%25A7%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E6%2589%258B%25E6%25B3%2595%25E3%2581%25A8%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:valleywag%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvdi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T03:18:12.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアやWeb制作に関わるみなさん、こんにちは！普段フロントエンドの実装やテックブログを書く際、画像の alt 属性（代替テキスト）ってどう設計していますか？「とりあえず画像の説明を入れておけばOKでしょ」「飾り画像だから空文字でいいや」と適当に済ませてしまうことも多いかもしれません。しかし、アクセシビリティの向上だけでなく、LLM（大規模言語モデル）や検索エンジンがページ構造を正確に理解する]]></summary>
+        <content type="html"><![CDATA[エンジニアやWeb制作に関わるみなさん、こんにちは！普段フロントエンドの実装やテックブログを書く際、画像の alt 属性（代替テキスト）ってどう設計していますか？「とりあえず画像の説明を入れておけばOKでしょ」「飾り画像だから空文字でいいや」と適当に済ませてしまうことも多いかもしれません。しかし、アクセシビリティの向上だけでなく、LLM（大規模言語モデル）や検索エンジンがページ構造を正確に理解する上でも、適切な alt テキストの設定は今や欠かせない要素となっています。今回は、成果に繋がる適切な alt 属性の書き方と、日々の運用負担を減らすための効率化テクニックについて解説します！...]]></content>
+        <author>
+            <name>valleywag</name>
+        </author>
+        <published>2026-10-10T03:18:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleマップをグレースケールにしてよいか — 答えは地図の載せ方で変わる | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/shunei/articles/google-maps-attribution-grayscale</id>
+        <link href="https://zenn.dev/shunei/articles/google-maps-attribution-grayscale"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--Mtb5eG8q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2583%259E%25E3%2583%2583%25E3%2583%2597%25E3%2582%2592%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2588%25E3%2581%2584%25E3%2581%258B%2520%25E2%2580%2594%2520%25E7%25AD%2594%25E3%2581%2588%25E3%2581%25AF%25E5%259C%25B0%25E5%259B%25B3%25E3%2581%25AE%25E8%25BC%2589%25E3%2581%259B%25E6%2596%25B9%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shunei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FmZjM2YzEwODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-10T01:38:07.000Z</updated>
+        <summary type="html"><![CDATA[地図をセクションの背景に敷き、サイトの配色に合わせてグレースケールにし、上から暗い幕をかけ、下端に住所や営業時間のパネルを重ねる構成の店舗サイトがあります。この構成をとっている実在のサイトを1件調べたところ（2026年9月1日）、Google の帰属表示が1つも見えていませんでした。グレースケールのフィルタ、暗幕、下部のパネルを一時的に外すと、カラーのロゴ、地図データ ©2026 Google、利]]></summary>
+        <content type="html"><![CDATA[地図をセクションの背景に敷き、サイトの配色に合わせてグレースケールにし、上から暗い幕をかけ、下端に住所や営業時間のパネルを重ねる構成の店舗サイトがあります。この構成をとっている実在のサイトを1件調べたところ（2026年9月1日）、Google の帰属表示が1つも見えていませんでした。グレースケールのフィルタ、暗幕、下部のパネルを一時的に外すと、カラーのロゴ、地図データ ©2026 Google、利用規約 のリンクが出てきます。色を変えられ、覆われていただけで、消されてはいませんでした。同じ構成を手元のテストページで組み直してみると、同じ結果になります。共有メニューから取った埋め込みの...]]></content>
+        <author>
+            <name>Shunei</name>
+        </author>
+        <published>2026-10-10T01:38:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印刷用 HTML を Worker で生成する構成：PDF なしで A4 1枚の表 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/sakidori/articles/20261008-print-html-worker-a4-table</id>
+        <link href="https://zenn.dev/sakidori/articles/20261008-print-html-worker-a4-table"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--9zMF92r0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258D%25B0%25E5%2588%25B7%25E7%2594%25A8%2520HTML%2520%25E3%2582%2592%2520Worker%2520%25E3%2581%25A7%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E6%25A7%258B%25E6%2588%2590%25EF%25BC%259APDF%2520%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%2520A4%25201%25E6%259E%259A%25E3%2581%25AE%25E8%25A1%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T21:11:45.000Z</updated>
+        <summary type="html"><![CDATA[この記事の対象読者Cloudflare Workers の無料プランで、帳票や記録表のような「印刷して渡す1枚」を返したい人サーバーレス環境で PDF 生成ライブラリを入れるか迷っていて、日本語フォントの扱いで止まっている人1か月分の記録を D1 から取り出して、紙に収まる表に組み直す実装例を見たい人向かない人：レイアウトを1ミリ単位で固定した PDF を、相手の環境に依存せず配布する必要がある人]]></summary>
+        <content type="html"><![CDATA[この記事の対象読者Cloudflare Workers の無料プランで、帳票や記録表のような「印刷して渡す1枚」を返したい人サーバーレス環境で PDF 生成ライブラリを入れるか迷っていて、日本語フォントの扱いで止まっている人1か月分の記録を D1 から取り出して、紙に収まる表に組み直す実装例を見たい人向かない人：レイアウトを1ミリ単位で固定した PDF を、相手の環境に依存せず配布する必要がある人。そこはブラウザの印刷に任せる構成では届きません。 用語言葉説明CloudflareCDN と DNS を提供している会社。開発者向けに、以下の Wor...]]></content>
+        <author>
+            <name>sakidori</name>
+        </author>
+        <published>2026-10-09T21:11:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Good Choices for HTML Containers | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11290</id>
+        <link href="https://blog.master.dev/5-good-choices-for-html-containers/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11290" type="image//wp-json/social-image-generator/v1/image/11290"/>
+        <updated>2026-10-09T15:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Divs and spans are fine, but purposefully meaningless. Often the meaning actually matters, so let's look at some of those situations.]]></summary>
+        <content type="html"><![CDATA[Divs and spans are fine, but purposefully meaningless. Often the meaning actually matters, so let's look at some of those situations.]]></content>
+        <author>
+            <name>Preethi Sam</name>
+        </author>
+        <category label="Blog Post"/>
+        <published>2026-10-09T15:24:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35日でフロントエンドの基礎を完全に理解する #7 - リアクティビティ（ref・computed・watch） | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/kipcop/articles/f35-vue-07-reactivity</id>
+        <link href="https://zenn.dev/kipcop/articles/f35-vue-07-reactivity"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--PblJNnuv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:35%25E6%2597%25A5%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25237%2520-%2520%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2593%25E3%2583%2586%25E3%2582%25A3%25EF%25BC%2588ref%25E3%2583%25BBcomputed%25E3%2583%25BBwatch%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T14:35:05.000Z</updated>
+        <summary type="html"><![CDATA[この記事で学ぶこと#6 で「状態を変えると画面が自動で更新される」のが Vue の核心だと言いました。今回はその仕組みの中心、リアクティビティ を正面から扱います。登場するのは ref・computed・watch の3つ。Vue のコードを読むなら避けて通れない、毎日使う道具です。迷ったら🔴だけ確実に（🔴 覚える、🟡 理屈、⚪ 流す）。!挙動は Vue プロジェクト（#6 で作ったもの）の中や、]]></summary>
+        <content type="html"><![CDATA[この記事で学ぶこと#6 で「状態を変えると画面が自動で更新される」のが Vue の核心だと言いました。今回はその仕組みの中心、リアクティビティ を正面から扱います。登場するのは ref・computed・watch の3つ。Vue のコードを読むなら避けて通れない、毎日使う道具です。迷ったら🔴だけ確実に（🔴 覚える、🟡 理屈、⚪ 流す）。!挙動は Vue プロジェクト（#6 で作ったもの）の中や、Node.js で vue を import して確かめられます。この記事の出力例はすべて実際に動かした結果です。 🔴 ref：変化が追跡される「リアクティブな値」ref ...]]></content>
+        <author>
+            <name>k.ike</name>
+        </author>
+        <published>2026-10-09T14:35:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロからはじめるWebアプリ入門 〜自己紹介カードからAIチャットまで、4つのアプリを作りながら学ぶ〜 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/funayamateppei/books/b494c29818551a</id>
+        <link href="https://zenn.dev/funayamateppei/books/b494c29818551a"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--dS3tvlBH--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8yMzQ4Nzg5OWQ4LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" type="image/jpg"/>
+        <updated>2026-10-09T07:31:11.000Z</updated>
+        <summary type="html"><![CDATA[プログラミングをこれから始める人向けに、HTML・CSS・JavaScript の基本から、Web API、OpenAI API を使った AI チャットまでを、4つの小さなアプリを作りながら学ぶ入門書です。自己紹介カード、じゃんけんゲーム、お天気チェッカー、AIチャット。各章で1つずつアプリが完成するので、「できた！」を積み重ねながら読み進められます。中学生・高校生でも読めるように、専門用語はで]]></summary>
+        <content type="html"><![CDATA[プログラミングをこれから始める人向けに、HTML・CSS・JavaScript の基本から、Web API、OpenAI API を使った AI チャットまでを、4つの小さなアプリを作りながら学ぶ入門書です。自己紹介カード、じゃんけんゲーム、お天気チェッカー、AIチャット。各章で1つずつアプリが完成するので、「できた！」を積み重ねながら読み進められます。中学生・高校生でも読めるように、専門用語はできるだけかみ砕いて説明しています。第1章〜第3章のアプリは、追加の費用や外部サービスへの登録なしで作れます（第4章のみ OpenAI API の利用料がかかります）。]]></content>
+        <author>
+            <name>ふなむし</name>
+        </author>
+        <published>2026-10-09T07:31:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーダーからフロントエンドエンジニアへ #1-60｜群Fの復習とミニ演習──メソッドを確かめてオブジェクトへ | Zennの「frontend」のフィード]]></title>
+        <id>https://zenn.dev/koenjineer/articles/ff45c247b78c8a</id>
+        <link href="https://zenn.dev/koenjineer/articles/ff45c247b78c8a"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--yb39YE_L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%258B%25E3%2582%2589%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25B8%2520%25231-60%25EF%25BD%259C%25E7%25BE%25A4F%25E3%2581%25AE%25E5%25BE%25A9%25E7%25BF%2592%25E3%2581%25A8%25E3%2583%259F%25E3%2583%258B%25E6%25BC%2594%25E7%25BF%2592%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A1%25E3%2582%25BD%25E3%2583%2583%25E3%2583%2589%25E3%2582%2592%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%25A6%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiro%25EF%25BD%259CAI%2520x%2520Frontend...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1ZTZkOTIyNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T07:20:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに群F「配列メソッド」は、今回で最終回です。#1-46 の forEach から前回の「使い分けの地図」まで、14記事にわたって配列メソッドを学んできました。map・filter・find・reduce・toSorted・flatMap と、道具の数はかなり増えました。ただ、ひとつひとつ理解できていても、「並べて出されると手が止まる」のが配列メソッドの難しいところです。そこで今回は、群Fの内]]></summary>
+        <content type="html"><![CDATA[はじめに群F「配列メソッド」は、今回で最終回です。#1-46 の forEach から前回の「使い分けの地図」まで、14記事にわたって配列メソッドを学んできました。map・filter・find・reduce・toSorted・flatMap と、道具の数はかなり増えました。ただ、ひとつひとつ理解できていても、「並べて出されると手が止まる」のが配列メソッドの難しいところです。そこで今回は、群Fの内容を5つのテーマに整理し直したうえで、ミニ演習8問で「本当に読めるようになったか」を確かめます。最後に、ここまで何気なく書いてきた p.name の p が何者なのかを取り上げて、群G...]]></content>
+        <author>
+            <name>Hiro｜AI x Frontend Engineer</name>
+        </author>
+        <published>2026-10-09T07:20:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexboxの中央揃えは、縦と横より「軸」で考える | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/japan_pds838a/articles/flexbox-main-cross-axis</id>
+        <link href="https://zenn.dev/japan_pds838a/articles/flexbox-main-cross-axis"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--wEJnPXTW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flexbox%25E3%2581%25AE%25E4%25B8%25AD%25E5%25A4%25AE%25E6%258F%2583%25E3%2581%2588%25E3%2581%25AF%25E3%2580%2581%25E7%25B8%25A6%25E3%2581%25A8%25E6%25A8%25AA%25E3%2582%2588%25E3%2582%258A%25E3%2580%258C%25E8%25BB%25B8%25E3%2580%258D%25E3%2581%25A7%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kimtaehyeong%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0gycnVSR2hCcHE0VHdBb3AyZ2kzN2I4eVc4ZGZTMlRTNlBOT2t6TEJWM3h5NkRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T05:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Flexboxの整列で使うjustify-contentとalign-itemsは、横方向と縦方向として覚えるより、主軸と交差軸で考える方が分かりやすい。flex-directionを変えると、その軸の向きも変わる。 まず親にdisplay: flexを書く並べたい要素を一つの親要素で囲み、親にdisplay: flexを指定する。親がフレックスコンテナー、その直接の子がフレックスアイテムになる。]]></summary>
+        <content type="html"><![CDATA[Flexboxの整列で使うjustify-contentとalign-itemsは、横方向と縦方向として覚えるより、主軸と交差軸で考える方が分かりやすい。flex-directionを変えると、その軸の向きも変わる。 まず親にdisplay: flexを書く並べたい要素を一つの親要素で囲み、親にdisplay: flexを指定する。親がフレックスコンテナー、その直接の子がフレックスアイテムになる。&amp;lt;div class="container"&amp;gt; &amp;lt;div class="item"&amp;gt;HTML&amp;lt;/div&amp;gt; &amp;lt;div class="ite...]]></content>
+        <author>
+            <name>kimtaehyeong</name>
+        </author>
+        <published>2026-10-09T05:35:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[paddingとmarginの違いを、箱の大きさから整理する | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/japan_pds838a/articles/4433adaf5dc811</id>
+        <link href="https://zenn.dev/japan_pds838a/articles/4433adaf5dc811"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--8OtP6QSY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:padding%25E3%2581%25A8margin%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E3%2580%2581%25E7%25AE%25B1%25E3%2581%25AE%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%2595%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kimtaehyeong%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0gycnVSR2hCcHE0VHdBb3AyZ2kzN2I4eVc4ZGZTMlRTNlBOT2t6TEJWM3h5NkRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T05:32:48.000Z</updated>
+        <summary type="html"><![CDATA[CSSの余白にはpaddingとmarginがある。どちらも空間を作る指定だけれど、空間ができる場所が違う。要素の幅を考えるときにはbox-sizingも関係するので、一緒に整理してみようと思う。 箱の内側と外側要素の箱は、内側から次の順番で考える。内容 → padding → border → margin내용 → 안쪽 여백 → 테두리 → 바깥쪽 여백paddingは内容と枠線の間にある余白]]></summary>
+        <content type="html"><![CDATA[CSSの余白にはpaddingとmarginがある。どちらも空間を作る指定だけれど、空間ができる場所が違う。要素の幅を考えるときにはbox-sizingも関係するので、一緒に整理してみようと思う。 箱の内側と外側要素の箱は、内側から次の順番で考える。内容 → padding → border → margin내용 → 안쪽 여백 → 테두리 → 바깥쪽 여백paddingは内容と枠線の間にある余白。marginは枠線の外側にある余白になる。背景色は通常paddingの部分にも表示されるが、marginの部分には表示されない。例えばカードを作るなら、文字が枠に近すぎないように...]]></content>
+        <author>
+            <name>kimtaehyeong</name>
+        </author>
+        <published>2026-10-09T05:32:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス]]></title>
+        <id>https://coliss.com/?p=85582</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/2026100901@2x.png" type="image/png"/>
+        <updated>2026-10-09T05:21:49.000Z</updated>
+        <summary type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデートしている中、なんとE […]]]></summary>
+        <content type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデートしている中、なんとE […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="excel"/>
+        <category label="PowerPoint"/>
+        <category label="word"/>
+        <published>2026-10-09T05:21:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auto-fitとauto-fill、最小幅と1frの落とし穴を実測する | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/yamada_frontend/articles/css-grid-repeat-minmax</id>
+        <link href="https://zenn.dev/yamada_frontend/articles/css-grid-repeat-minmax"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--w49N8SoS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:auto-fit%25E3%2581%25A8auto-fill%25E3%2580%2581%25E6%259C%2580%25E5%25B0%258F%25E5%25B9%2585%25E3%2581%25A81fr%25E3%2581%25AE%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E7%25A9%25B4%25E3%2582%2592%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamada%2520Frontend%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzM2VmMTZiODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[カード一覧にrepeat(auto-fit, minmax(240px, 1fr))を使うと、列数を自動で調整できます。ただし、カードが少ない場合、親が240pxより狭い場合、子の内容が長い場合では、別々の判断が必要です。この記事では8ケースを実測し、列数、列幅、内容のはみ出しを分けて確認します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認で]]></summary>
+        <content type="html"><![CDATA[カード一覧にrepeat(auto-fit, minmax(240px, 1fr))を使うと、列数を自動で調整できます。ただし、カードが少ない場合、親が240pxより狭い場合、子の内容が長い場合では、別々の判断が必要です。この記事では8ケースを実測し、列数、列幅、内容のはみ出しを分けて確認します。 再現デモと測定条件23ケースの再現デモのソースを保存してブラウザーで開くと、各ケースと実測表を確認できます。この記事で使うケース名は表に記載しています。2026年9月29日、Chromium（ユーザーエージェント上のバージョンはChrome 154）で確認しました。数値はCSS px...]]></content>
+        <author>
+            <name>Yamada Frontend Lab</name>
+        </author>
+        <published>2026-10-09T04:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an accessibility designer adds keyboard shortcuts to a web app | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11340</id>
+        <link href="https://blog.master.dev/how-an-accessibility-designer-adds-keyboard-shortcuts-to-a-web-app/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11340" type="image//wp-json/social-image-generator/v1/image/11340"/>
+        <updated>2026-10-09T01:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Eric Bailey explains the thinking and research that go into adding just a few custom keyboard shortcuts to a web app. There’s an absolute ton to consider and test, and plenty of challenges can come fr]]></summary>
+        <content type="html"><![CDATA[Eric Bailey explains the thinking and research that go into adding just a few custom keyboard shortcuts to a web app. There’s an absolute ton to consider and test, and plenty of challenges can come from your own team.]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="The Beat"/>
+        <category label="Keyboard Shortcuts"/>
+        <published>2026-10-09T01:38:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS のカスタムCSSでコメント欄の見た目を変えるときの4つのコツ（わんコメのテンプレートなど） | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/panda_studio/articles/b726857f0e5e5c</id>
+        <link href="https://zenn.dev/panda_studio/articles/b726857f0e5e5c"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--idnyf2CD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OBS%2520%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0CSS%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E6%25AC%2584%25E3%2581%25AE%25E8%25A6%258B%25E3%2581%259F%25E7%259B%25AE%25E3%2582%2592%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE4%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2584%25EF%25BC%2588%25E3%2582%258F%25E3%2582%2593%25E3%2582%25B3%25E3%2583%25A1%25E3%2581%25AE%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AA%25E3%2581%25A9%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-09T00:40:50.000Z</updated>
+        <summary type="html"><![CDATA[結論!OBS のカスタムCSSは、ページの読み込みが終わったあとに &amp;lt;head&amp;gt; の一番最後へ足されます。足すときは欄の一番最後の行の下に書き、テーマ側に勝たせたい行には !important を付けます。部品を消すときは display: none を使います。幅や大きさを 0 にするだけでは、縁取り・外側の線（outline）・影が小さな点として残ります（box-sizing: border-]]></summary>
+        <content type="html"><![CDATA[結論!OBS のカスタムCSSは、ページの読み込みが終わったあとに &amp;lt;head&amp;gt; の一番最後へ足されます。足すときは欄の一番最後の行の下に書き、テーマ側に勝たせたい行には !important を付けます。部品を消すときは display: none を使います。幅や大きさを 0 にするだけでは、縁取り・外側の線（outline）・影が小さな点として残ります（box-sizing: border-box のため）。::before ::after の飾りを「初見さんのときだけ」消すと、ふつうのコメントにもある飾りまで消えることがあります。確かめるときは「消えた...]]></content>
+        <author>
+            <name>panda studio</name>
+        </author>
+        <published>2026-10-09T00:40:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この本を読んで、画像生成AIが思い通りにできるようになった！ かなりお勧めの解説書 -画像・動画生成AI スタートガイド | コリス]]></title>
+        <id>https://coliss.com/?p=84481</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784815637675.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/9784815637675-01@2x.png" type="image/png"/>
+        <updated>2026-10-09T00:36:58.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 私は画像生成AIを使い始めて2年ほど経ちますが、最近はかなり簡単に画像生成AIを使用できるようになりましたね！ 進化し続けている画像生成AIについて基礎知識から環境構築 […]]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 私は画像生成AIを使い始めて2年ほど経ちますが、最近はかなり簡単に画像生成AIを使用できるようになりましたね！ 進化し続けている画像生成AIについて基礎知識から環境構築 […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Book Review"/>
+        <category label="ai"/>
+        <category label="SBクリエイティブ"/>
+        <published>2026-10-09T00:36:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/gpuai_engine.html</id>
+        <link href="https://www.publickey1.jp/blog/26/gpuai_engine.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/sakura-aiengine-private-la.png" type="image/png"/>
+        <updated>2026-10-08T15:49:01.000Z</updated>
+        <summary type="html"><![CDATA[さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...]]></summary>
+        <content type="html"><![CDATA[さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...]]></content>
+        <published>2026-10-08T15:49:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geminiが出力するコードブロックの右に消える君を折り返して見たい。 | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/187gm/articles/0e6ad22c7fd1e2</id>
+        <link href="https://zenn.dev/187gm/articles/0e6ad22c7fd1e2"/>
+        <link rel="enclosure" href="https://res.cloudinary.com/zenn/image/upload/s--pYhaQI1q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemini%25E3%2581%258C%25E5%2587%25BA%25E5%258A%259B%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AE%25E5%258F%25B3%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E5%2590%259B%25E3%2582%2592%25E6%258A%2598%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%259F%25E3%2581%2584%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2581%25A8%25E3%2581%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkMzc0Y2JlODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" type="image/png"/>
+        <updated>2026-10-08T13:33:15.000Z</updated>
+        <summary type="html"><![CDATA[結論https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=jaでpre,code,code-block,div[class*="code-block"] pre { white-space: pre-wrap !important; word-break: break-word !im]]></summary>
+        <content type="html"><![CDATA[結論https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=jaでpre,code,code-block,div[class*="code-block"] pre { white-space: pre-wrap !important; word-break: break-word !important; overflow-x: hidden !important; padding-right: 24px !important; /* 右側の余白の...]]></content>
+        <author>
+            <name>ひとつ</name>
+        </author>
+        <published>2026-10-08T13:33:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript入門 - タイマーアプリを作ってみよう! | Zennの「CSS」のフィード]]></title>
+        <id>https://zenn.dev/eguchi244_dev/books/js-timer-tutorial-eguchi244</id>
+        <link href="https://zenn.dev/eguchi244_dev/books/js-timer-tutorial-eguchi244"/>
+        <link rel="enclosure" href="https://static.zenn.studio/images/logo-only-dark.png" type="image/png"/>
+        <updated>2026-10-08T12:41:41.000Z</updated>
+        <summary type="html"><![CDATA[フレームワークを使わない素の JavaScript（Vanilla JS）で、カウントダウンタイマーとストップウォッチを作る書籍です。setInterval によるタイマー制御、状態から画面を作る考え方、Date.now() を使ったずれないタイマー、Web Audio API と async/await まで、3つのフェーズに分けて段階的に完成させます。各章の末尾に答え合わせ用のソースコードを掲]]></summary>
+        <content type="html"><![CDATA[フレームワークを使わない素の JavaScript（Vanilla JS）で、カウントダウンタイマーとストップウォッチを作る書籍です。setInterval によるタイマー制御、状態から画面を作る考え方、Date.now() を使ったずれないタイマー、Web Audio API と async/await まで、3つのフェーズに分けて段階的に完成させます。各章の末尾に答え合わせ用のソースコードを掲載しています。手を動かしながら JavaScript の基礎を身につけましょう。]]></content>
+        <author>
+            <name>eguchi244</name>
+        </author>
+        <published>2026-10-08T12:41:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス]]></title>
+        <id>https://coliss.com/?p=85533</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png" type="image/png"/>
+        <updated>2026-10-08T00:36:52.000Z</updated>
+        <summary type="html"><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPh […]]]></summary>
+        <content type="html"><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPh […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="adobe"/>
+        <published>2026-10-08T00:36:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能 | コリス]]></title>
+        <id>https://coliss.com/?p=85199</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/2026100701@2x.png" type="image/png"/>
+        <updated>2026-10-08T00:26:59.000Z</updated>
+        <summary type="html"><![CDATA[10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols()関数、装飾線の見 […]]]></summary>
+        <content type="html"><![CDATA[10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols()関数、装飾線の見 […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="サイト構築 -CSS"/>
+        <category label="ブラウザ -Chrome"/>
+        <published>2026-10-08T00:26:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表 | Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</id>
+        <link href="https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html"/>
+        <link rel="enclosure" href="https://www.publickey1.jp/2026/HTgqiiqaQAAH1MK.jpg" type="image/jpg"/>
+        <updated>2026-10-07T15:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...]]></summary>
+        <content type="html"><![CDATA[Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...]]></content>
+        <published>2026-10-07T15:59:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing an iframe’s postMessage Handler | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11245</id>
+        <link href="https://blog.master.dev/testing-an-iframes-postmessage-handler/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11245" type="image//wp-json/social-image-generator/v1/image/11245"/>
+        <updated>2026-10-07T15:23:18.000Z</updated>
+        <summary type="html"><![CDATA[There are some real complexities using iframes and the postMessage API for communication between a widget and its parent. Security vulnerabilities like cross-origin scripting risks being one.]]></summary>
+        <content type="html"><![CDATA[There are some real complexities using iframes and the postMessage API for communication between a widget and its parent. Security vulnerabilities like cross-origin scripting risks being one.]]></content>
+        <author>
+            <name>Keshav Malik</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="iframes"/>
+        <category label="JavaScript"/>
+        <category label="postMessage"/>
+        <category label="Security"/>
+        <published>2026-10-07T15:23:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in WebGPU (Chrome 155-156) | developer.chrome.com: Blog]]></title>
+        <id>https://developer.chrome.com/blog/new-in-webgpu-155-156?hl=en</id>
+        <link href="https://developer.chrome.com/blog/new-in-webgpu-155-156"/>
+        <link rel="enclosure" href="https://developer.chrome.com/static/blog/new-in-webgpu-155-156/image/new-in-webgpu-155-156.png?hl=de" type="image/png"/>
+        <updated>2026-10-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WGSL fragment_depth extension, texture compression unaligned, srgb-linear and display-p3-linear color spaces, snorm10-10-10-2 vertex format, and more.]]></summary>
+        <content type="html"><![CDATA[WGSL fragment_depth extension, texture compression unaligned, srgb-linear and display-p3-linear color spaces, snorm10-10-10-2 vertex format, and more.]]></content>
+        <published>2026-10-07T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGアイコンを探すときにこれは便利！ 無料で商用利用できるアイコンのライブラリを横断検索できる便利サイト -IconsDB | コリス]]></title>
+        <id>https://coliss.com/?p=85252</id>
+        <link href="https://coliss.com/articles/freebies/iconsdb-app.html"/>
+        <link rel="enclosure" href="https://coliss.com/wp-content/uploads-202604/2026100301@2x.gif" type="image/gif"/>
+        <updated>2026-10-07T00:36:13.000Z</updated>
+        <summary type="html"><![CDATA[これまでたくさんのSVGアイコンのライブラリを紹介しましたが、それらのほとんどをひとまとめに閲覧・検索できる便利なサイトを紹介します。 複数のアイコンライブラリを横断検索してSVGアイコンをダウンロードでき、さらにはサイ […]]]></summary>
+        <content type="html"><![CDATA[これまでたくさんのSVGアイコンのライブラリを紹介しましたが、それらのほとんどをひとまとめに閲覧・検索できる便利なサイトを紹介します。 複数のアイコンライブラリを横断検索してSVGアイコンをダウンロードでき、さらにはサイ […]]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Freebies"/>
+        <category label="icon"/>
+        <category label="svg"/>
+        <published>2026-10-07T00:36:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2027 | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11334</id>
+        <link href="https://blog.master.dev/interop-2027/"/>
+        <link rel="enclosure" href="https://blog.master.dev/wp-json/social-image-generator/v1/image/11334" type="image//wp-json/social-image-generator/v1/image/11334"/>
+        <updated>2026-10-06T22:13:32.000Z</updated>
+        <summary type="html"><![CDATA[I should have noted this sooner (sorry!), but it’s that time of year when Interop is planning for next year. Submissions are closed, and now they spend time refining and culling the proposals. We’ll h]]></summary>
+        <content type="html"><![CDATA[I should have noted this sooner (sorry!), but it’s that time of year when Interop is planning for next year. Submissions are closed, and now they spend time refining and culling the proposals. We’ll hear on February 4th, 2027 what the focus will be on. I believe there is still time to “vote” (meaning basically […]]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="The Beat"/>
+        <category label="border-shape"/>
+        <category label="Color"/>
+        <category label="Interest Invokers"/>
+        <category label="Interop"/>
+        <category label="Web Standards"/>
+        <published>2026-10-06T22:13:32.000Z</published>
+    </entry>
+</feed>
